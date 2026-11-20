@@ -92,6 +92,14 @@
 
         footer { border-top: 0.5px solid var(--border); padding: 2rem clamp(1.5rem,5vw,4rem); text-align: center; font-size: 12px; color: var(--muted); }
 
+        .results-bar { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin: -0.5rem 0 1.25rem; font-size: 13px; color: var(--muted); }
+        .results-bar select { font: inherit; color: var(--text); background: var(--surface); border: 0.5px solid var(--border); border-radius: 8px; padding: 6px 10px; margin-left: 6px; }
+        .featured { margin-bottom: 2.25rem; }
+        .featured h2 { font-size: 13px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--green-dk); margin-bottom: 12px; }
+        .featured .role-card { background: var(--mint); }
+        .more-wrap { text-align: center; margin: 2rem 0 0; }
+        .more-btn { font: 500 14px 'DM Sans', sans-serif; color: var(--forest); background: var(--surface); border: 0.5px solid var(--border); border-radius: 10px; padding: 12px 28px; cursor: pointer; transition: border-color .2s; }
+        .more-btn:hover { border-color: var(--green); }
         @media (max-width: 640px) {
             .roles-grid { grid-template-columns: 1fr; }
         }
@@ -113,8 +121,11 @@
     </div>
 
     <div class="filter-tags" id="categories"></div>
+    <div class="results-bar"><span id="count" aria-live="polite"></span><label><span id="t-sort">Sort</span><select id="sort" onchange="filterRoles()"><option value="alpha" id="o-alpha">A–Z</option><option value="cat" id="o-cat">By category</option></select></label></div>
+    <section class="featured" id="featured" hidden><h2 id="t-feat">Popular guides</h2><div class="roles-grid" id="featuredGrid"></div></section>
 
     <div class="roles-grid" id="rolesContainer"></div>
+    <div class="more-wrap"><button type="button" class="more-btn" id="more-btn" onclick="showMore()" hidden></button></div>
     <div class="no-results" id="noResults" style="display:none;">
         <div class="no-results-icon">🔍</div>
         <p id="t-none">No roles found. Try adjusting your search.</p>
@@ -139,13 +150,15 @@ const I18N = {
     en: { title: 'Explore 200+ AI Career Guides', sub: 'Find your next role, learn required skills, salary insights, and career paths', search: 'Search roles... (Engineer, Manager, Designer, etc.)', none: 'No roles found. Try adjusting your search.', read: 'Read guide →', foot: '© 2026 ResumeLink. All career guides are AI-powered and regularly updated.', note: '' },
     ru: { title: 'Более 200 карьерных гайдов по ИИ', sub: 'Найдите свою роль: нужные навыки, зарплаты и пути в профессию', search: 'Поиск ролей… (инженер, менеджер, дизайнер)', none: 'Ничего не найдено. Попробуйте изменить запрос.', read: 'Читать гайд →', foot: '© 2026 ResumeLink. Все гайды создаются с помощью ИИ и регулярно обновляются.', note: 'Интерфейс переведён, сами тексты гайдов пока на английском.' }
 };
+Object.assign(I18N.en, { feat: 'Popular guides', found: n => n + ' guides', more: n => 'Show more (' + n + ' left)', sort: 'Sort:', alpha: 'A–Z', bycat: 'By category' });
+Object.assign(I18N.ru, { feat: 'Популярные гайды', found: n => 'Найдено: ' + n, more: n => 'Показать ещё (осталось ' + n + ')', sort: 'Сортировка:', alpha: 'По алфавиту', bycat: 'По категориям' });
 const L = I18N[LANG];
 const CAT_RU = { 'AI Roles': 'Роли в ИИ', 'Guides & Strategy': 'Гайды и стратегия', 'Ethics & Society': 'Этика и общество', 'Skills & Frameworks': 'Навыки и методики', 'Security & Privacy': 'Безопасность и приватность', 'Checklists': 'Чек-листы', 'Other': 'Другое' };
 function catLabel(c) { return LANG === 'ru' ? (CAT_RU[c] || c) : c; }
 (function applyLang() {
     document.documentElement.lang = LANG;
     var set = function (id, txt) { var e = document.getElementById(id); if (e) e.textContent = txt; };
-    set('t-title', L.title); set('t-sub', L.sub); set('t-none', L.none); set('t-foot', L.foot);
+    set('t-title', L.title); set('t-feat', L.feat); set('t-sort', L.sort); set('o-alpha', L.alpha); set('o-cat', L.bycat); set('t-sub', L.sub); set('t-none', L.none); set('t-foot', L.foot);
     set('lang-toggle', LANG === 'en' ? 'RU' : 'EN');
     var s = document.getElementById('search-input'); if (s) s.placeholder = L.search;
     if (L.note) { var sub = document.getElementById('t-sub'); var n = document.createElement('p'); n.className = 'lang-note'; n.textContent = L.note; sub.after(n); }
@@ -173,23 +186,10 @@ categories.forEach(cat => {
     categoriesContainer.appendChild(tag);
 });
 
-function filterRoles() {
-    const search = searchInput.value.toLowerCase();
-    const filtered = rolesData.filter(role => {
-        const matchesSearch = role.title.toLowerCase().includes(search) || role.desc.toLowerCase().includes(search);
-        const matchesCategory = !selectedCategory || role.category === selectedCategory;
-        return matchesSearch && matchesCategory;
-    });
-
-    const container = document.getElementById('rolesContainer');
-    const noResults = document.getElementById('noResults');
-
-    if (filtered.length === 0) {
-        container.innerHTML = '';
-        noResults.style.display = 'block';
-    } else {
-        noResults.style.display = 'none';
-        container.innerHTML = filtered.map(role => `
+const PAGE = 24;
+let shown = PAGE;
+const FEATURED = ['prompt-artist','ai-product-manager','ai-ethics-officer','ai-data-curator','ai-cybersecurity-analyst','computer-vision-specialist','ai-business-lead','agentic-workflow-optimization'];
+const cardHtml = role => `
             <a href="${role.url}" class="role-card">
                 <div class="role-category">${catLabel(role.category)}</div>
                 <h3 class="role-title">${role.title}</h3>
@@ -197,11 +197,49 @@ function filterRoles() {
                 <div class="role-meta">
                     <span>${L.read}</span>
                 </div>
-            </a>
-        `).join('');
+            </a>`;
+
+function filterRoles() { shown = PAGE; renderRoles(); }
+function showMore() { shown += PAGE; renderRoles(); }
+
+function renderRoles() {
+    const search = searchInput.value.toLowerCase().trim();
+    let filtered = rolesData.filter(role => {
+        const matchesSearch = role.title.toLowerCase().includes(search) || role.desc.toLowerCase().includes(search);
+        const matchesCategory = !selectedCategory || role.category === selectedCategory;
+        return matchesSearch && matchesCategory;
+    });
+    const sort = document.getElementById('sort').value;
+    filtered = filtered.slice().sort((a, b) => sort === 'cat'
+        ? (a.category.localeCompare(b.category) || a.title.localeCompare(b.title))
+        : a.title.localeCompare(b.title));
+
+    const container = document.getElementById('rolesContainer');
+    const noResults = document.getElementById('noResults');
+    const moreBtn = document.getElementById('more-btn');
+    document.getElementById('count').textContent = L.found(filtered.length);
+
+    // Curated "Popular" row only on the default, unfiltered view
+    const featured = document.getElementById('featured');
+    const showFeatured = !search && !selectedCategory;
+    if (showFeatured) {
+        const items = FEATURED.map(s => rolesData.find(r => r.url === '/roles/' + s + '/')).filter(Boolean);
+        document.getElementById('featuredGrid').innerHTML = items.map(cardHtml).join('');
+        featured.hidden = items.length === 0;
+    } else { featured.hidden = true; }
+
+    if (filtered.length === 0) {
+        container.innerHTML = '';
+        noResults.style.display = 'block';
+        moreBtn.hidden = true;
+    } else {
+        noResults.style.display = 'none';
+        container.innerHTML = filtered.slice(0, shown).map(cardHtml).join('');
+        const left = filtered.length - shown;
+        moreBtn.hidden = left <= 0;
+        if (left > 0) moreBtn.textContent = L.more(left);
     }
 }
-
 function toggleTheme() {
     const html = document.documentElement;
     const theme = html.getAttribute('data-theme');

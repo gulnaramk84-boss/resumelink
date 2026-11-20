@@ -67,6 +67,11 @@ layout: default
 .r-crosslink-body h4{font-size:14px;font-weight:600;color:var(--forest);margin-bottom:4px}
 .r-crosslink-body p{font-size:12px;color:var(--muted);line-height:1.5}
 .r-crosslink-body span{font-size:11px;color:var(--green);font-weight:500;margin-top:6px;display:block}
+.r-topcta{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;background:var(--mint);border:0.5px solid var(--border);border-radius:14px;padding:14px 18px;margin:0 0 1.75rem}
+.r-topcta strong{display:block;font-size:14px;font-weight:600;color:var(--forest)}
+.r-topcta span{font-size:12.5px;color:var(--muted)}
+.r-topcta a{background:var(--green-dk);color:#fff;padding:10px 18px;border-radius:10px;font-size:13.5px;font-weight:500;text-decoration:none;white-space:nowrap}
+.r-topcta a:hover{background:var(--forest)}
 .r-cta{background:var(--forest);border-radius:18px;padding:clamp(1.5rem,4vw,2.5rem);text-align:center;margin-bottom:2rem;position:relative;overflow:hidden}
 .r-cta::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 70% 30%,rgba(29,179,104,.15) 0%,transparent 60%);pointer-events:none}
 .r-cta h2{font-size:clamp(1.2rem,3vw,1.8rem);font-weight:400;color:#fff;margin-bottom:8px;font-family:'Instrument Serif',serif;font-style:italic}
@@ -108,6 +113,8 @@ layout: default
 {% endif %}
 
 <div class="r-intro">{{ page.summary_hack }} This 2026 guide covers everything about <strong>{{ t }}</strong> — skills, tools, salary, ATS keywords, and how to stand out.</div>
+
+<div class="r-topcta"><div><strong>Is your resume ready for {{ t }}?</strong><span>Get your ATS score and see keyword gaps in about 10 seconds. Free, no signup.</span></div><a href="/">Check my resume →</a></div>
 
 <div class="r-grid-2">
   <div class="r-card">
@@ -178,7 +185,7 @@ layout: default
 {% endif %}
 
 <div class="r-crosslinks">
-  <a href="https://resumelink.cc" class="r-crosslink" target="_blank">
+  <a href="/" class="r-crosslink">
     <div class="r-crosslink-icon">📄</div>
     <div class="r-crosslink-body">
       <h4>Turn your resume into a live profile</h4>
@@ -199,7 +206,7 @@ layout: default
 <div class="r-cta">
   <h2>Ready to stand out as {{ t }}?</h2>
   <p>Upload your resume — get a live interactive profile with ATS score and QR code in 10 seconds.</p>
-  <a href="https://resumelink.cc">📄 Build My Profile → Free</a>
+  <a href="/">📄 Build My Profile → Free</a>
 </div>
 
 <div class="r-share">
