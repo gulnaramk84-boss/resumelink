@@ -100,7 +100,7 @@
         <a href="/pricing.html">Pricing</a>
         <a href="/blog.html">Blog</a>
         <a href="/business.html">For Business</a>
-        <a href="mailto:connect4fund@gmail.com" onclick="copyEmailFallback(event)" id="nav-contact">Contact</a>
+        <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)" id="nav-contact">Contact</a>
         <a href="/" class="nav-cta" id="nav-upload">Upload →</a>
     </div>
     <button class="nav-hamburger" onclick="document.querySelector('.nav-mobile').classList.toggle('open')" aria-label="Menu">
@@ -113,7 +113,7 @@
     <a href="/pricing.html">Pricing</a>
     <a href="/blog.html">Blog</a>
     <a href="/business.html">For Business</a>
-    <a href="mailto:connect4fund@gmail.com" onclick="copyEmailFallback(event)" id="mob-contact">Contact</a>
+    <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)" id="mob-contact">Contact</a>
     <a href="/" id="mob-upload" style="color:var(--green-dk);font-weight:500">Upload →</a>
 </div>
 
@@ -135,7 +135,7 @@
         <a href="/roles/">Explore</a>
         <a href="/about.html" id="footer-about">About</a>
         <a href="/policy.html" id="footer-policy">Privacy & Terms</a>
-        <a href="mailto:connect4fund@gmail.com" onclick="copyEmailFallback(event)">connect4fund@gmail.com</a>
+        <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)">info@resumelink.cc</a>
         <a href="https://ko-fi.com/ontoguzlabs" target="_blank" rel="noopener">☕ Support</a>
         <a href="https://patreon.com/AzatIsrailov?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" target="_blank" rel="noopener">🧡 Patreon</a>
     </div>
@@ -158,7 +158,7 @@ const T = {
             { label: "🌍 Multilingual", text: "ResumeLink auto-detects your resume language and adapts the interface accordingly. More languages are coming soon." }
         ],
         contactTitle: "👋 Get in touch",
-        contactBody: "ResumeLink is built solo by <b>Azat Israilov</b>. Have feedback, found a bug, or have an idea for the site? I'm genuinely open to suggestions — reach out any time.<br><br>📧 <a href=\"mailto:connect4fund@gmail.com\" onclick=\"copyEmailFallback(event)\" style=\"color:var(--green-dk);font-weight:500\">connect4fund@gmail.com</a><br>🌐 <a href=\"https://azatisrail.org\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--green-dk);font-weight:500\">azatisrail.org</a>"
+        contactBody: "Have feedback, found a bug, or have an idea for the site? We're genuinely open to suggestions — reach out any time.<br><br>📧 <a href=\"mailto:info@resumelink.cc\" onclick=\"copyEmailFallback(event)\" style=\"color:var(--green-dk);font-weight:500\">info@resumelink.cc</a>"
     },
     ru: {
         back: "← На главную",
@@ -172,8 +172,8 @@ const T = {
             { label: "📊 ATS Score", text: "Мгновенная оценка соответствия вакансии. Понимайте, почему ваше резюме проходит или не проходит автоматические фильтры HR-систем." },
             { label: "🌍 Мультиязычность", text: "Сервис автоматически определяет язык резюме и адаптирует весь интерфейс. Скоро подключатся новые языки и регионы." }
         ],
-        contactTitle: "👋 Связаться со мной",
-        contactBody: "ResumeLink создаёт и развивает <b>Азат Исраилов</b> в одиночку. Есть отзыв, нашли баг или идея по улучшению сайта? Я открыт для любых предложений — пишите в любое время.<br><br>📧 <a href=\"mailto:connect4fund@gmail.com\" onclick=\"copyEmailFallback(event)\" style=\"color:var(--green-dk);font-weight:500\">connect4fund@gmail.com</a><br>🌐 <a href=\"https://azatisrail.org\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--green-dk);font-weight:500\">azatisrail.org</a>"
+        contactTitle: "👋 Связаться с нами",
+        contactBody: "Есть отзыв, нашли баг или идея по улучшению сайта? Мы открыты для любых предложений — пишите в любое время.<br><br>📧 <a href=\"mailto:info@resumelink.cc\" onclick=\"copyEmailFallback(event)\" style=\"color:var(--green-dk);font-weight:500\">info@resumelink.cc</a>"
     }
 };
 
@@ -209,13 +209,13 @@ document.getElementById('contact-body').innerHTML = C.contactBody;
 function copyEmailFallback(e){
   try{
     if(navigator.clipboard&&navigator.clipboard.writeText){
-      navigator.clipboard.writeText('connect4fund@gmail.com').catch(function(){});
+      navigator.clipboard.writeText('info@resumelink.cc').catch(function(){});
     }
   }catch(err){}
   try{
     var t=document.createElement('div');
     t.className='email-toast';
-    t.textContent='✓ connect4fund@gmail.com — copied, or write to us directly';
+    t.textContent='✓ info@resumelink.cc — copied, or write to us directly';
     document.body.appendChild(t);
     requestAnimationFrame(function(){t.classList.add('show')});
     setTimeout(function(){t.classList.remove('show');setTimeout(function(){t.remove()},300)},3500);

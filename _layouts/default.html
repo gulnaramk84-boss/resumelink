@@ -100,7 +100,7 @@
     <div class="nav-links">
         <a href="/roles/">Explore</a>
         <a href="/about.html">About</a>
-        <a href="mailto:connect4fund@gmail.com" onclick="copyEmailFallback(event)">Contact</a>
+        <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)">Contact</a>
         <a href="/" class="nav-cta">Upload Resume →</a>
     </div>
     <button class="nav-hamburger" onclick="this.closest('nav').nextElementSibling.classList.toggle('open')" aria-label="Menu">
@@ -110,7 +110,7 @@
 <div class="nav-mobile">
     <a href="/roles/">Explore</a>
     <a href="/about.html">About</a>
-    <a href="mailto:connect4fund@gmail.com" onclick="copyEmailFallback(event)">Contact</a>
+    <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)">Contact</a>
     <a href="/" style="color:var(--green-dk);font-weight:500">Upload Resume →</a>
 </div>
 
@@ -124,11 +124,11 @@
         <a href="/roles/">Guides & Careers</a>
         <a href="/about.html">About</a>
         <a href="/policy.html">Privacy & Terms</a>
-        <a href="mailto:connect4fund@gmail.com" onclick="copyEmailFallback(event)">connect4fund@gmail.com</a>
+        <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)">info@resumelink.cc</a>
         <a href="https://ko-fi.com/ontoguzlabs" target="_blank" rel="noopener">☕ Support</a>
         <a href="https://patreon.com/AzatIsrailov?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" target="_blank" rel="noopener">🧡 Patreon</a>
     </div>
-    <div class="footer-copy">© 2026 ResumeLink · Built by <a href="https://azatisrail.org" target="_blank" rel="noopener" style="color:inherit">Azat Israilov</a></div>
+    <div class="footer-copy">© 2026 ResumeLink</div>
 </footer>
 
 <script>
@@ -153,13 +153,13 @@ window.addEventListener('load', () => {
 function copyEmailFallback(e){
   try{
     if(navigator.clipboard&&navigator.clipboard.writeText){
-      navigator.clipboard.writeText('connect4fund@gmail.com').catch(function(){});
+      navigator.clipboard.writeText('info@resumelink.cc').catch(function(){});
     }
   }catch(err){}
   try{
     var t=document.createElement('div');
     t.className='email-toast';
-    t.textContent='✓ connect4fund@gmail.com — copied, or write to us directly';
+    t.textContent='✓ info@resumelink.cc — copied, or write to us directly';
     document.body.appendChild(t);
     requestAnimationFrame(function(){t.classList.add('show')});
     setTimeout(function(){t.classList.remove('show');setTimeout(function(){t.remove()},300)},3500);

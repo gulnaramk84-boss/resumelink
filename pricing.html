@@ -114,7 +114,7 @@
         <a href="/pricing.html" id="nav-pricing" class="nav-active">Pricing</a>
         <a href="/blog.html" id="nav-blog">Blog</a>
         <a href="/business.html" id="nav-business">For Business</a>
-        <a href="mailto:connect4fund@gmail.com" onclick="copyEmailFallback(event)" id="nav-contact">Contact</a>
+        <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)" id="nav-contact">Contact</a>
         <a href="/" class="nav-cta" id="nav-upload">Upload →</a>
     </div>
     <button class="nav-hamburger" onclick="document.querySelector('.nav-mobile').classList.toggle('open')" aria-label="Menu">
@@ -127,7 +127,7 @@
     <a href="/pricing.html" id="mob-pricing" style="color:var(--green-dk);font-weight:500">Pricing</a>
     <a href="/blog.html" id="mob-blog">Blog</a>
     <a href="/business.html" id="mob-business">For Business</a>
-    <a href="mailto:connect4fund@gmail.com" onclick="copyEmailFallback(event)" id="mob-contact">Contact</a>
+    <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)" id="mob-contact">Contact</a>
     <a href="/" id="mob-upload" style="color:var(--green-dk);font-weight:500">Upload →</a>
 </div>
 
@@ -152,7 +152,7 @@
         <a href="/blog.html">Blog</a>
         <a href="/business.html">For Business</a>
         <a href="/policy.html" id="footer-policy">Privacy & Terms</a>
-        <a href="mailto:connect4fund@gmail.com" onclick="copyEmailFallback(event)">connect4fund@gmail.com</a>
+        <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)">info@resumelink.cc</a>
     </div>
     <div class="footer-copy">© 2026 ResumeLink</div>
 </footer>
@@ -219,7 +219,7 @@ const T = {
         faqs:[
             {q:'Is this really a one-time payment?', a:'Yes. $9 once, yours forever. No monthly charges, no renewals. If you pay today, you have Pro for as long as ResumeLink exists.'},
             {q:'What happens to my profiles if I stop using it?', a:'Nothing — your profiles and their links stay live. Your custom URL keeps working. Pro is permanent once activated.'},
-            {q:'How does the custom link work?', a:'After purchasing, email us at connect4fund@gmail.com with your desired slug and we\'ll set it up within 24 hours.'},
+            {q:'How does the custom link work?', a:'After purchasing, email us at info@resumelink.cc with your desired slug and we\'ll set it up within 24 hours.'},
             {q:'Is my resume data safe?', a:'Yes. Files are processed in your browser. We don\'t store your uploaded PDFs on our servers.'},
         ]
     },
@@ -274,7 +274,7 @@ const T = {
         faqs:[
             {q:'Это правда разовый платёж?', a:'Да. $9 один раз — навсегда. Никаких ежемесячных списаний. Заплатил сегодня — Pro у тебя пока существует ResumeLink.'},
             {q:'Что будет с профилями?', a:'Ничего — профили и ссылки остаются активными. Именная ссылка продолжает работать. Pro не отключается.'},
-            {q:'Как работает именная ссылка?', a:'После покупки напиши на connect4fund@gmail.com с желаемым слагом — настроим в течение 24 часов.'},
+            {q:'Как работает именная ссылка?', a:'После покупки напиши на info@resumelink.cc с желаемым слагом — настроим в течение 24 часов.'},
             {q:'Мои данные в безопасности?', a:'Да. Файлы обрабатываются в браузере. Мы не храним загруженные PDF на серверах.'},
         ]
     }
@@ -351,13 +351,13 @@ document.getElementById('kofi-block').innerHTML = `
 function copyEmailFallback(e){
   try{
     if(navigator.clipboard&&navigator.clipboard.writeText){
-      navigator.clipboard.writeText('connect4fund@gmail.com').catch(function(){});
+      navigator.clipboard.writeText('info@resumelink.cc').catch(function(){});
     }
   }catch(err){}
   try{
     var t=document.createElement('div');
     t.className='email-toast';
-    t.textContent='✓ connect4fund@gmail.com — copied, or write to us directly';
+    t.textContent='✓ info@resumelink.cc — copied, or write to us directly';
     document.body.appendChild(t);
     requestAnimationFrame(function(){t.classList.add('show')});
     setTimeout(function(){t.classList.remove('show');setTimeout(function(){t.remove()},300)},3500);
