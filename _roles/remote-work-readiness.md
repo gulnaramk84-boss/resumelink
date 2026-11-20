@@ -46,7 +46,7 @@ related_roles:
   - career-change-roadmap
   - job-search-organization
   - first-90-days-plan
-description: \"Remote Work Readiness Coach professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hu...\"
+description: "Remote Work Readiness Coach professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hu..."
 ---
 
 ## What does a Remote Work Readiness Coach do?

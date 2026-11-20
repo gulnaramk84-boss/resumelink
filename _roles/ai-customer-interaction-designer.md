@@ -7,7 +7,7 @@ summary_hack: "Designing the way AI speaks and interacts with humans across web 
 judgment_skills: ['Linguistics', 'Psychology', 'Design Thinking', 'Empathy']
 ai_tools: ['Voiceflow', 'Figma', 'ChatGPT', 'Botpress']
 human_touch_tip: "Describe how you make an AI sound 'forgiving' when a user makes a mistake."
-description: \"Designing the way AI speaks and interacts with humans across web and mobile platforms.\"
+description: "Designing the way AI speaks and interacts with humans across web and mobile platforms."
 ---
 
 ## What is a AI Interaction Designer?

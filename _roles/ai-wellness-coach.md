@@ -45,7 +45,7 @@ related_roles:
   - ai-personalized-nutritionist
   - ai-mental-health-bot-coach
   - ai-digital-wellness-advocate
-description: \"AI-assisted wellness coaches use apps, wearables and AI tools to personalize coaching on sleep, activity, nutrition and stress, while staying within their sc...\"
+description: "AI-assisted wellness coaches use apps, wearables and AI tools to personalize coaching on sleep, activity, nutrition and stress, while staying within their sc..."
 ---
 
 ## What does an AI-Assisted Wellness Coach do?

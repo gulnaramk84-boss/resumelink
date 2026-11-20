@@ -45,7 +45,7 @@ related_roles:
   - cognitive-offloading-strategy
   - ai-as-a-cognitive-prosthetic
   - digital-minimalism-in-the-ai-age
-description: \"Personal Knowledge Management (PKM) specialists help professionals and teams capture, organize and reuse what they learn, now with AI assistants that search,...\"
+description: "Personal Knowledge Management (PKM) specialists help professionals and teams capture, organize and reuse what they learn, now with AI assistants that search,..."
 ---
 
 ## What does a Personal Knowledge Management Specialist do?

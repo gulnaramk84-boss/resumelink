@@ -46,7 +46,7 @@ related_roles:
   - career-change-roadmap
   - job-search-organization
   - first-90-days-plan
-description: \"Salary Negotiation Coach professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human...\"
+description: "Salary Negotiation Coach professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human..."
 ---
 
 ## What does a Salary Negotiation Coach do?

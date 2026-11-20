@@ -45,7 +45,7 @@ related_roles:
   - ai-cybersecurity-analyst
   - zero-knowledge-ai-privacy
   - career-change-roadmap
-description: \"Digital Identity Security Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "Digital Identity Security Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a Digital Identity Security Specialist do?

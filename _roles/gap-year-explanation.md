@@ -46,7 +46,7 @@ related_roles:
   - career-change-roadmap
   - job-search-organization
   - first-90-days-plan
-description: \"Career Gap Strategist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI...\"
+description: "Career Gap Strategist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI..."
 ---
 
 ## What does a Career Gap Strategist do?

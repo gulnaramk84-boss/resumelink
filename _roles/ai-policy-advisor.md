@@ -45,7 +45,7 @@ related_roles:
   - ai-public-sector-policy-advisor
   - ai-governance-and-the-eu-ai-act
   - ai-ethics-officer
-description: \"AI Policy Advisors help governments, companies and NGOs shape and respond to AI regulation, translating technical realities into workable rules and positions.\"
+description: "AI Policy Advisors help governments, companies and NGOs shape and respond to AI regulation, translating technical realities into workable rules and positions."
 ---
 
 ## What does an AI Policy Advisor do?

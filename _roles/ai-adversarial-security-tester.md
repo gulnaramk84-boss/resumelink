@@ -45,7 +45,7 @@ related_roles:
   - ai-cybersecurity-red-teamer
   - prompt-injection-defense-manual
   - securing-the-ai-supply-chain
-description: \"AI Adversarial Security Testers attack machine learning systems the way real adversaries would: prompt injection, data poisoning, model evasion and data extr...\"
+description: "AI Adversarial Security Testers attack machine learning systems the way real adversaries would: prompt injection, data poisoning, model evasion and data extr..."
 ---
 
 ## What does an AI Adversarial Security Tester do?

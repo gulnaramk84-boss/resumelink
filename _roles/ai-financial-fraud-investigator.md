@@ -45,7 +45,7 @@ related_roles:
   - ai-fintech-fraud-analyst
   - ai-fraud-prevention-manager
   - ai-financial-risk-architect
-description: \"AI Financial Fraud Investigators work the cases that automated detection flags: they confirm fraud, trace funds, document evidence and feed lessons back into...\"
+description: "AI Financial Fraud Investigators work the cases that automated detection flags: they confirm fraud, trace funds, document evidence and feed lessons back into..."
 ---
 
 ## What does an AI Financial Fraud Investigator do?

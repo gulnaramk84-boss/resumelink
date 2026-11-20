@@ -46,7 +46,7 @@ related_roles:
   - chief-ai-officer
   - ai-governance-consultant
   - computer-vision-specialist
-description: \"AI Technical Writer professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI c...\"
+description: "AI Technical Writer professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI c..."
 ---
 
 ## What does a AI Technical Writer do?

@@ -45,7 +45,7 @@ related_roles:
   - prompt-engineering-for-developers
   - cognitive-load-management-ai
   - digital-body-language
-description: \"AI Cross-Cultural Negotiation Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job ma...\"
+description: "AI Cross-Cultural Negotiation Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job ma..."
 ---
 
 ## What does a AI Cross-Cultural Negotiation Specialist do?

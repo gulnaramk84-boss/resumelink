@@ -45,7 +45,7 @@ related_roles:
   - ai-media-analyst
   - ai-editorial-director
   - data-provenance-and-ethics
-description: \"AI-assisted independent journalists use AI for research, transcription, data analysis and translation, while keeping full responsibility for verification, so...\"
+description: "AI-assisted independent journalists use AI for research, transcription, data analysis and translation, while keeping full responsibility for verification, so..."
 ---
 
 ## What does an AI-Assisted Independent Journalist do?

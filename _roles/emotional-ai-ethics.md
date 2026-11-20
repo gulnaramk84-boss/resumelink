@@ -45,7 +45,7 @@ related_roles:
   - the-ethics-of-ai-persuasion
   - the-psychology-of-ai-personification
   - ai-ethics-officer
-description: \"Emotional AI Ethics Specialists review systems that detect, simulate or respond to human emotions, such as companions, voice assistants and sentiment tools, ...\"
+description: "Emotional AI Ethics Specialists review systems that detect, simulate or respond to human emotions, such as companions, voice assistants and sentiment tools, ..."
 ---
 
 ## What does an Emotional AI Ethics Specialist do?

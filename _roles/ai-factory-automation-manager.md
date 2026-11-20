@@ -7,7 +7,7 @@ summary_hack: "Optimizing production lines with predictive maintenance and AI-dr
 judgment_skills: ['Operational Logic', 'Systems Thinking', 'Problem Solving', 'Leadership', 'Resourcefulness']
 ai_tools: ['SAP AI', 'Siemens MindSphere', 'Python', 'Tableau']
 human_touch_tip: "Show how you saved millions by predicting a machine failure in advance."
-description: \"Optimizing production lines with predictive maintenance and AI-driven quality control systems.\"
+description: "Optimizing production lines with predictive maintenance and AI-driven quality control systems."
 ---
 
 ## What is a AI Automation Lead?

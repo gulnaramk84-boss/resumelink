@@ -45,7 +45,7 @@ related_roles:
   - ai-creative-director
   - ai-creative-workflow-optimizer
   - the-art-of-ai-storytelling
-description: \"AI Creative Process Leads build repeatable ways for creative teams to use generative AI for ideation and production, without losing brand voice, originality ...\"
+description: "AI Creative Process Leads build repeatable ways for creative teams to use generative AI for ideation and production, without losing brand voice, originality ..."
 ---
 
 ## What does an AI Creative Process Lead do?

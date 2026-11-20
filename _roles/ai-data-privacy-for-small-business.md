@@ -46,7 +46,7 @@ related_roles:
   - ai-cybersecurity-analyst
   - zero-knowledge-ai-privacy
   - securing-your-digital-likeness
-description: \"AI Data Privacy Consultant (SMB) professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier ...\"
+description: "AI Data Privacy Consultant (SMB) professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier ..."
 ---
 
 ## What does a AI Data Privacy Consultant (SMB) do?

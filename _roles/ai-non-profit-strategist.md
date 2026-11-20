@@ -45,7 +45,7 @@ related_roles:
   - chief-ai-officer
   - ai-governance-consultant
   - computer-vision-specialist
-description: \"AI Non-Profit Strategist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "AI Non-Profit Strategist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a AI Non-Profit Strategist do?

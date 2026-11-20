@@ -45,7 +45,7 @@ related_roles:
   - multi-agent-collaboration-design
   - cross-model-orchestration
   - prompt-engineering-for-developers
-description: \"AI Agent Workflow Engineers design multi-step workflows where LLM agents plan, call tools and hand off to humans, then tune them for reliability, cost and sp...\"
+description: "AI Agent Workflow Engineers design multi-step workflows where LLM agents plan, call tools and hand off to humans, then tune them for reliability, cost and sp..."
 ---
 
 ## What does an AI Agent Workflow Engineer do?

@@ -7,7 +7,7 @@ summary_hack: "Specializing in the mental health impact of AI integration and he
 judgment_skills: ['Clinical Psychology', 'Empathy', 'Behavioral Analysis', 'Conflict Resolution', 'Ethics']
 ai_tools: ['Headspace', 'ChatGPT', 'Sentiment Analysis Tools', 'Calm']
 human_touch_tip: "Your value is human—focus on your clinical background and empathy."
-description: \"Specializing in the mental health impact of AI integration and helping teams stay balanced.\"
+description: "Specializing in the mental health impact of AI integration and helping teams stay balanced."
 ---
 
 ## What is a AI Wellness Advocate?

@@ -47,7 +47,7 @@ related_roles:
   - ai-financial-analyst
   - ai-fintech-fraud-analyst
   - chief-ai-officer
-description: \"AI Algorithmic Traders design and deploy machine learning models that execute trades at speeds and scales impossible for humans, analyzing market microstruct...\"
+description: "AI Algorithmic Traders design and deploy machine learning models that execute trades at speeds and scales impossible for humans, analyzing market microstruct..."
 ---
 
 ## What does a AI Algorithmic Trader do?

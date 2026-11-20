@@ -46,7 +46,7 @@ related_roles:
   - ai-cybersecurity-analyst
   - zero-knowledge-ai-privacy
   - securing-your-digital-likeness
-description: \"AI Fraud Prevention Manager professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hu...\"
+description: "AI Fraud Prevention Manager professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hu..."
 ---
 
 ## What does a AI Fraud Prevention Manager do?

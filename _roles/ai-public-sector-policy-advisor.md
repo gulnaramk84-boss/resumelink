@@ -46,7 +46,7 @@ related_roles:
   - ai-ethics-auditor
   - ai-governance-consultant
   - algorithmic-bias-audit-for-managers
-description: \"AI Public Sector Policy Advisor professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier o...\"
+description: "AI Public Sector Policy Advisor professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier o..."
 ---
 
 ## What does a AI Public Sector Policy Advisor do?

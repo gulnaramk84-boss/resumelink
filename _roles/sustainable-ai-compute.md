@@ -46,7 +46,7 @@ related_roles:
   - ai-ethics-auditor
   - ai-governance-consultant
   - algorithmic-bias-audit-for-managers
-description: \"Sustainable AI Compute Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier...\"
+description: "Sustainable AI Compute Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier..."
 ---
 
 ## What does a Sustainable AI Compute Specialist do?

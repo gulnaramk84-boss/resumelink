@@ -45,7 +45,7 @@ related_roles:
   - career-change-roadmap
   - job-search-organization
   - career-change-roadmap
-description: \"Onboarding Strategist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "Onboarding Strategist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a Onboarding Strategist do?

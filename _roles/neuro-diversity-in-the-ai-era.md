@@ -45,7 +45,7 @@ related_roles:
   - ai-hr-specialist
   - cognitive-load-management-ai
   - digital-body-language
-description: \"Neurodiversity Inclusion Specialists help employers recruit, support and retain neurodivergent people, and make sure AI tools in hiring and work are accessib...\"
+description: "Neurodiversity Inclusion Specialists help employers recruit, support and retain neurodivergent people, and make sure AI tools in hiring and work are accessib..."
 ---
 
 ## What does a Neurodiversity Inclusion Specialist do?

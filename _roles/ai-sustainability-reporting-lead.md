@@ -46,7 +46,7 @@ related_roles:
   - chief-ai-officer
   - ai-governance-consultant
   - computer-vision-specialist
-description: \"AI Sustainability Reporting Lead professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier ...\"
+description: "AI Sustainability Reporting Lead professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier ..."
 ---
 
 ## What does a AI Sustainability Reporting Lead do?

@@ -46,7 +46,7 @@ related_roles:
   - ai-ethics-auditor
   - ai-governance-consultant
   - algorithmic-bias-audit-for-managers
-description: \"Digital-Analog Balance Consultant professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier...\"
+description: "Digital-Analog Balance Consultant professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier..."
 ---
 
 ## What does a Digital-Analog Balance Consultant do?

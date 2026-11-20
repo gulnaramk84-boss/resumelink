@@ -45,7 +45,7 @@ related_roles:
   - agentic-workflow-optimization
   - ai-hallucination-mitigation-framework
   - cognitive-load-management-ai
-description: \"Human-in-the-Loop Workflow Designers decide where people review, correct or approve AI outputs, and design those steps so humans stay effective instead of ru...\"
+description: "Human-in-the-Loop Workflow Designers decide where people review, correct or approve AI outputs, and design those steps so humans stay effective instead of ru..."
 ---
 
 ## What does a Human-in-the-Loop Workflow Designer do?

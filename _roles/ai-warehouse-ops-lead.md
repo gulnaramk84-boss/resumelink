@@ -45,7 +45,7 @@ related_roles:
   - ai-factory-automation-manager
   - ai-logistics-optimization-lead
   - ai-predictive-maintenance-engineer
-description: \"AI Warehouse Operations Leads run distribution centers where AI plans labor, slotting and picking and robots work beside people, keeping safety, accuracy and...\"
+description: "AI Warehouse Operations Leads run distribution centers where AI plans labor, slotting and picking and robots work beside people, keeping safety, accuracy and..."
 ---
 
 ## What does an AI Warehouse Operations Lead do?

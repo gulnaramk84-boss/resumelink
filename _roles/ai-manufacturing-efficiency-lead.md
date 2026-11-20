@@ -45,7 +45,7 @@ related_roles:
   - ai-factory-automation-manager
   - ai-predictive-maintenance-engineer
   - ai-digital-twin-operator
-description: \"AI Manufacturing Efficiency Leads raise output and quality on the shop floor by combining lean methods with AI for predictive maintenance, quality inspection...\"
+description: "AI Manufacturing Efficiency Leads raise output and quality on the shop floor by combining lean methods with AI for predictive maintenance, quality inspection..."
 ---
 
 ## What does an AI Manufacturing Efficiency Lead do?

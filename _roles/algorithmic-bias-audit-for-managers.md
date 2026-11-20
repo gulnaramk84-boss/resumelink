@@ -45,7 +45,7 @@ related_roles:
   - ai-ethics-auditor
   - ai-governance-consultant
   - career-change-roadmap
-description: \"Algorithmic Bias Auditor professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "Algorithmic Bias Auditor professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a Algorithmic Bias Auditor do?

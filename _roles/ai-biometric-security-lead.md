@@ -46,7 +46,7 @@ related_roles:
   - ai-cybersecurity-analyst
   - zero-knowledge-ai-privacy
   - securing-your-digital-likeness
-description: \"AI Biometric Security Lead professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hum...\"
+description: "AI Biometric Security Lead professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hum..."
 ---
 
 ## What does a AI Biometric Security Lead do?

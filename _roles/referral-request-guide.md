@@ -45,7 +45,7 @@ related_roles:
   - career-change-roadmap
   - job-search-organization
   - first-90-days-plan
-description: \"Professional Networking Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "Professional Networking Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a Professional Networking Specialist do?

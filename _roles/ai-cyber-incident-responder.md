@@ -45,7 +45,7 @@ related_roles:
   - ai-cybersecurity-analyst
   - zero-knowledge-ai-privacy
   - securing-your-digital-likeness
-description: \"AI Cyber Incident Responder professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "AI Cyber Incident Responder professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a AI Cyber Incident Responder do?

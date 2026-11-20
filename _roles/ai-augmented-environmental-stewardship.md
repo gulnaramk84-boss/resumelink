@@ -45,7 +45,7 @@ related_roles:
   - ai-climate-modeler
   - ai-environmental-impact-auditor
   - ai-sustainability-reporting-lead
-description: \"AI Environmental Analysts use satellite imagery, sensor data and machine learning to monitor ecosystems, emissions and land use, turning data into decisions ...\"
+description: "AI Environmental Analysts use satellite imagery, sensor data and machine learning to monitor ecosystems, emissions and land use, turning data into decisions ..."
 ---
 
 ## What does an AI Environmental Analyst do?

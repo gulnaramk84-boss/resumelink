@@ -46,7 +46,7 @@ related_roles:
   - prompt-engineering-for-developers
   - cognitive-load-management-ai
   - human-in-the-loop-workflow-design
-description: \"AI Cognitive Enhancement Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the fronti...\"
+description: "AI Cognitive Enhancement Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the fronti..."
 ---
 
 ## What does a AI Cognitive Enhancement Specialist do?

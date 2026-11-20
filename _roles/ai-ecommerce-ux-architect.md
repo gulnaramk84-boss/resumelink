@@ -46,7 +46,7 @@ related_roles:
   - chief-ai-officer
   - ai-governance-consultant
   - computer-vision-specialist
-description: \"AI E-Commerce UX Architect professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hum...\"
+description: "AI E-Commerce UX Architect professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hum..."
 ---
 
 ## What does a AI E-Commerce UX Architect do?

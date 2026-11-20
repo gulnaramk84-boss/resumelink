@@ -45,7 +45,7 @@ related_roles:
   - ai-logistics-optimization-lead
   - ai-logistic-coordinator
   - ai-supply-chain-resilience-lead
-description: \"AI Logistics Flow Managers keep goods moving through networks of carriers, hubs and warehouses, using AI for routing, ETA prediction and exception handling.\"
+description: "AI Logistics Flow Managers keep goods moving through networks of carriers, hubs and warehouses, using AI for routing, ETA prediction and exception handling."
 ---
 
 ## What does an AI Logistics Flow Manager do?

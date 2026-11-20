@@ -45,7 +45,7 @@ related_roles:
   - ai-logistics-optimization-lead
   - ai-sustainability-reporting-lead
   - ai-energy-economics-for-business
-description: \"AI Sustainable Logistics Specialists cut transport emissions and costs together through route optimization, mode shift, load consolidation and fleet electrif...\"
+description: "AI Sustainable Logistics Specialists cut transport emissions and costs together through route optimization, mode shift, load consolidation and fleet electrif..."
 ---
 
 ## What does an AI Sustainable Logistics Specialist do?

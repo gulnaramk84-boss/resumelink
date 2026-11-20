@@ -45,7 +45,7 @@ related_roles:
   - ai-customer-success
   - ai-customer-loyalty-specialist
   - ai-customer-insight-analyst
-description: \"AI Customer Retention Specialists use churn prediction and personalization to spot at-risk customers early and design interventions that keep them.\"
+description: "AI Customer Retention Specialists use churn prediction and personalization to spot at-risk customers early and design interventions that keep them."
 ---
 
 ## What does an AI Customer Retention Specialist do?

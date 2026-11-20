@@ -45,7 +45,7 @@ related_roles:
   - ai-brand-voice-architect
   - ai-social-media-manager
   - ai-in-crisis-management
-description: \"AI Public Relations Specialists use AI for media monitoring, drafting and audience insight, while protecting the relationships, judgment and credibility that...\"
+description: "AI Public Relations Specialists use AI for media monitoring, drafting and audience insight, while protecting the relationships, judgment and credibility that..."
 ---
 
 ## What does an AI Public Relations Specialist do?

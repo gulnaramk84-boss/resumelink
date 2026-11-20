@@ -7,7 +7,7 @@ summary_hack: "Optimizing renewable energy distribution using AI to balance load
 judgment_skills: ['Systems Thinking', 'Sustainability', 'Resource Management', 'Logic', 'Agility']
 ai_tools: ['General Electric AI', 'Python', 'Grid Monitoring Tools']
 human_touch_tip: "Focus on the planet—show how your AI-driven grid reduces carbon emissions."
-description: \"Optimizing renewable energy distribution using AI to balance load and prevent blackouts.\"
+description: "Optimizing renewable energy distribution using AI to balance load and prevent blackouts."
 ---
 
 ## What is a AI Energy Grid Manager?

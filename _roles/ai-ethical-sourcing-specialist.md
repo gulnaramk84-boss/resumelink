@@ -45,7 +45,7 @@ related_roles:
   - ai-ethics-auditor
   - ai-governance-consultant
   - algorithmic-bias-audit-for-managers
-description: \"AI Ethical Sourcing Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "AI Ethical Sourcing Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a AI Ethical Sourcing Specialist do?

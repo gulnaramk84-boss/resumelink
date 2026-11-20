@@ -45,7 +45,7 @@ related_roles:
   - ai-ethics-auditor
   - ai-governance-consultant
   - algorithmic-bias-audit-for-managers
-description: \"Synthetic Identity Ethics Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "Synthetic Identity Ethics Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a Synthetic Identity Ethics Researcher do?

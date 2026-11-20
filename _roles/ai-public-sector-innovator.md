@@ -45,7 +45,7 @@ related_roles:
   - ai-public-sector-policy-advisor
   - ai-urban-mobility-designer
   - ai-non-profit-strategist
-description: \"AI Public Sector Innovation Leads help government agencies introduce AI into public services in ways that are lawful, fair, transparent and actually useful t...\"
+description: "AI Public Sector Innovation Leads help government agencies introduce AI into public services in ways that are lawful, fair, transparent and actually useful t..."
 ---
 
 ## What does an AI Public Sector Innovation Lead do?

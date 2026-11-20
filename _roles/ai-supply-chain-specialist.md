@@ -45,7 +45,7 @@ related_roles:
   - ai-supply-chain-resilience-lead
   - ai-procurement-specialist
   - ai-logistics-optimization-lead
-description: \"AI Supply Chain Specialists apply AI across planning, sourcing, inventory and logistics to cut costs and improve service, working between operations teams an...\"
+description: "AI Supply Chain Specialists apply AI across planning, sourcing, inventory and logistics to cut costs and improve service, working between operations teams an..."
 ---
 
 ## What does an AI Supply Chain Specialist do?

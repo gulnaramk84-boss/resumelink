@@ -45,7 +45,7 @@ related_roles:
   - ai-governance-consultant
   - algorithmic-bias-audit-for-managers
   - career-change-roadmap
-description: \"AI Ethics Auditor professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "AI Ethics Auditor professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a AI Ethics Auditor do?

@@ -45,7 +45,7 @@ related_roles:
   - career-change-roadmap
   - job-search-organization
   - first-90-days-plan
-description: \"Interview Preparation Coach professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "Interview Preparation Coach professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a Interview Preparation Coach do?

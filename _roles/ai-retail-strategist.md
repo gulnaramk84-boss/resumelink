@@ -45,7 +45,7 @@ related_roles:
   - ai-retail-experience-designer
   - ai-retail-inventory-planner
   - ai-e-commerce-merchandiser
-description: \"AI Retail Strategists decide where AI creates value in retail (pricing, assortment, personalization, supply) and build the business case and roadmap to captu...\"
+description: "AI Retail Strategists decide where AI creates value in retail (pricing, assortment, personalization, supply) and build the business case and roadmap to captu..."
 ---
 
 ## What does an AI Retail Strategist do?

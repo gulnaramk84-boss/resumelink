@@ -46,7 +46,7 @@ related_roles:
   - ai-cybersecurity-analyst
   - zero-knowledge-ai-privacy
   - securing-your-digital-likeness
-description: \"AI Supply Chain Security Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the fronti...\"
+description: "AI Supply Chain Security Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the fronti..."
 ---
 
 ## What does a AI Supply Chain Security Specialist do?

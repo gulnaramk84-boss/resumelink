@@ -45,7 +45,7 @@ related_roles:
   - remote-work-readiness
   - low-code-ai-architecture
   - cognitive-load-management-ai
-description: \"AI Remote Operations Specialists keep distributed teams running smoothly, using AI to automate reporting, documentation and routine coordination across time ...\"
+description: "AI Remote Operations Specialists keep distributed teams running smoothly, using AI to automate reporting, documentation and routine coordination across time ..."
 ---
 
 ## What does an AI Remote Operations Specialist do?

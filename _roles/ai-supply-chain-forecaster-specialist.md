@@ -45,7 +45,7 @@ related_roles:
   - ai-retail-inventory-planner
   - ai-supply-chain-resilience-lead
   - ai-supply-chain-risk-manager
-description: \"AI Demand Forecasting Specialists build and run forecasts that drive inventory and production, combining statistical and machine learning models with market ...\"
+description: "AI Demand Forecasting Specialists build and run forecasts that drive inventory and production, combining statistical and machine learning models with market ..."
 ---
 
 ## What does an AI Demand Forecasting Specialist do?

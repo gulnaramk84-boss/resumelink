@@ -46,7 +46,7 @@ related_roles:
   - chief-ai-officer
   - ai-governance-consultant
   - computer-vision-specialist
-description: \"Neuro-Symbolic AI Engineer professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hum...\"
+description: "Neuro-Symbolic AI Engineer professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hum..."
 ---
 
 ## What does a Neuro-Symbolic AI Engineer do?

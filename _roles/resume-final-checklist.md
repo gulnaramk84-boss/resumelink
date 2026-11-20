@@ -45,7 +45,7 @@ related_roles:
   - cover-letter-structure
   - interview-prep-sheet
   - job-search-organization
-description: \"A last-step checklist to run before you send any resume: accuracy, ATS readability, keywords, formatting and proof of impact.\"
+description: "A last-step checklist to run before you send any resume: accuracy, ATS readability, keywords, formatting and proof of impact."
 ---
 
 ## What is this guide about?

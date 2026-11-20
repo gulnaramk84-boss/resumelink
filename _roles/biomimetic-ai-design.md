@@ -45,7 +45,7 @@ related_roles:
   - neuro-symbolic-ai-integration
   - edge-ai-developer
   - ai-architectural-designer
-description: \"Biomimetic AI Designers borrow principles from biology, such as swarms, neural systems and evolution, to design AI systems and products that are more efficie...\"
+description: "Biomimetic AI Designers borrow principles from biology, such as swarms, neural systems and evolution, to design AI systems and products that are more efficie..."
 ---
 
 ## What does a Biomimetic AI Designer do?

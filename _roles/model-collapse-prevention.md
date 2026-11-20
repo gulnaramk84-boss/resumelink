@@ -46,7 +46,7 @@ related_roles:
   - chief-ai-officer
   - ai-governance-consultant
   - computer-vision-specialist
-description: \"AI Model Collapse Prevention Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the fr...\"
+description: "AI Model Collapse Prevention Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the fr..."
 ---
 
 ## What does a AI Model Collapse Prevention Specialist do?

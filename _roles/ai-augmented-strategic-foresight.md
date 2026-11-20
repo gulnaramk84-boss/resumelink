@@ -45,7 +45,7 @@ related_roles:
   - ai-business-lead
   - quantum-ready-ai-strategy
   - ai-risk-manager
-description: \"AI Strategic Foresight Analysts combine scenario planning with AI-assisted research to map possible futures and help leadership make robust long-term decisions.\"
+description: "AI Strategic Foresight Analysts combine scenario planning with AI-assisted research to map possible futures and help leadership make robust long-term decisions."
 ---
 
 ## What does an AI Strategic Foresight Analyst do?

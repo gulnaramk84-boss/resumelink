@@ -45,7 +45,7 @@ related_roles:
   - ai-travel-experience-architect
   - ai-community-engagement-manager
   - ai-travel-consultant
-description: \"AI Event Planners use AI tools for venue sourcing, attendee matching, logistics and personalization, freeing time for the human work of hospitality and live ...\"
+description: "AI Event Planners use AI tools for venue sourcing, attendee matching, logistics and personalization, freeing time for the human work of hospitality and live ..."
 ---
 
 ## What does an AI Event Planner do?

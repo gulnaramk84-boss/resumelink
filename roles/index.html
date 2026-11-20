@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -120,21 +122,8 @@
 
 <script>
 const rolesData = [
-    { slug: "ai-adversarial-security-tester", title: "AI Adversarial Security Tester", category: "Security & Privacy", desc: "Attack ML systems and help teams fix vulnerabilities before adversaries find them." },
-    { slug: "ai-business-lead", title: "AI Business Lead", category: "Business & Strategy", desc: "Transform AI opportunities into business value and strategic advantage." },
-    { slug: "ai-career-resilience-map", title: "AI Career Resilience Map", category: "Career Planning", desc: "Plan your AI career with adaptability and long-term value in mind." },
-    { slug: "ai-content-strategist", title: "AI Content Strategist", category: "Marketing & Content", desc: "Craft AI-powered content strategies that engage and convert audiences." },
-    { slug: "ai-copywriter", title: "AI Copywriter", category: "Marketing & Content", desc: "Write persuasive copy enhanced with AI insights and data." },
-    { slug: "ai-customer-journey-designer", title: "AI Customer Journey Designer", category: "Product & UX", desc: "Design seamless customer experiences powered by AI." },
-    { slug: "ai-cybersecurity-analyst", title: "AI Cybersecurity Analyst", category: "Security & Privacy", desc: "Defend organizations against AI-powered threats and vulnerabilities." },
-    { slug: "ai-data-curator", title: "AI Data Curator", category: "Data & AI", desc: "Ensure high-quality, ethical data flows through AI systems." },
-    { slug: "ai-ethics-officer", title: "AI Ethics Officer", category: "Governance & Ethics", desc: "Guide organizations through responsible AI deployment." },
-    { slug: "ai-healthcare-ops-manager", title: "AI Healthcare Operations Manager", category: "Healthcare & Life Sciences", desc: "Optimize hospital and clinical workflows with AI." },
-    { slug: "ai-product-manager", title: "AI Product Manager", category: "Product & UX", desc: "Lead AI product strategy, roadmap, and go-to-market." },
-    { slug: "ai-sales-enablement", title: "AI Sales Enablement", category: "Sales & Revenue", desc: "Equip sales teams with AI tools and intelligence." },
-    { slug: "ai-social-media-manager", title: "AI Social Media Manager", category: "Marketing & Content", desc: "Grow audiences and engagement with AI-powered social strategies." },
-    { slug: "computer-vision-specialist", title: "Computer Vision Specialist", category: "Data & AI", desc: "Build systems that see and understand the visual world." },
-    { slug: "prompt-engineer", title: "Prompt Engineer (Prompt Artist)", category: "Data & AI", desc: "Craft prompts that unlock the full potential of LLMs." },
+{% for r in site.roles %}{% assign d = r.description | default: r.summary_hack | default: r.h1 %}    { url: {{ r.url | jsonify }}, title: {{ r.title | jsonify }}, category: {{ r.category | default: "Other" | jsonify }}, desc: {{ d | strip_html | truncate: 150 | jsonify }} },
+{% endfor %}
 ];
 
 // Extract unique categories
@@ -177,7 +166,7 @@ function filterRoles() {
     } else {
         noResults.style.display = 'none';
         container.innerHTML = filtered.map(role => `
-            <a href="/roles/${role.slug}/" class="role-card">
+            <a href="${role.url}" class="role-card">
                 <div class="role-category">${role.category}</div>
                 <h3 class="role-title">${role.title}</h3>
                 <p class="role-desc">${role.desc}</p>

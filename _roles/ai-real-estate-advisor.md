@@ -45,7 +45,7 @@ related_roles:
   - ai-real-estate-valuer
   - ai-real-estate-forecaster
   - ai-sales-enablement
-description: \"AI Real Estate Advisors use data and AI tools for pricing, market analysis and client matching, while delivering the negotiation and local knowledge buyers a...\"
+description: "AI Real Estate Advisors use data and AI tools for pricing, market analysis and client matching, while delivering the negotiation and local knowledge buyers a..."
 ---
 
 ## What does an AI Real Estate Advisor do?

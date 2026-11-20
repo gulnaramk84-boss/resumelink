@@ -46,7 +46,7 @@ related_roles:
   - chief-ai-officer
   - ai-governance-consultant
   - computer-vision-specialist
-description: \"Prompt Artist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collabo...\"
+description: "Prompt Artist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collabo..."
 ---
 
 ## What does a Prompt Artist do?

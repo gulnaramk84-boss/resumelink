@@ -45,7 +45,7 @@ related_roles:
   - ai-literacy-for-executives
   - the-psychology-of-ai-adoption
   - ai-mediated-mentorship
-description: \"AI Transformation Coaches help leaders and teams adopt AI in daily work, covering mindset, skills and habits, so tools actually get used and deliver value.\"
+description: "AI Transformation Coaches help leaders and teams adopt AI in daily work, covering mindset, skills and habits, so tools actually get used and deliver value."
 ---
 
 ## What does an AI Transformation Coach do?

@@ -45,7 +45,7 @@ related_roles:
   - ai-sustainability-reporting-lead
   - ai-environmental-impact-auditor
   - sustainable-ai-compute
-description: \"AI Sustainability Data Leads own the data behind emissions and ESG reporting (collection, quality, calculation and audit readiness), using automation to make...\"
+description: "AI Sustainability Data Leads own the data behind emissions and ESG reporting (collection, quality, calculation and audit readiness), using automation to make..."
 ---
 
 ## What does an AI Sustainability Data Lead do?

@@ -45,7 +45,7 @@ related_roles:
   - ai-healthcare-privacy-lead
   - zero-knowledge-ai-privacy
   - ai-data-privacy-for-small-business
-description: \"AI Healthcare Privacy Consultants help hospitals and health-tech companies use patient data for AI safely: de-identification, consent, vendor review and comp...\"
+description: "AI Healthcare Privacy Consultants help hospitals and health-tech companies use patient data for AI safely: de-identification, consent, vendor review and comp..."
 ---
 
 ## What does an AI Healthcare Privacy Consultant do?

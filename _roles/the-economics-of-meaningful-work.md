@@ -46,7 +46,7 @@ related_roles:
   - ai-ethics-auditor
   - ai-governance-consultant
   - algorithmic-bias-audit-for-managers
-description: \"Future of Work Economist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human...\"
+description: "Future of Work Economist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human..."
 ---
 
 ## What does a Future of Work Economist do?

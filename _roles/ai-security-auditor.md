@@ -45,7 +45,7 @@ related_roles:
   - ai-ethics-auditor
   - ai-insurance-auditor
   - securing-the-ai-supply-chain
-description: \"AI Security Auditors assess whether AI systems and their controls meet security standards and regulations, producing independent evidence for boards, custome...\"
+description: "AI Security Auditors assess whether AI systems and their controls meet security standards and regulations, producing independent evidence for boards, custome..."
 ---
 
 ## What does an AI Security Auditor do?

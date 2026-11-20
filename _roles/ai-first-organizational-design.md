@@ -45,7 +45,7 @@ related_roles:
   - ai-hr-specialist
   - ai-talent-intelligence-lead
   - the-psychology-of-ai-adoption
-description: \"AI-First Organizational Designers reshape roles, teams and decision rights so that people and AI systems work together effectively, and so the change sticks.\"
+description: "AI-First Organizational Designers reshape roles, teams and decision rights so that people and AI systems work together effectively, and so the change sticks."
 ---
 
 ## What does an AI-First Organizational Designer do?

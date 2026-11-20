@@ -45,7 +45,7 @@ related_roles:
   - linkedin-profile-optimization
   - semantic-seo-mastery
   - referral-request-guide
-description: \"A practical guide to building a clear, credible personal brand, including headline, story, proof and online presence, so recruiters understand your value in ...\"
+description: "A practical guide to building a clear, credible personal brand, including headline, story, proof and online presence, so recruiters understand your value in ..."
 ---
 
 ## What is this guide about?

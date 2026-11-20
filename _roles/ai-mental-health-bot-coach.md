@@ -7,7 +7,7 @@ summary_hack: "Designing empathetic, safe AI tools for mental health support."
 judgment_skills: ['Psychology', 'Ethics', 'Empathy', 'Data Privacy']
 ai_tools: ['Headspace', 'ChatGPT', 'Calm']
 human_touch_tip: "Your goal is to support, never to replace, human care."
-description: \"Designing empathetic, safe AI tools for mental health support.\"
+description: "Designing empathetic, safe AI tools for mental health support."
 ---
 
 ## What is a AI Mental Health Tech?

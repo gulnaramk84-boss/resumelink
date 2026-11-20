@@ -45,7 +45,7 @@ related_roles:
   - career-change-roadmap
   - first-90-days-plan
   - career-change-roadmap
-description: \"Job Search Strategist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "Job Search Strategist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a Job Search Strategist do?

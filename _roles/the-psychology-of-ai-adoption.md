@@ -46,7 +46,7 @@ related_roles:
   - ai-ethics-auditor
   - ai-governance-consultant
   - algorithmic-bias-audit-for-managers
-description: \"AI Adoption Psychologist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human...\"
+description: "AI Adoption Psychologist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human..."
 ---
 
 ## What does a AI Adoption Psychologist do?

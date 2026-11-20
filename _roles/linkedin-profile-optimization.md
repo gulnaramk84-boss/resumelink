@@ -46,7 +46,7 @@ related_roles:
   - career-change-roadmap
   - job-search-organization
   - first-90-days-plan
-description: \"LinkedIn Profile Optimization Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the f...\"
+description: "LinkedIn Profile Optimization Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the f..."
 ---
 
 ## What does a LinkedIn Profile Optimization Specialist do?

@@ -45,7 +45,7 @@ related_roles:
   - ai-urban-traffic-optimizer
   - ai-urban-mobility-designer
   - ai-energy-grid-manager
-description: \"AI Smart City Coordinators connect city departments, vendors and residents to deploy data and AI projects (traffic, lighting, waste, safety) that improve ser...\"
+description: "AI Smart City Coordinators connect city departments, vendors and residents to deploy data and AI projects (traffic, lighting, waste, safety) that improve ser..."
 ---
 
 ## What does an AI Smart City Coordinator do?

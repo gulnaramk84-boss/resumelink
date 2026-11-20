@@ -7,7 +7,7 @@ summary_hack: "Directing hybrid teams of humans and AI. I ensure the Big Idea st
 judgment_skills: ['Visionary Thinking', 'Team Mentorship', 'Brand Strategy', 'Curation', 'Storytelling']
 ai_tools: ['Adobe CC', 'Midjourney', 'Runway', 'ChatGPT Plus', 'Miro']
 human_touch_tip: "Focus on curation—picking the 1 perfect output out of 1000."
-description: \"Directing hybrid teams of humans and AI. I ensure the Big Idea stays human-centric.\"
+description: "Directing hybrid teams of humans and AI. I ensure the Big Idea stays human-centric."
 ---
 
 ## What is a AI Creative Director?

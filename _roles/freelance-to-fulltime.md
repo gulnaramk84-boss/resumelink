@@ -46,7 +46,7 @@ related_roles:
   - career-change-roadmap
   - job-search-organization
   - first-90-days-plan
-description: \"Freelance-to-Full-Time Transition Coach professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the fr...\"
+description: "Freelance-to-Full-Time Transition Coach professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the fr..."
 ---
 
 ## What does a Freelance-to-Full-Time Transition Coach do?

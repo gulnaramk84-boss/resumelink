@@ -45,7 +45,7 @@ related_roles:
   - ai-cybersecurity-analyst
   - securing-your-digital-likeness
   - career-change-roadmap
-description: \"Zero-Knowledge Privacy Engineer professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "Zero-Knowledge Privacy Engineer professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a Zero-Knowledge Privacy Engineer do?

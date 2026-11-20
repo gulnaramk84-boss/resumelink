@@ -7,7 +7,7 @@ summary_hack: "Ensuring that AI-driven healthcare tools protect sensitive patien
 judgment_skills: ['Data Privacy', 'Ethical Reasoning', 'Regulatory Knowledge', 'Detail Orientation', 'Integrity']
 ai_tools: ['OneTrust', 'Compliance Dashboards', 'Python', 'Legal Tools']
 human_touch_tip: "Focus on trust—how you ensure patients feel safe sharing their data."
-description: \"Ensuring that AI-driven healthcare tools protect sensitive patient identities and meet HIPAA standards.\"
+description: "Ensuring that AI-driven healthcare tools protect sensitive patient identities and meet HIPAA standards."
 ---
 
 ## What is a AI Healthcare Privacy Lead?

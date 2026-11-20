@@ -45,7 +45,7 @@ related_roles:
   - ai-medical-diagnostic-lead
   - ai-healthcare-ops-manager
   - computer-vision-specialist
-description: \"AI Radiology Workflow Specialists integrate and monitor AI tools in imaging departments, making sure detection and triage algorithms fit clinical workflows a...\"
+description: "AI Radiology Workflow Specialists integrate and monitor AI tools in imaging departments, making sure detection and triage algorithms fit clinical workflows a..."
 ---
 
 ## What does an AI Radiology Workflow Specialist do?

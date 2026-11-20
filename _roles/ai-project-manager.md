@@ -45,7 +45,7 @@ related_roles:
   - ai-product-manager
   - mlops-engineer
   - ai-business-lead
-description: \"AI Project Managers deliver AI and machine learning projects from idea to production, managing data dependencies, model uncertainty and stakeholder expectati...\"
+description: "AI Project Managers deliver AI and machine learning projects from idea to production, managing data dependencies, model uncertainty and stakeholder expectati..."
 ---
 
 ## What does an AI Project Manager do?

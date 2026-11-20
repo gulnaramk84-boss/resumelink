@@ -45,7 +45,7 @@ related_roles:
   - ai-agri-tech-specialist
   - ai-climate-modeler
   - ai-environmental-impact-auditor
-description: \"AI Agricultural Yield Specialists use predictive modeling and remote sensing data to maximize crop output while minimizing resource waste.\"
+description: "AI Agricultural Yield Specialists use predictive modeling and remote sensing data to maximize crop output while minimizing resource waste."
 ---
 
 ## What does a AI Agricultural Yield Specialist do?

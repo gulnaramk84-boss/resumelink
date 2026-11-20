@@ -45,7 +45,7 @@ related_roles:
   - ai-real-estate-forecaster
   - ai-financial-analyst
   - ai-real-estate-valuer
-description: \"AI Real Estate Investment Analysts underwrite property deals using financial models, market data and machine learning, helping investors decide what to buy, ...\"
+description: "AI Real Estate Investment Analysts underwrite property deals using financial models, market data and machine learning, helping investors decide what to buy, ..."
 ---
 
 ## What does an AI Real Estate Investment Analyst do?

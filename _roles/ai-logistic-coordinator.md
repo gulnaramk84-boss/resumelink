@@ -46,7 +46,7 @@ related_roles:
   - chief-ai-officer
   - ai-governance-consultant
   - computer-vision-specialist
-description: \"AI Logistics Coordinator professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human...\"
+description: "AI Logistics Coordinator professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human..."
 ---
 
 ## What does a AI Logistics Coordinator do?

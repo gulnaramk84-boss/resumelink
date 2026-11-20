@@ -7,7 +7,7 @@ summary_hack: "Using AI for talent scouting while maintaining human-first recrui
 judgment_skills: ['Unbiased Recruitment', 'Cultural Design', 'Conflict Resolution', 'Data Privacy', 'Talent Strategy']
 ai_tools: ['LinkedIn Recruiter', 'HiredScore', 'Glint', 'Workday', 'Greenhouse']
 human_touch_tip: "Describe your philosophy on 'Human-First' leadership in a tech world."
-description: \"Using AI for talent scouting while maintaining human-first recruitment.\"
+description: "Using AI for talent scouting while maintaining human-first recruitment."
 ---
 
 ## What is a AI HR Specialist?

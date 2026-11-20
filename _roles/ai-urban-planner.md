@@ -45,7 +45,7 @@ related_roles:
   - ai-urban-mobility-designer
   - ai-urban-traffic-optimizer
   - ai-architectural-designer
-description: \"AI Urban Planners use spatial data, simulation and AI to plan land use, housing and infrastructure, and to involve residents in decisions about their city.\"
+description: "AI Urban Planners use spatial data, simulation and AI to plan land use, housing and infrastructure, and to involve residents in decisions about their city."
 ---
 
 ## What does an AI Urban Planner do?

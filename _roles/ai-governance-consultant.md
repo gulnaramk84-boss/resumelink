@@ -45,7 +45,7 @@ related_roles:
   - ai-ethics-auditor
   - algorithmic-bias-audit-for-managers
   - career-change-roadmap
-description: \"AI Governance Consultant professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "AI Governance Consultant professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a AI Governance Consultant do?

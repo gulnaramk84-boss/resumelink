@@ -45,7 +45,7 @@ related_roles:
   - prompt-engineering-for-developers
   - cognitive-load-management-ai
   - career-change-roadmap
-description: \"Digital Communication Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "Digital Communication Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a Digital Communication Specialist do?

@@ -45,7 +45,7 @@ related_roles:
   - ai-genomic-data-analyst
   - ai-biotech-data-scientist
   - synthetic-data-management
-description: \"AI Bio Data Architects design the data platforms that let life-science teams train and run models on genomic, clinical and lab data securely and reproducibly.\"
+description: "AI Bio Data Architects design the data platforms that let life-science teams train and run models on genomic, clinical and lab data securely and reproducibly."
 ---
 
 ## What does an AI Bio Data Architect do?

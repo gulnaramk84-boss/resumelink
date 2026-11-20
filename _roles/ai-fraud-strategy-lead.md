@@ -45,7 +45,7 @@ related_roles:
   - ai-fraud-prevention-manager
   - ai-fintech-fraud-analyst
   - ai-risk-manager
-description: \"AI Fraud Strategy Leads set the rules, models and operating model that balance fraud losses against customer friction across an organization's products.\"
+description: "AI Fraud Strategy Leads set the rules, models and operating model that balance fraud losses against customer friction across an organization's products."
 ---
 
 ## What does an AI Fraud Strategy Lead do?

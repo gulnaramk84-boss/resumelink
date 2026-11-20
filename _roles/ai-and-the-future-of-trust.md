@@ -46,7 +46,7 @@ related_roles:
   - ai-ethics-auditor
   - ai-governance-consultant
   - algorithmic-bias-audit-for-managers
-description: \"AI Trust & Safety Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of h...\"
+description: "AI Trust & Safety Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of h..."
 ---
 
 ## What does a AI Trust & Safety Specialist do?

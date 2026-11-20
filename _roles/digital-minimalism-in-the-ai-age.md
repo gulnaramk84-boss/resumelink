@@ -46,7 +46,7 @@ related_roles:
   - prompt-engineering-for-developers
   - cognitive-load-management-ai
   - human-in-the-loop-workflow-design
-description: \"Digital Minimalism Consultant professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of ...\"
+description: "Digital Minimalism Consultant professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of ..."
 ---
 
 ## What does a Digital Minimalism Consultant do?

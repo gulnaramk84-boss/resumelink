@@ -47,7 +47,7 @@ related_roles:
   - ai-governance-consultant
   - ai-legal-compliance-manager
   - zero-knowledge-ai-privacy
-description: \"AI Cybersecurity Analysts use machine learning to detect threats in real-time, reducing response time from hours to milliseconds. They manage AI-powered secu...\"
+description: "AI Cybersecurity Analysts use machine learning to detect threats in real-time, reducing response time from hours to milliseconds. They manage AI-powered secu..."
 ---
 
 ## What does a AI Cybersecurity Analyst do?

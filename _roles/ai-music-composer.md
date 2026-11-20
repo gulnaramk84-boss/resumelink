@@ -45,7 +45,7 @@ related_roles:
   - prompt-artist
   - ai-video-producer
   - ai-game-designer
-description: \"AI-assisted music composers use generative and production tools to sketch, arrange and produce music faster, while owning the creative voice and navigating r...\"
+description: "AI-assisted music composers use generative and production tools to sketch, arrange and produce music faster, while owning the creative voice and navigating r..."
 ---
 
 ## What does an AI-Assisted Music Composer do?

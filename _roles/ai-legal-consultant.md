@@ -45,7 +45,7 @@ related_roles:
   - ai-legal-compliance-manager
   - ai-intellectual-property-strategy
   - ai-augmented-legal-reasoning
-description: \"AI Legal Consultants advise organizations on the legal side of AI (contracts, liability, IP, privacy and regulation) and help legal teams adopt AI tools resp...\"
+description: "AI Legal Consultants advise organizations on the legal side of AI (contracts, liability, IP, privacy and regulation) and help legal teams adopt AI tools resp..."
 ---
 
 ## What does an AI Legal Consultant do?

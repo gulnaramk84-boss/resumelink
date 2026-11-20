@@ -45,7 +45,7 @@ related_roles:
   - chief-ai-officer
   - ai-governance-consultant
   - career-change-roadmap
-description: \"Computer Vision Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market.\"
+description: "Computer Vision Specialist professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
 ---
 
 ## What does a Computer Vision Specialist do?

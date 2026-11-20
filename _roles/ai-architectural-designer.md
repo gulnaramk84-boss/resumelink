@@ -7,7 +7,7 @@ summary_hack: "Optimizing layouts for light and airflow using AI. I create struc
 judgment_skills: ['Structural Logic', 'Environmental Science', 'Spatial Design', 'Mathematics', 'Aesthetics']
 ai_tools: ['Rhino 3D', 'Grasshopper', 'TestFit', 'Midjourney', 'AutoCAD']
 human_touch_tip: "Describe how your design saved energy or improved building vibe."
-description: \"Optimizing layouts for light and airflow using AI. I create structures both beautiful and efficient.\"
+description: "Optimizing layouts for light and airflow using AI. I create structures both beautiful and efficient."
 ---
 
 ## What is a AI Architectural Designer?

@@ -7,7 +7,7 @@ summary_hack: "Leading AI-driven case law analysis for global firms."
 judgment_skills: ['Critical Thinking', 'Integrity', 'Legal Logic', 'Detail']
 ai_tools: ['Harvey AI', 'Casetext', 'Westlaw']
 human_touch_tip: "Emphasize your 'Human Check' on every AI citation."
-description: \"Leading AI-driven case law analysis for global firms.\"
+description: "Leading AI-driven case law analysis for global firms."
 ---
 
 ## What is a AI Legal Research Lead?

@@ -46,7 +46,7 @@ related_roles:
   - ai-governance-consultant
   - ai-ethics-auditor
   - ai-legal-compliance-manager
-description: \"The Chief AI Officer leads enterprise AI strategy, governance, and implementation — translating AI capabilities into measurable business outcomes while manag...\"
+description: "The Chief AI Officer leads enterprise AI strategy, governance, and implementation — translating AI capabilities into measurable business outcomes while manag..."
 ---
 
 ## What does a Chief AI Officer (CAIO) do?

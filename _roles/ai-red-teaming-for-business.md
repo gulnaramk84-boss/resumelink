@@ -45,7 +45,7 @@ related_roles:
   - ai-cybersecurity-red-teamer
   - prompt-injection-defense-manual
   - algorithmic-bias-audit-for-managers
-description: \"Business AI Red Team Leads organize structured attacks on a company's AI products and internal assistants, covering security, safety, bias and misuse, so ris...\"
+description: "Business AI Red Team Leads organize structured attacks on a company's AI products and internal assistants, covering security, safety, bias and misuse, so ris..."
 ---
 
 ## What does a Business AI Red Team Lead do?

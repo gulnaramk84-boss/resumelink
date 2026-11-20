@@ -45,7 +45,7 @@ related_roles:
   - ai-talent-intelligence-lead
   - ai-talent-retention-specialist
   - ai-hr-specialist
-description: \"AI Talent Strategy Analysts use workforce data and AI to forecast skill needs, find internal talent and shape hiring and reskilling plans.\"
+description: "AI Talent Strategy Analysts use workforce data and AI to forecast skill needs, find internal talent and shape hiring and reskilling plans."
 ---
 
 ## What does an AI Talent Strategy Analyst do?

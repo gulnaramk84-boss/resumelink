@@ -45,7 +45,7 @@ related_roles:
   - ai-governance-and-the-eu-ai-act
   - ai-governance-consultant
   - ai-ethics-officer
-description: \"Startup AI Governance Leads set up lightweight, practical AI governance, covering policies, risk reviews and documentation, so a startup can sell to enterpri...\"
+description: "Startup AI Governance Leads set up lightweight, practical AI governance, covering policies, risk reviews and documentation, so a startup can sell to enterpri..."
 ---
 
 ## What does a Startup AI Governance Lead do?
