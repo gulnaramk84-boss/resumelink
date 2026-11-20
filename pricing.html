@@ -165,7 +165,7 @@ if (urlParams.get('pro') === 'activated') {
     window.history.replaceState({}, '', window.location.pathname);
 }
 
-const isEn = navigator.language.startsWith('en');
+const isEn = (function(){try{var s=localStorage.getItem('rl_lang');if(s==='en'||s==='ru')return s==='en'}catch(e){}return navigator.language.startsWith('en')})();
 
 const T = {
     en: {
