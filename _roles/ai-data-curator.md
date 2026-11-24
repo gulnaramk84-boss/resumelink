@@ -3,59 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Data Curator"
 h1: "AI Data Curator Resume Guide 2026"
-summary_hack: "AI Data Curator professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
-salary_range: "$80,000 – $135,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "An AI Data Curator builds and maintains the datasets that AI systems learn from or retrieve from: choosing sources, cleaning and labelling, checking rights and privacy, documenting everything, and watching for gaps that make a model unfair or unreliable."
+salary_note: "No verified salary figure here: pay varies by country, industry and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Strategic Thinking & Problem Solving
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data Interpretation & Decision Making
-  - Communication & Stakeholder Management
+  - "Judging data quality, coverage and representativeness"
+  - "Writing clear labelling guidelines and checking agreement"
+  - "Rights, licensing and privacy awareness"
+  - "Documentation (datasheets, data dictionaries)"
+  - "Attention to detail and patient review"
 ai_tools:
-  - Python / R
-  - AI Productivity Suite
-  - Data Visualization Tools
-  - Project Management Platforms
-  - Domain-specific AI Software
+  - "SQL, spreadsheets and Python (pandas)"
+  - "Data validation tools such as Great Expectations"
+  - "Labelling and annotation platforms"
+  - "Hugging Face Datasets and similar libraries"
+  - "Data catalogs and version control for data"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - cross-functional collaboration
-  - stakeholder management
-  - process optimization
-  - AI implementation
-resume_bullet_1: "Led AI implementation initiative delivering 35% efficiency gain across 3 departments within 6 months."
-resume_bullet_2: "Built and trained team of 8 on AI-augmented workflows, reducing manual processing time by 50%."
-resume_bullet_3: "Developed data-driven reporting framework that improved decision-making speed by 40% for senior leadership."
-career_transition: "Common paths into AI Data Curator: professionals from adjacent fields with strong analytical skills, domain experts who upskill in AI tools, and career changers who complete targeted AI certifications. Most transitions take 6-12 months."
+  - "data curation"
+  - "data quality"
+  - "data labelling"
+  - "dataset documentation"
+  - "data governance"
+  - "SQL"
+  - "Python"
+  - "annotation guidelines"
+  - "data privacy"
+  - "machine learning data"
+resume_bullet_1: "Curated a dataset of [N] records from [N] sources; removed duplicates and errors, raising label agreement from [X] to [Y]."
+resume_bullet_2: "Wrote annotation guidelines and trained [N] annotators, reducing disagreement on edge cases by [X]%."
+resume_bullet_3: "Documented dataset origin, licence, known gaps and intended use so [team] could assess risk before model training."
+career_transition: "Librarians, archivists, analysts, researchers, editors and data-entry or QA specialists often move into curation. Show you can spot problems in messy data and explain them clearly."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-human_touch_tip: "In every AI Data Curator interview, prepare one story where your judgment corrected or improved on what an AI system suggested. This demonstrates the human value you bring beyond tool proficiency."
-faq_q1: "What skills are most important for a AI Data Curator in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like Python, data analysis, and familiarity with AI platforms are essential, but soft skills like critical thinking, communication, and ethical judgment differentiate top candidates."
-faq_q2: "What is the salary range for AI Data Curator roles?"
-faq_a2: "Salaries range from $80,000 – $135,000 depending on experience, location, and company size. AI specialization typically commands a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I transition into AI Data Curator from my current career?"
-faq_a3: "Start by identifying the overlap between your current skills and the role requirements. Complete relevant certifications, build a portfolio of AI-augmented projects, and network in professional communities. Most successful transitions take 6-18 months of deliberate preparation."
+  - "Google AI Essentials"
+  - "Data governance or data management courses (for example DAMA CDMP)"
+  - "Privacy fundamentals (IAPP CIPP/E)"
+human_touch_tip: "Models inherit the blind spots of their data. In interviews, describe one case where you found a gap (a group, language or situation missing) and what you did about it. That shows judgment, not just cleaning skills."
+faq_q1: "Is data curation just data cleaning?"
+faq_a1: "Cleaning is one part. Curation also covers choosing sources, checking rights and privacy, labelling, documenting, versioning and monitoring how the data is used."
+faq_q2: "Do I need to code?"
+faq_a2: "SQL and a little Python make you much more effective, but strong curators also come from library, research and editing backgrounds."
+faq_q3: "How do I show impact?"
+faq_a3: "Quantify data you improved (error rate, label agreement, coverage) and describe the downstream effect, such as a model or report that became more reliable."
 related_roles:
-  - chief-ai-officer
-  - ai-governance-consultant
+  - data-provenance-and-ethics
+  - ai-ethics-officer
   - computer-vision-specialist
-description: "AI Data Curator professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
+  - ai-governance-consultant
+description: "How to become an AI Data Curator: skills, ATS keywords, resume bullet templates, dataset documentation practices, interview questions, a step-by-step plan and trusted learning resources."
+insights:
+  - "**Document the dataset like a product.** Source, collection method, licence, known gaps and intended use turn a pile of files into something others can trust."
+  - "**Edge cases decide quality.** Rare situations are usually where models fail, so check coverage there first."
+  - "**Agreement between labellers is a metric.** If two careful people disagree often, the guideline is unclear, not the people."
+  - "**Rights and privacy come first.** A beautiful dataset you may not legally use is a liability."
+mistakes:
+  - "Scraping or collecting data without checking licence and consent."
+  - "Deleting 'odd' examples that are actually the cases the model needs to learn."
+  - "Changing a dataset without versioning, so results cannot be reproduced."
+  - "Writing annotation instructions that nobody tested on real examples."
+interview_questions:
+  - "How would you decide whether a dataset is fit for a given model?"
+  - "Describe how you would write annotation guidelines for an ambiguous task."
+  - "How do you find and fix bias or gaps in a dataset?"
+  - "A source turns out to have an unclear licence. What do you do?"
+  - "How do you keep dataset changes reproducible?"
+action_plan:
+  - "**Week 1.** Pick a public dataset and write a one-page datasheet: origin, purpose, licence, composition, known issues."
+  - "**Week 2.** Profile it with SQL or pandas: missing values, duplicates, class balance, odd values."
+  - "**Week 3.** Write annotation or cleaning rules for one problem you found and test them on 50 examples."
+  - "**Week 4.** Document before and after quality measures and what you would monitor over time."
+  - "**Month 2.** Publish the work as a short case study with your datasheet."
+resources:
+  - { title: "Datasheets for Datasets (paper)", url: "https://arxiv.org/abs/1803.09010", note: "the standard way to document a dataset" }
+  - { title: "Hugging Face Datasets documentation", url: "https://huggingface.co/docs/datasets", note: "loading, processing and sharing datasets" }
+  - { title: "Great Expectations", url: "https://greatexpectations.io", note: "open-source data validation" }
+  - { title: "Kaggle Datasets", url: "https://www.kaggle.com/datasets", note: "practice datasets with community notebooks" }
 ---
 
-## What does a AI Data Curator do?
+## What the work actually looks like
 
-AI Data Curator professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market. In 2026, this role requires both deep domain knowledge and the ability to work alongside AI systems as a collaborative partner, not just a user.
+You decide what goes into a dataset and why. A normal week might include assessing a new source, writing labelling rules, reviewing a sample of labels, checking for duplicates and privacy risks, and updating documentation for the team that trains or evaluates the model.
 
-Professionals in this field spend their time designing AI-augmented workflows, validating machine outputs with human judgment, and communicating insights to stakeholders who may not have technical backgrounds. The human element — ethics, creativity, and contextual understanding — remains irreplaceable.
+## Why this role matters
 
-## Why this role matters in 2026
+Most AI problems that reach users trace back to data: missing groups, wrong labels, outdated examples, or data that should not have been used. A careful curator prevents these problems early and makes the results explainable.
 
-Organizations are deploying AI tools faster than they can build internal expertise to manage them. AI Data Curator professionals bridge the gap between AI capability and business value, ensuring that technology investments translate into real outcomes.
+## How to benchmark pay
 
-The demand for specialists who combine domain knowledge with AI literacy is outpacing supply across industries, creating significant career opportunities for those who invest in developing this hybrid skill set.
+Pay varies widely by country, industry and seniority. Compare five current postings with titles such as data curator, data quality analyst, annotation lead or data steward in your market. For the United States, the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) lists related data and library occupations.
