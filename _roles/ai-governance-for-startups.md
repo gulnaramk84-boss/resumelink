@@ -45,7 +45,35 @@ related_roles:
   - ai-governance-and-the-eu-ai-act
   - ai-governance-consultant
   - ai-ethics-officer
-description: "Startup AI Governance Leads set up lightweight, practical AI governance, covering policies, risk reviews and documentation, so a startup can sell to enterpri..."
+description: "How to become a Startup AI Governance Lead: the minimum viable program, frameworks to know (NIST AI RMF, ISO/IEC 42001, EU AI Act), interview questions, a 90-day plan and sources."
+partners: [connect4pro, fundan]
+partner_note: "Building a startup in Central Asia? Investors and accelerators increasingly ask how you manage AI risk. These projects of ours list open investor programs, accelerators and grants in the region."
+insights:
+  - "**Governance sells.** Enterprise buyers send AI questionnaires before they sign. A clear one-page answer set often shortens procurement more than any technical argument."
+  - "**Start with an inventory, not a policy.** You cannot govern what you have not listed. Record every model, vendor, dataset and use case first; the policy writes itself from the gaps."
+  - "**Risk level decides effort.** The EU AI Act sorts systems by risk. Work out which category each feature falls in before you spend months on documents."
+  - "**Reuse what you already have.** If you run SOC 2 or ISO 27001 processes, extend those controls to AI instead of building a parallel system."
+mistakes:
+  - "Copying a big-company policy that nobody in a 30-person team will follow."
+  - "Documenting the model but not the data it was trained or prompted with."
+  - "Treating the EU AI Act as someone else's problem because you are not based in the EU. It can apply based on where your system is used."
+  - "Forgetting third-party AI vendors in the risk review."
+interview_questions:
+  - "How would you build a minimum viable AI governance program in 90 days?"
+  - "A big customer asks whether your product uses AI to make decisions about people. How do you find out and answer?"
+  - "How do you decide whether a new feature is high-risk under the EU AI Act?"
+  - "How do you get engineers to follow a review process without slowing releases?"
+  - "Which metrics show that governance is working?"
+action_plan:
+  - "**Days 1 to 30.** Build the AI inventory: models, vendors, data sources, owners, customers affected."
+  - "**Days 31 to 60.** Publish a short AI use policy and a risk-review checklist for new features. Pilot them on one team."
+  - "**Days 61 to 90.** Add model and data documentation, an incident process, and a customer-facing AI summary you can send with security questionnaires."
+  - "**Afterwards.** Decide whether a formal ISO/IEC 42001 readiness assessment adds value for your customers."
+resources:
+  - { title: "NIST AI Risk Management Framework", url: "https://www.nist.gov/itl/ai-risk-management-framework", note: "free, practical risk framework" }
+  - { title: "EU AI Act (official text, EUR-Lex)", url: "https://eur-lex.europa.eu/eli/reg/2024/1689/oj", note: "Regulation (EU) 2024/1689" }
+  - { title: "ISO/IEC 42001", url: "https://www.iso.org/standard/81230.html", note: "management system standard for AI" }
+  - { title: "IAPP AI Governance Professional", url: "https://iapp.org/certify/aigp/", note: "certification for governance roles" }
 ---
 
 ## What does a Startup AI Governance Lead do?

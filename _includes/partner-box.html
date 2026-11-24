@@ -1,0 +1,44 @@
+{% comment %}
+  "From our other projects" box. Shown only when a guide lists partners in its front matter, e.g.
+    partners: [fundan, connect4pro, ratekit]
+    partner_note: "One sentence that explains why these are relevant to this specific guide."
+  Own projects, so links are plain (not sponsored) and carry UTM tags for tracking.
+{% endcomment %}
+{% if page.partners %}
+<div class="r-section">
+  <div class="r-section-title">From our other projects</div>
+  {% if page.partner_note %}<p style="font-size:14px;color:var(--muted);line-height:1.7;margin-bottom:14px">{{ page.partner_note }}</p>{% endif %}
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px">
+    {% for p in page.partners %}
+      {% if p == 'fundan' %}
+      <a href="https://fundan.cc/?utm_source=resumelink&utm_medium=guide&utm_campaign={{ page.title | slugify }}" target="_blank" rel="noopener" class="r-crosslink">
+        <div class="r-crosslink-icon">🧭</div>
+        <div class="r-crosslink-body">
+          <h4>Fundan: AI search for grants and investors</h4>
+          <p>Find open grants, accelerators and investor programs for Kyrgyzstan and Central Asia. Listings and interface are in Russian.</p>
+          <span>Open Fundan.cc →</span>
+        </div>
+      </a>
+      {% elsif p == 'connect4pro' %}
+      <a href="https://connect4.pro/?utm_source=resumelink&utm_medium=guide&utm_campaign={{ page.title | slugify }}" target="_blank" rel="noopener" class="r-crosslink">
+        <div class="r-crosslink-icon">📰</div>
+        <div class="r-crosslink-body">
+          <h4>Connect4Pro: funding news and deadlines</h4>
+          <p>Hand-checked grants, investment calls and business guides for Central Asia, each with a deadline and a link to the official source. In Russian.</p>
+          <span>Open Connect4.pro →</span>
+        </div>
+      </a>
+      {% elsif p == 'ratekit' %}
+      <a href="https://ratekit.org/?utm_source=resumelink&utm_medium=guide&utm_campaign={{ page.title | slugify }}" target="_blank" rel="noopener" class="r-crosslink">
+        <div class="r-crosslink-icon">🧮</div>
+        <div class="r-crosslink-body">
+          <h4>RateKit: free business calculators</h4>
+          <p>Work out your minimum freelance rate, convert salary to hourly pay, or compare contractor and employee take-home pay.</p>
+          <span>Open RateKit.org →</span>
+        </div>
+      </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}

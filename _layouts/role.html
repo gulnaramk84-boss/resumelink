@@ -169,6 +169,36 @@ layout: default
 </div>
 {% endif %}
 
+{% if page.insights %}
+<div class="r-section">
+  <div class="r-section-title">🔎 Insights that are easy to miss</div>
+  <ul class="r-bullets">{% for item in page.insights %}<li>{{ item | markdownify | remove: "<p>" | remove: "</p>" }}</li>{% endfor %}</ul>
+</div>
+{% endif %}
+{% if page.mistakes %}
+<div class="r-section">
+  <div class="r-section-title">⚠️ Common mistakes</div>
+  <ul class="r-bullets">{% for item in page.mistakes %}<li>{{ item | markdownify | remove: "<p>" | remove: "</p>" }}</li>{% endfor %}</ul>
+</div>
+{% endif %}
+{% if page.interview_questions %}
+<div class="r-section">
+  <div class="r-section-title">🎤 Interview questions to prepare</div>
+  <ul class="r-bullets">{% for item in page.interview_questions %}<li>{{ item | markdownify | remove: "<p>" | remove: "</p>" }}</li>{% endfor %}</ul>
+</div>
+{% endif %}
+{% if page.action_plan %}
+<div class="r-section">
+  <div class="r-section-title">✅ Your action plan</div>
+  <ol class="r-bullets" style="list-style:decimal;padding-left:1.4rem">{% for item in page.action_plan %}<li>{{ item | markdownify | remove: "<p>" | remove: "</p>" }}</li>{% endfor %}</ol>
+</div>
+{% endif %}
+{% if page.resources %}
+<div class="r-section">
+  <div class="r-section-title">🔗 Useful resources</div>
+  <ul class="r-bullets">{% for r in page.resources %}<li><a href="{{ r.url }}" target="_blank" rel="noopener" style="color:var(--green-dk)">{{ r.title }}</a>{% if r.note %}: {{ r.note }}{% endif %}</li>{% endfor %}</ul>
+</div>
+{% endif %}
 {% if content and content != "" %}<div style="font-size:14px;color:var(--muted);line-height:1.8;margin-bottom:2rem">{{ content }}</div>{% endif %}
 
 {% if page.faq_q1 %}
@@ -193,15 +223,9 @@ layout: default
       <span>Try free at ResumeLink.cc →</span>
     </div>
   </a>
-  <a href="https://ratekit.org" class="r-crosslink" target="_blank">
-    <div class="r-crosslink-icon">💰</div>
-    <div class="r-crosslink-body">
-      <h4>Calculate your market salary</h4>
-      <p>Use RateKit to benchmark your rate and negotiate your next offer with real data.</p>
-      <span>Open RateKit.org →</span>
-    </div>
-  </a>
 </div>
+
+{% include partner-box.html %}
 
 <div class="r-cta">
   <h2>Ready to stand out as {{ t }}?</h2>
