@@ -3,59 +3,89 @@ layout: role
 category: "Ethics & Society"
 title: "AI Governance Consultant"
 h1: "AI Governance Consultant Resume Guide 2026"
-summary_hack: "AI Governance Consultant professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
-salary_range: "$110,000 – $180,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "An AI Governance Consultant helps organisations build practical AI governance: an inventory of AI systems, risk assessments, policies, documentation and training, mapped to laws and standards such as the EU AI Act, NIST AI RMF and ISO/IEC 42001."
+salary_note: "No verified salary figure here: consulting income depends on market, specialisation and whether you are employed or independent. See the benchmarking tips in the body."
 judgment_skills:
-  - Strategic Thinking & Problem Solving
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data Interpretation & Decision Making
-  - Communication & Stakeholder Management
+  - "Reading and applying laws and standards to real systems"
+  - "Risk assessment and prioritisation"
+  - "Policy and procedure writing"
+  - "Workshop facilitation and stakeholder management"
+  - "Scoping, pricing and delivering consulting work"
 ai_tools:
-  - Python / R
-  - AI Productivity Suite
-  - Data Visualization Tools
-  - Project Management Platforms
-  - Domain-specific AI Software
+  - "Governance, risk and compliance (GRC) platforms"
+  - "AI inventory and model documentation templates"
+  - "Spreadsheets and presentation tools"
+  - "Control mapping against ISO/IEC 42001 and NIST AI RMF"
+  - "LLM assistants for first drafts (always reviewed)"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - cross-functional collaboration
-  - stakeholder management
-  - process optimization
-  - AI implementation
-resume_bullet_1: "Led AI implementation initiative delivering 35% efficiency gain across 3 departments within 6 months."
-resume_bullet_2: "Built and trained team of 8 on AI-augmented workflows, reducing manual processing time by 50%."
-resume_bullet_3: "Developed data-driven reporting framework that improved decision-making speed by 40% for senior leadership."
-career_transition: "Common paths into AI Governance Consultant: professionals from adjacent fields with strong analytical skills, domain experts who upskill in AI tools, and career changers who complete targeted AI certifications. Most transitions take 6-12 months."
+  - "AI governance"
+  - "EU AI Act"
+  - "ISO/IEC 42001"
+  - "NIST AI RMF"
+  - "risk assessment"
+  - "compliance"
+  - "policy development"
+  - "responsible AI"
+  - "gap analysis"
+  - "third-party risk"
+resume_bullet_1: "Led a gap analysis against [framework/law] for [client type]; identified [N] gaps and delivered a prioritised remediation plan."
+resume_bullet_2: "Built an AI system inventory covering [N] systems and a risk classification used by [N] teams."
+resume_bullet_3: "Wrote an AI use policy and delivered training to [N] staff, with [metric] on completion and quiz results."
+career_transition: "Typical routes: privacy and compliance, internal audit, information security, legal, risk management and technology consulting. Add AI-specific knowledge through the frameworks below and one real or sample assessment you can show."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-human_touch_tip: "In every AI Governance Consultant interview, prepare one story where your judgment corrected or improved on what an AI system suggested. This demonstrates the human value you bring beyond tool proficiency."
-faq_q1: "What skills are most important for a AI Governance Consultant in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like Python, data analysis, and familiarity with AI platforms are essential, but soft skills like critical thinking, communication, and ethical judgment differentiate top candidates."
-faq_q2: "What is the salary range for AI Governance Consultant roles?"
-faq_a2: "Salaries range from $110,000 – $180,000 depending on experience, location, and company size. AI specialization typically commands a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I transition into AI Governance Consultant from my current career?"
-faq_a3: "Start by identifying the overlap between your current skills and the role requirements. Complete relevant certifications, build a portfolio of AI-augmented projects, and network in professional communities. Most successful transitions take 6-18 months of deliberate preparation."
+  - "IAPP AI Governance Professional (AIGP)"
+  - "ISO/IEC 42001 Lead Implementer or Lead Auditor"
+  - "CIPP/E, CISA or CISM depending on your background"
+human_touch_tip: "Clients do not need another 80-page report. Stand out with a one-page summary, a ranked action list and a clear first month."
+faq_q1: "What does an AI governance engagement look like?"
+faq_a1: "Typically: discover (inventory systems and uses), assess (risk and gaps against a framework), design (policies, roles, processes), and enable (training and evidence)."
+faq_q2: "Which frameworks should I learn first?"
+faq_a2: "Start with the NIST AI RMF for risk language, the EU AI Act for legal obligations if you work with Europe, and ISO/IEC 42001 for a certifiable management system."
+faq_q3: "How do I get my first client?"
+faq_a3: "Offer a small fixed-scope assessment (for example an AI inventory and top-ten risks) to organisations you already know, and turn it into a published case study with permission."
 related_roles:
-  - ai-ethics-auditor
-  - algorithmic-bias-audit-for-managers
-  - career-change-roadmap
-description: "AI Governance Consultant professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
+  - ai-ethics-officer
+  - ai-governance-and-the-eu-ai-act
+  - ai-legal-consultant
+  - chief-ai-officer
+description: "How to become an AI Governance Consultant: skills, ATS keywords, resume bullet templates, the key frameworks (EU AI Act, NIST AI RMF, ISO/IEC 42001), interview questions, a step-by-step plan and trusted sources."
+insights:
+  - "**Start with an inventory.** Most organisations do not know every AI system or tool in use. The inventory is the foundation for everything else."
+  - "**Right-size the programme.** A 30-person company and a bank need very different processes. Over-engineering is the most common reason governance fails."
+  - "**Map once, satisfy many.** A single set of controls can support several frameworks and customer questionnaires."
+  - "**Evidence matters.** Auditors and customers want records of decisions, reviews and training, not only policies."
+mistakes:
+  - "Delivering a policy document without a process or owner."
+  - "Giving legal conclusions without involving qualified counsel."
+  - "Ignoring AI in third-party tools and vendors."
+  - "Treating governance as a one-off project rather than an ongoing practice."
+interview_questions:
+  - "How would you run a first AI risk assessment in a mid-sized company?"
+  - "Explain the EU AI Act risk categories to a non-lawyer."
+  - "How would you prioritise 40 AI use cases by risk?"
+  - "Describe how you would reuse existing security controls for AI."
+  - "How do you measure whether governance is working?"
+action_plan:
+  - "**Week 1.** Read the NIST AI RMF overview and the EU AI Act risk categories. Summarise each on one page."
+  - "**Week 2.** Create an AI inventory template and fill it for a sample organisation or your own workplace."
+  - "**Week 3.** Write a risk assessment for two systems and propose controls mapped to a framework."
+  - "**Week 4.** Draft a one-page policy and a short training outline."
+  - "**Month 2.** Package everything as a case study and offer a fixed-scope assessment."
+resources:
+  - { title: "NIST AI Risk Management Framework", url: "https://www.nist.gov/itl/ai-risk-management-framework", note: "free, practical risk framework" }
+  - { title: "EU AI Act (official text, EUR-Lex)", url: "https://eur-lex.europa.eu/eli/reg/2024/1689/oj", note: "Regulation (EU) 2024/1689" }
+  - { title: "ISO/IEC 42001", url: "https://www.iso.org/standard/81230.html", note: "management system standard for AI" }
+  - { title: "IAPP AI Governance Professional", url: "https://iapp.org/certify/aigp/", note: "certification for governance roles" }
 ---
 
-## What does a AI Governance Consultant do?
+## What the work actually looks like
 
-AI Governance Consultant professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market. In 2026, this role requires both deep domain knowledge and the ability to work alongside AI systems as a collaborative partner, not just a user.
+You help organisations turn principles and legal requirements into everyday practice. That usually means workshops with product, legal, security and HR, a review of the AI systems in use, and a plan that the organisation can actually follow with its current people.
 
-Professionals in this field spend their time designing AI-augmented workflows, validating machine outputs with human judgment, and communicating insights to stakeholders who may not have technical backgrounds. The human element — ethics, creativity, and contextual understanding — remains irreplaceable.
+## A simple engagement structure
 
-## Why this role matters in 2026
+**Discover** (what AI do we use, where does data flow), **assess** (what risks and gaps exist), **design** (policies, roles, review steps), **enable** (training, templates, evidence). Fixed-scope, short engagements are easier to sell and to deliver well.
 
-Organizations are deploying AI tools faster than they can build internal expertise to manage them. AI Governance Consultant professionals bridge the gap between AI capability and business value, ensuring that technology investments translate into real outcomes.
+## How to benchmark pay
 
-The demand for specialists who combine domain knowledge with AI literacy is outpacing supply across industries, creating significant career opportunities for those who invest in developing this hybrid skill set.
+Consulting income varies widely by market, specialisation and whether you are employed or independent. Compare five current postings for titles such as AI governance consultant, GRC consultant or responsible AI lead, and for freelance work estimate your day rate from your costs and target income. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for related management analyst occupations.
