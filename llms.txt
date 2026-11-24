@@ -8,7 +8,7 @@ sitemap_exclude: true
 
 ## Product
 - [Home](https://resumelink.cc/): AI resume builder — upload a PDF, get an interactive profile, ATS score, link and QR code
-- [Pricing](https://resumelink.cc/pricing): free plan and paid upgrades
+- [Pricing](https://resumelink.cc/pricing): everything is free while the service grows
 - [For business](https://resumelink.cc/business): white-label AI resume profiles for agencies, universities and platforms
 - [About](https://resumelink.cc/about)
 

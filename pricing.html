@@ -13,7 +13,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pricing — ResumeLink</title>
-    <meta name="description" content="ResumeLink is free to start: an AI resume profile with ATS score, a shareable link and a QR code. See the plans and what Pro adds.">
+    <meta name="description" content="ResumeLink is free: an AI resume profile with ATS score, a shareable link, a QR code and your own custom URL. No card and no signup needed.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&family=Instrument+Serif:ital@1&display=swap" rel="stylesheet">
     <style>
@@ -42,7 +42,7 @@
         .pricing-h1 b{font-weight:500}
         .pricing-h1 em{font-family:'Instrument Serif',serif;font-style:italic;color:var(--green)}
         .pricing-sub{font-size:15px;color:var(--muted);line-height:1.65}
-        .plans-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:3rem;align-items:start}
+        .plans-grid{display:grid;grid-template-columns:minmax(0,440px);justify-content:center;gap:20px;margin-bottom:3rem;align-items:start}
         .plan-card{background:var(--surface);border:0.5px solid var(--border);border-radius:20px;padding:28px 24px;position:relative}
         .plan-card.featured{background:var(--forest);border-color:var(--forest)}
         .popular-badge{position:absolute;top:-12px;left:50%;transform:translateX(-50%);background:var(--green);color:#fff;font-size:10px;font-weight:500;padding:4px 14px;border-radius:20px;white-space:nowrap;text-transform:uppercase;letter-spacing:.08em}
@@ -95,7 +95,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="ResumeLink">
   <meta property="og:title" content="Pricing — ResumeLink">
-  <meta property="og:description" content="ResumeLink is free to start: an AI resume profile with ATS score, a shareable link and a QR code. See the plans and what Pro adds.">
+  <meta property="og:description" content="ResumeLink is free: an AI resume profile with ATS score, a shareable link, a QR code and your own custom URL. No card and no signup needed.">
   <meta property="og:url" content="https://resumelink.cc/pricing">
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="https://resumelink.cc/og-image.png">
@@ -170,14 +170,14 @@ const isEn = (function(){try{var s=localStorage.getItem('rl_lang');if(s==='en'||
 
 const T = {
     en: {
-        eyebrow: 'Simple pricing',
-        heroTitle: 'Start free.<br>Own it <em>forever.</em>',
-        heroSub: 'No subscriptions. No monthly fees. Pay once, yours for life.',
+        eyebrow: 'Pricing',
+        heroTitle: 'Free,<br>while we <em>grow.</em>',
+        heroSub: 'Everything in ResumeLink is free right now. No card, no signup, no limits you will notice.',
         navExplore:'Explore', navAbout:'About', navPricing:'Pricing',
         navContact:'Contact', navUpload:'Upload →',
         footerAbout:'About', footerPolicy:'Privacy & Terms', footerPricing:'Pricing',
         faqLabel: 'Frequently asked questions',
-        popular: 'Best Value',
+        popular: 'Free for everyone',
         kofi: {
             title: 'Like what we\'re building?',
             sub: 'Buy us a coffee — it helps keep ResumeLink free for everyone.',
@@ -185,54 +185,37 @@ const T = {
         },
         plans: [
             {
-                badge:'Free', name:'Starter',
-                price:'$0', per:'/ forever',
-                desc:'Everything you need to get started. No credit card required.',
-                btn:'Get Started Free', btnClass:'btn-free', btnHref:'/',
+                badge:'Free', name:'ResumeLink', featured:true, popular:true,
+                price:'$0', per:'/ for now',
+                desc:'All features included. Just upload your resume.',
+                btn:'Upload my resume', btnClass:'btn-pro', btnHref:'/',
                 features:[
-                    {ok:true,  text:'Up to 3 AI-generated profiles'},
-                    {ok:true,  text:'ATS Score'},
-                    {ok:true,  text:'Shareable link & QR code'},
-                    {ok:true,  text:'PDF download (with watermark)'},
-                    {ok:false, text:'Standard URL only (/?id=xxx)'},
-                    {ok:false, text:'No watermark removal'},
-                    {ok:false, text:'Basic ATS overview only'},
-                ]
-            },
-            {
-                badge:'Pro', name:'Lifetime', featured:true, popular:true,
-                price:'$9', per:'/ once',
-                desc:'Pay once. Use forever. No renewals, no surprises.',
-                btn:'Get Pro — $9 forever', btnClass:'btn-pro',
-                btnHref:'https://resumelink.lemonsqueezy.com/checkout/buy/1b9011cf-d233-43ce-afa6-f817201f24a6?redirect_url=https://resumelink.cc/pricing.html?pro=activated',
-                lifetimeHint:'One-time payment · No subscription',
-                features:[
-                    {ok:true, text:'Up to 50 AI-generated profiles'},
-                    {ok:true, text:'No watermark on PDF'},
-                    {ok:true, text:'Custom link: resumelink.cc/yourname'},
-                    {ok:true, text:'Detailed ATS breakdown with tips'},
-                    {ok:true, text:'3 PDF color themes'},
-                    {ok:true, text:'Priority AI processing'},
-                    {ok:true, text:'All future Pro features included'},
+                    {ok:true, text:'AI profile built from your resume'},
+                    {ok:true, text:'ATS score with specific tips'},
+                    {ok:true, text:'Shareable link and QR code'},
+                    {ok:true, text:'Your own link: resumelink.cc/yourname'},
+                    {ok:true, text:'PDF download, no watermark'},
+                    {ok:true, text:'Reference requests from colleagues'},
+                    {ok:true, text:'Job suggestions for your profile'},
                 ]
             }
         ],
         faqs:[
-            {q:'Is this really a one-time payment?', a:'Yes. $9 once, yours forever. No monthly charges, no renewals. If you pay today, you have Pro for as long as ResumeLink exists.'},
-            {q:'What happens to my profiles if I stop using it?', a:'Nothing — your profiles and their links stay live. Your custom URL keeps working. Pro is permanent once activated.'},
+            {q:'Is it really free?', a:'Yes. Everything is free while we grow. If we ever add paid features, what you already use will not be taken away without notice.'},
             {q:'How does the custom link work?', a:'Open your profile, type the name you want in the resumelink.cc/... field and press Save. Names are first come, first served.'},
             {q:'Is my resume data safe?', a:'Your original file stays in your browser: the text is extracted there and the PDF is not uploaded or kept. The extracted text is sent to Google Gemini to build your profile, and the finished profile (name, contacts, experience, ATS results) is stored on our servers so your link works. You can ask us to delete it at any time at info@resumelink.cc.'},
+            {q:'How can I support ResumeLink?', a:'Share it with someone who is job hunting, or buy us a coffee below. It keeps the service free.'},
         ]
     },
     ru: {
-        eyebrow: 'Простые тарифы',
-        heroTitle: 'Начни бесплатно.<br>Владей <em>навсегда.</em>',
-        heroSub: 'Никаких подписок и ежемесячных платежей. Один раз — навсегда.',
+        eyebrow: 'Тарифы',
+        heroTitle: 'Бесплатно,<br>пока мы <em>растём.</em>',
+        heroSub: 'Сейчас в ResumeLink всё бесплатно. Без карты, без регистрации, без ограничений, которые вы почувствуете.',
         navExplore:'Explore', navAbout:'О сервисе', navPricing:'Тарифы',
         navContact:'Контакт', navUpload:'Загрузить →',
         footerAbout:'О сервисе', footerPolicy:'Политика', footerPricing:'Тарифы',
         faqLabel: 'Часто задаваемые вопросы',
-        popular: 'Лучший выбор',
+        popular: 'Бесплатно для всех',
         kofi: {
             title: 'Нравится что мы делаем?',
             sub: 'Угости нас кофе — это помогает держать ResumeLink бесплатным для всех.',
@@ -240,43 +223,26 @@ const T = {
         },
         plans: [
             {
-                badge:'Бесплатно', name:'Старт',
-                price:'$0', per:'/ навсегда',
-                desc:'Всё что нужно для начала. Без карты.',
-                btn:'Начать бесплатно', btnClass:'btn-free', btnHref:'/',
+                badge:'Бесплатно', name:'ResumeLink', featured:true, popular:true,
+                price:'$0', per:'/ сейчас',
+                desc:'Все функции включены. Просто загрузите резюме.',
+                btn:'Загрузить резюме', btnClass:'btn-pro', btnHref:'/',
                 features:[
-                    {ok:true,  text:'До 3 AI-профилей (резюме)'},
-                    {ok:true,  text:'ATS Score'},
-                    {ok:true,  text:'Ссылка и QR-код'},
-                    {ok:true,  text:'Скачать PDF (с watermark)'},
-                    {ok:false, text:'Только стандартная ссылка (/?id=xxx)'},
-                    {ok:false, text:'Нельзя убрать watermark'},
-                    {ok:false, text:'Только базовый ATS'},
-                ]
-            },
-            {
-                badge:'Pro', name:'Навсегда', featured:true, popular:true,
-                price:'$9', per:'/ раз',
-                desc:'Один платёж. Пользуйся вечно. Никаких продлений.',
-                btn:'Купить Pro — $9 навсегда', btnClass:'btn-pro',
-                btnHref:'https://resumelink.lemonsqueezy.com/checkout/buy/1b9011cf-d233-43ce-afa6-f817201f24a6?redirect_url=https://resumelink.cc/pricing.html?pro=activated',
-                lifetimeHint:'Единоразовый платёж · Без подписки',
-                features:[
-                    {ok:true, text:'До 50 AI-профилей (резюме)'},
-                    {ok:true, text:'Без watermark в PDF'},
-                    {ok:true, text:'Именная ссылка: resumelink.cc/yourname'},
-                    {ok:true, text:'Детальный ATS с конкретными советами'},
-                    {ok:true, text:'3 цветовые темы PDF'},
-                    {ok:true, text:'Приоритетная AI обработка'},
-                    {ok:true, text:'Все будущие Pro функции включены'},
+                    {ok:true, text:'AI-профиль из вашего резюме'},
+                    {ok:true, text:'ATS-оценка с конкретными советами'},
+                    {ok:true, text:'Ссылка и QR-код'},
+                    {ok:true, text:'Своя ссылка: resumelink.cc/имя'},
+                    {ok:true, text:'Скачать PDF без водяного знака'},
+                    {ok:true, text:'Запрос рекомендаций у коллег'},
+                    {ok:true, text:'Подбор вакансий под ваш профиль'},
                 ]
             }
         ],
         faqs:[
-            {q:'Это правда разовый платёж?', a:'Да. $9 один раз — навсегда. Никаких ежемесячных списаний. Заплатил сегодня — Pro у тебя пока существует ResumeLink.'},
-            {q:'Что будет с профилями?', a:'Ничего — профили и ссылки остаются активными. Именная ссылка продолжает работать. Pro не отключается.'},
+            {q:'Это правда бесплатно?', a:'Да. Пока мы растём, всё бесплатно. Если когда-нибудь появятся платные функции, то, чем вы уже пользуетесь, не отберут без предупреждения.'},
             {q:'Как работает именная ссылка?', a:'Открой свой профиль, впиши желаемое имя в поле resumelink.cc/... и нажми «Сохранить». Имена выдаются по принципу «кто первый».'},
             {q:'Мои данные в безопасности?', a:'Сам файл остаётся в вашем браузере: текст извлекается там, PDF мы не загружаем и не храним. Извлечённый текст отправляется в Google Gemini для построения профиля, а готовый профиль (имя, контакты, опыт, оценка ATS) хранится на наших серверах, чтобы работала ссылка. Удалить его можно в любой момент по запросу на info@resumelink.cc.'},
+            {q:'Как поддержать ResumeLink?', a:'Расскажите о нём тому, кто ищет работу, или угостите нас кофе ниже. Так сервис остаётся бесплатным.'},
         ]
     }
 };
