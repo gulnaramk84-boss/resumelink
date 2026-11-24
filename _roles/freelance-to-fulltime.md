@@ -33,8 +33,7 @@ resume_bullet_3: "Coached [N] freelancers back into employment; [N] accepted off
 career_transition: "Coaches usually come from HR, recruiting, career services or from being a successful freelancer who made the move themselves. If you are the freelancer, your edge is credibility: you have lived the gap between 'I run my own business' and 'I fit a company'."
 certifications:
   - "ICF coaching credentials (ACC, PCC)"
-  - "Certified Professional Resume Writer (PARW/CPRW)"
-  - "Global Career Development Facilitator (GCDF)"
+  - "Certified Professional Resume Writer (CPRW, awarded by PARW/CC)"
 human_touch_tip: "Hiring managers worry about three things when they meet a freelancer: will you take direction, will you stay, and can you work in a team. Prepare one honest story for each. It matters more than any keyword."
 faq_q1: "How do I explain freelancing on a resume?"
 faq_a1: "Group it under one heading, for example 'Independent [role], 2021 to 2026', then list three to five projects with the client type, your contribution and the result. Name well-known clients only with permission."
