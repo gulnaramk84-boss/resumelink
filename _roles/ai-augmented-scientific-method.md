@@ -3,59 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI-Augmented Scientific Researcher"
 h1: "AI-Augmented Scientific Researcher Resume Guide 2026"
-summary_hack: "AI-Augmented Scientific Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
-salary_range: "$80,000 – $145,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "A researcher who uses AI for literature search, code, analysis and drafting while keeping the scientific method intact: clear hypotheses, reproducible work and honest reporting."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Strategic Thinking & Problem Solving
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data Interpretation & Decision Making
-  - Communication & Stakeholder Management
+  - "Experimental design"
+  - "Statistics"
+  - "Source checking"
+  - "Reproducibility"
+  - "Research integrity"
 ai_tools:
-  - Python / R
-  - AI Productivity Suite
-  - Data Visualization Tools
-  - Project Management Platforms
-  - Domain-specific AI Software
+  - "Literature databases"
+  - "Python or R notebooks"
+  - "LLM assistants (checked)"
+  - "Reference managers"
+  - "Open science repositories"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - cross-functional collaboration
-  - stakeholder management
-  - process optimization
-  - AI implementation
-resume_bullet_1: "Led AI implementation initiative delivering 35% efficiency gain across 3 departments within 6 months."
-resume_bullet_2: "Built and trained team of 8 on AI-augmented workflows, reducing manual processing time by 50%."
-resume_bullet_3: "Developed data-driven reporting framework that improved decision-making speed by 40% for senior leadership."
-career_transition: "Common paths into AI-Augmented Scientific Researcher: professionals from adjacent fields with strong analytical skills, domain experts who upskill in AI tools, and career changers who complete targeted AI certifications. Most transitions take 6-12 months."
+  - "research methodology"
+  - "experimental design"
+  - "statistics"
+  - "reproducibility"
+  - "open science"
+  - "literature review"
+  - "data analysis"
+  - "peer review"
+  - "Python"
+  - "research integrity"
+resume_bullet_1: "Preregistered [N] studies and reported all planned outcomes."
+resume_bullet_2: "Cut literature screening from [X] to [Y] days, with a manual check of [N] excluded papers."
+resume_bullet_3: "Published code and data that [N] outside group(s) reused."
+career_transition: "Graduate students, lab staff, analysts and R&D specialists in any field can build this."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-human_touch_tip: "In every AI-Augmented Scientific Researcher interview, prepare one story where your judgment corrected or improved on what an AI system suggested. This demonstrates the human value you bring beyond tool proficiency."
-faq_q1: "What skills are most important for a AI-Augmented Scientific Researcher in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like Python, data analysis, and familiarity with AI platforms are essential, but soft skills like critical thinking, communication, and ethical judgment differentiate top candidates."
-faq_q2: "What is the salary range for AI-Augmented Scientific Researcher roles?"
-faq_a2: "Salaries range from $80,000 – $145,000 depending on experience, location, and company size. AI specialization typically commands a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I transition into AI-Augmented Scientific Researcher from my current career?"
-faq_a3: "Start by identifying the overlap between your current skills and the role requirements. Complete relevant certifications, build a portfolio of AI-augmented projects, and network in professional communities. Most successful transitions take 6-18 months of deliberate preparation."
+  - "A research degree for many posts"
+  - "Research integrity training"
+  - "Statistics courses"
+human_touch_tip: "Follow your journal's and funder's rules on declaring AI use."
+faq_q1: "Can AI generate hypotheses?"
+faq_a1: "It can suggest them. You judge whether they are new, testable and worth the cost."
+faq_q2: "Can AI be an author?"
+faq_a2: "Major publishing ethics bodies say no: authors must be accountable people."
+faq_q3: "Are AI summaries of papers safe?"
+faq_a3: "Check them against the paper, especially numbers and conclusions."
 related_roles:
-  - chief-ai-officer
-  - ai-governance-consultant
-  - computer-vision-specialist
-description: "AI-Augmented Scientific Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
+  - ai-augmented-scientific-literacy
+  - ai-biotech-data-scientist
+  - ai-drug-discovery-researcher
+  - data-provenance-and-ethics
+description: "How to present AI-augmented research skills: ATS keywords, resume bullet templates, reproducibility and disclosure, interview questions, a plan and open science sources."
+insights:
+  - "**Decide the analysis before seeing results.**"
+  - "**Invented references look real.**"
+  - "**Save prompts that shaped the work.**"
+  - "**Negative results are results.**"
+mistakes:
+  - "Trying analyses until one is significant."
+  - "Citing unread papers."
+  - "Uploading unpublished or personal data."
+  - "Not declaring tool use where required."
+interview_questions:
+  - "How do you keep AI-assisted analysis reproducible?"
+  - "How would you test a surprising result?"
+  - "What do you declare in a paper?"
+  - "How do you check generated code?"
+  - "Tell us about a study that did not work."
+action_plan:
+  - "**Week 1.** Write one clear question and prediction."
+  - "**Week 2.** Search literature and verify each reference."
+  - "**Week 3.** Analyse public data with saved code."
+  - "**Week 4.** Share it with its limits."
+  - "**Month 2.** Ask someone to rerun it."
+resources:
+  - { title: "Open Science Framework", url: "https://osf.io", note: "preregistration and sharing" }
+  - { title: "COPE: authorship and AI tools", url: "https://publicationethics.org", note: "publication ethics" }
+  - { title: "Semantic Scholar", url: "https://www.semanticscholar.org", note: "literature search" }
+  - { title: "Zenodo", url: "https://zenodo.org", note: "archive for data and code" }
 ---
 
-## What does a AI-Augmented Scientific Researcher do?
+## What the work actually looks like
 
-AI-Augmented Scientific Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market. In 2026, this role requires both deep domain knowledge and the ability to work alongside AI systems as a collaborative partner, not just a user.
+You ask a question, check what is known, design a test, collect or find data, analyse, and report what happened including doubts.
 
-Professionals in this field spend their time designing AI-augmented workflows, validating machine outputs with human judgment, and communicating insights to stakeholders who may not have technical backgrounds. The human element — ethics, creativity, and contextual understanding — remains irreplaceable.
+## Where AI helps and where it does not
 
-## Why this role matters in 2026
+Good for search terms, code drafts and clearer writing. Not a substitute for reading sources, choosing controls or taking responsibility.
 
-Organizations are deploying AI tools faster than they can build internal expertise to manage them. AI-Augmented Scientific Researcher professionals bridge the gap between AI capability and business value, ensuring that technology investments translate into real outcomes.
+## How to benchmark pay
 
-The demand for specialists who combine domain knowledge with AI literacy is outpacing supply across industries, creating significant career opportunities for those who invest in developing this hybrid skill set.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for your scientific field.

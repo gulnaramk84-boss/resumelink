@@ -3,64 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Bio Data Architect"
 h1: "AI Bio Data Architect Resume Guide 2026"
-summary_hack: "AI Bio Data Architects design the data platforms that let life-science teams train and run models on genomic, clinical and lab data securely and reproducibly."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI Bio Data Architect designs the data platforms that let life-science teams use genomic, clinical and lab data securely, traceably and reproducibly."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
   - "Data architecture"
-  - "Bioinformatics data formats"
-  - "Data governance and consent"
-  - "Pipeline reproducibility"
-  - "Cloud platform design"
+  - "Biological data standards"
+  - "Security and access control"
+  - "Data lineage"
+  - "Working with scientists"
 ai_tools:
-  - "AWS HealthOmics"
-  - "Databricks"
-  - "Snowflake"
-  - "Nextflow"
-  - "dbt"
-  - "Terraform"
+  - "Cloud data platforms"
+  - "Workflow managers"
+  - "Data catalogues"
+  - "SQL and Python"
+  - "Identity and access management"
 ats_keywords:
   - "data architecture"
   - "bioinformatics"
   - "genomics"
   - "clinical data"
-  - "data lake"
+  - "FHIR"
+  - "data governance"
+  - "cloud"
+  - "pipelines"
   - "FAIR data"
-  - "HIPAA"
-resume_bullet_1: "Designed a lakehouse unifying genomic, imaging and EHR data for 40 researchers, cutting dataset prep from weeks to days."
-resume_bullet_2: "Implemented consent-aware access controls aligned with HIPAA and GDPR across 3 study cohorts."
-resume_bullet_3: "Standardized 60 Nextflow pipelines with versioned references, making model training fully reproducible."
-career_transition: "Common paths: data engineers moving into life sciences, bioinformaticians taking on platform work and cloud architects in healthcare."
+  - "GDPR"
+resume_bullet_1: "Designed a platform for [N] TB of research data with role-based access for [N] users."
+resume_bullet_2: "Cut time to find and request a dataset from [X] to [Y] days."
+resume_bullet_3: "Added lineage so [N] pipelines could be reproduced for review."
+career_transition: "Data engineers, bioinformaticians, health informatics staff and cloud architects move into this role."
 certifications:
-  - "AWS Certified Data Engineer - Associate"
-  - "Databricks Certified Data Engineer Professional"
-  - "Certified Clinical Data Manager (CCDM)"
-human_touch_tip: "Show you understand the science users: explain one design choice you made because of how researchers actually analyze samples."
-faq_q1: "Do I need a biology degree?"
-faq_a1: "Not necessarily, but you must learn the data: sequencing formats, sample metadata and clinical coding. Many architects learn on the job with scientist partners."
-faq_q2: "What regulations matter?"
-faq_a2: "HIPAA in the US, GDPR in the EU, and study-specific consent terms. Clinical trial data may also fall under GxP expectations."
-faq_q3: "What are FAIR data principles?"
-faq_a3: "Findable, Accessible, Interoperable, Reusable: a widely adopted standard for scientific data management that funders increasingly require."
+  - "Cloud architect certification"
+  - "Health data standards training"
+  - "Privacy and security training"
+human_touch_tip: "Show how you handled consent: what each dataset may and may not be used for."
+faq_q1: "How is this different from a data scientist?"
+faq_a1: "The architect builds the foundations; the data scientist analyses data on them."
+faq_q2: "What does FAIR mean?"
+faq_a2: "Findable, accessible, interoperable and reusable data."
+faq_q3: "Is removing names enough?"
+faq_a3: "No. Genetic and clinical data can still identify people."
 related_roles:
-  - ai-genomic-data-analyst
   - ai-biotech-data-scientist
-  - synthetic-data-management
-description: "AI Bio Data Architects design the data platforms that let life-science teams train and run models on genomic, clinical and lab data securely and reproducibly."
+  - ai-genomic-data-analyst
+  - ai-healthcare-privacy-lead
+  - data-provenance-and-ethics
+description: "How to become an AI Bio Data Architect: skills, ATS keywords, resume bullet templates, consent and lineage, interview questions, a plan and open standards."
+insights:
+  - "**Metadata decides whether data is usable.**"
+  - "**Consent is a technical requirement too.**"
+  - "**Cost grows with copies.**"
+  - "**Standards save later rework.**"
+mistakes:
+  - "Broad access by default."
+  - "No record of data versions."
+  - "Custom formats where standards exist."
+  - "Designing without the scientists."
+interview_questions:
+  - "How would you control access to genomic data?"
+  - "How do you record lineage?"
+  - "Which standards would you use for clinical data?"
+  - "How do you manage storage cost?"
+  - "What happens when consent is withdrawn?"
+action_plan:
+  - "**Week 1.** Study FAIR principles and one standard."
+  - "**Week 2.** Sketch a platform for a public dataset."
+  - "**Week 3.** Add access roles and lineage."
+  - "**Week 4.** Write the trade-offs."
+  - "**Month 2.** Build a small prototype."
+resources:
+  - { title: "GO FAIR: FAIR principles", url: "https://www.go-fair.org/fair-principles/", note: "data principles" }
+  - { title: "GA4GH", url: "https://www.ga4gh.org", note: "genomic data standards" }
+  - { title: "HL7 FHIR", url: "https://hl7.org/fhir/", note: "health data exchange" }
+  - { title: "GDPR (official text, EUR-Lex)", url: "https://eur-lex.europa.eu/eli/reg/2016/679/oj", note: "data protection" }
 ---
 
-## What does an AI Bio Data Architect do?
+## What the work actually looks like
 
-AI Bio Data Architects design the data platforms that let life-science teams train and run models on genomic, clinical and lab data securely and reproducibly.
+You interview researchers, model data, set access and quality rules, build pipelines with engineers and keep records for audits.
 
-## A typical week
+## Design for consent
 
-- Reviewing pipeline and platform changes with bioinformaticians
-- Defining data models for new assays or studies
-- Auditing access against consent rules
-- Optimizing storage and compute costs
+Attach permitted uses to each dataset and check them automatically when access is requested.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Lead with platform scale (users, data volume, cohorts) and compliance outcomes. Mention FAIR, HIPAA or GDPR explicitly; recruiters search for them.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for database architects.

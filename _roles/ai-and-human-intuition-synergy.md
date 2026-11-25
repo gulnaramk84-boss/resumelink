@@ -3,59 +3,88 @@ layout: role
 category: "AI Roles"
 title: "AI & Human Intuition Synergy"
 h1: "AI & Human Intuition Synergy Resume Guide 2026"
-summary_hack: "AI & Human Intuition Synergy professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
-salary_range: "$80,000 – $140,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "This is a way of working more than a job title: combining your experienced judgment with AI analysis, knowing when to trust each, and keeping a record that shows which was right."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Strategic Thinking & Problem Solving
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data Interpretation & Decision Making
-  - Communication & Stakeholder Management
+  - "Domain expertise"
+  - "Calibrated judgment"
+  - "Questioning AI output"
+  - "Decision records"
+  - "Learning from errors"
 ai_tools:
-  - Python / R
-  - AI Productivity Suite
-  - Data Visualization Tools
-  - Project Management Platforms
-  - Domain-specific AI Software
+  - "LLM assistants"
+  - "Analytics dashboards"
+  - "Decision journals"
+  - "Checklists"
+  - "Spreadsheets"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - cross-functional collaboration
-  - stakeholder management
-  - process optimization
-  - AI implementation
-resume_bullet_1: "Led AI implementation initiative delivering 35% efficiency gain across 3 departments within 6 months."
-resume_bullet_2: "Built and trained team of 8 on AI-augmented workflows, reducing manual processing time by 50%."
-resume_bullet_3: "Developed data-driven reporting framework that improved decision-making speed by 40% for senior leadership."
-career_transition: "Common paths into AI & Human Intuition Synergy: professionals from adjacent fields with strong analytical skills, domain experts who upskill in AI tools, and career changers who complete targeted AI certifications. Most transitions take 6-12 months."
+  - "decision making"
+  - "human-in-the-loop"
+  - "critical thinking"
+  - "domain expertise"
+  - "AI-assisted analysis"
+  - "risk assessment"
+  - "judgment"
+  - "continuous improvement"
+  - "data literacy"
+  - "collaboration"
+resume_bullet_1: "Introduced a decision log for [N] AI-assisted decisions and reviewed outcomes every [period]."
+resume_bullet_2: "Caught [N] wrong model suggestions through domain checks before they reached customers."
+resume_bullet_3: "Raised decision accuracy from [X]% to [Y]% on a reviewed sample."
+career_transition: "Any experienced professional can build this strength. Use your current job title on the resume and show the method in your bullets."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-human_touch_tip: "In every AI & Human Intuition Synergy interview, prepare one story where your judgment corrected or improved on what an AI system suggested. This demonstrates the human value you bring beyond tool proficiency."
-faq_q1: "What skills are most important for a AI & Human Intuition Synergy in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like Python, data analysis, and familiarity with AI platforms are essential, but soft skills like critical thinking, communication, and ethical judgment differentiate top candidates."
-faq_q2: "What is the salary range for AI & Human Intuition Synergy roles?"
-faq_a2: "Salaries range from $80,000 – $140,000 depending on experience, location, and company size. AI specialization typically commands a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I transition into AI & Human Intuition Synergy from my current career?"
-faq_a3: "Start by identifying the overlap between your current skills and the role requirements. Complete relevant certifications, build a portfolio of AI-augmented projects, and network in professional communities. Most successful transitions take 6-18 months of deliberate preparation."
+  - "No specific certificate"
+  - "Data literacy or statistics courses help"
+  - "Your professional qualification matters most"
+human_touch_tip: "Do not list this phrase as a job title. Employers search for your real role."
+faq_q1: "Is this a real job?"
+faq_a1: "Rarely as a title. It is a skill used by managers, analysts, clinicians, engineers and others."
+faq_q2: "When should I overrule the AI?"
+faq_a2: "When you can name information it lacks or a check it fails. Record the reason and see what happens."
+faq_q3: "How do I prove it?"
+faq_a3: "With examples where your check changed a decision, and ones where you were wrong."
 related_roles:
-  - chief-ai-officer
-  - ai-governance-consultant
-  - computer-vision-specialist
-description: "AI & Human Intuition Synergy professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
+  - ai-augmented-problem-solving
+  - human-in-the-loop-workflow-design
+  - soft-skills-masterlist
+  - cognitive-offloading-strategy
+description: "How to show on a resume that you combine human judgment with AI: skills, ATS keywords, bullet templates, decision logs, interview questions, a plan and resources."
+insights:
+  - "**Write your view before reading the AI's.**"
+  - "**Intuition is reliable mainly where feedback is fast.**"
+  - "**Confidence is not accuracy.**"
+  - "**Review wrong calls without blame.**"
+mistakes:
+  - "Agreeing because the answer sounds fluent."
+  - "Rejecting evidence to protect a hunch."
+  - "No record, so no learning."
+  - "Using buzzwords instead of an example."
+interview_questions:
+  - "Tell us about a time you disagreed with a tool."
+  - "How do you know your judgment is good?"
+  - "Which decisions would you never delegate?"
+  - "How do you avoid anchoring on an AI answer?"
+  - "What did you change after a mistake?"
+action_plan:
+  - "**Week 1.** Pick one repeated decision."
+  - "**Week 2.** Record your view, the AI view and the final choice."
+  - "**Week 3.** Add the outcomes you know."
+  - "**Week 4.** Look for patterns."
+  - "**Month 2.** Turn them into a checklist and a resume bullet."
+resources:
+  - { title: "NIST AI Risk Management Framework", url: "https://www.nist.gov/itl/ai-risk-management-framework", note: "risk language for AI work" }
+  - { title: "Google People + AI Guidebook", url: "https://pair.withgoogle.com/guidebook", note: "human-centred AI patterns" }
+  - { title: "O*NET: occupation skills", url: "https://www.onetonline.org", note: "match skills to real titles" }
 ---
 
-## What does a AI & Human Intuition Synergy do?
+## What the work actually looks like
 
-AI & Human Intuition Synergy professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market. In 2026, this role requires both deep domain knowledge and the ability to work alongside AI systems as a collaborative partner, not just a user.
+You frame the question, form a first view, use AI to test it, check the facts, decide and later compare the decision with the result.
 
-Professionals in this field spend their time designing AI-augmented workflows, validating machine outputs with human judgment, and communicating insights to stakeholders who may not have technical backgrounds. The human element — ethics, creativity, and contextual understanding — remains irreplaceable.
+## A simple decision log
 
-## Why this role matters in 2026
+Date, question, your estimate, the AI suggestion, what you chose, why, and what happened. Five lines are enough.
 
-Organizations are deploying AI tools faster than they can build internal expertise to manage them. AI & Human Intuition Synergy professionals bridge the gap between AI capability and business value, ensuring that technology investments translate into real outcomes.
+## How to benchmark pay
 
-The demand for specialists who combine domain knowledge with AI literacy is outpacing supply across industries, creating significant career opportunities for those who invest in developing this hybrid skill set.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for your underlying occupation.
