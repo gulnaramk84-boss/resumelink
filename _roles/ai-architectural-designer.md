@@ -3,51 +3,88 @@ layout: role
 category: "AI Roles"
 title: "AI Architectural Designer"
 h1: "Generative Spaces: AI Architecture Resume"
-summary_hack: "Optimizing layouts for light and airflow using AI. I create structures both beautiful and efficient."
-judgment_skills: ['Structural Logic', 'Environmental Science', 'Spatial Design', 'Mathematics', 'Aesthetics']
-ai_tools: ['Rhino 3D', 'Grasshopper', 'TestFit', 'Midjourney', 'AutoCAD']
-human_touch_tip: "Describe how your design saved energy or improved building vibe."
-description: "Optimizing layouts for light and airflow using AI. I create structures both beautiful and efficient."
+summary_hack: "An AI Architectural Designer uses generative and analysis tools to explore layouts, daylight, energy and structure options, while keeping safety, codes, context and human comfort in charge."
+salary_note: "No verified salary figure here: pay depends on country, firm and licensing. See the benchmarking tips in the body."
+judgment_skills:
+  - "Architectural design fundamentals"
+  - "Building codes and safety"
+  - "Daylight and energy analysis"
+  - "Client communication"
+  - "Verifying generated options"
+ai_tools:
+  - "BIM software (for example Revit)"
+  - "Parametric tools (for example Grasshopper)"
+  - "Environmental analysis tools"
+  - "Rendering software"
+  - "Generative design tools"
+ats_keywords:
+  - "architectural design"
+  - "BIM"
+  - "Revit"
+  - "parametric design"
+  - "sustainability"
+  - "daylight analysis"
+  - "energy modelling"
+  - "building codes"
+  - "visualisation"
+  - "computational design"
+resume_bullet_1: "Used parametric studies to compare [N] layouts and improved daylight access by [X]%."
+resume_bullet_2: "Reduced estimated energy use by [X]% through [change], documented with assumptions."
+resume_bullet_3: "Coordinated [project] in BIM with [N] disciplines and resolved [N] clashes."
+career_transition: "Architects, technicians, engineers and visualisation artists move into computational design."
+certifications:
+  - "Professional licence where required"
+  - "BIM certification"
+  - "Green building credentials (for example LEED, BREEAM)"
+human_touch_tip: "Numbers do not capture how a place feels. Show how users or residents shaped the final choice."
+faq_q1: "Can AI design a building?"
+faq_a1: "It can propose options, but design responsibility, safety and code compliance stay with qualified people."
+faq_q2: "What should I show?"
+faq_a2: "Options explored, criteria, tradeoffs and why you chose one."
+faq_q3: "Do I need a licence?"
+faq_a3: "To practise as an architect, usually yes; rules vary by country."
+related_roles:
+  - computer-vision-specialist
+  - ai-environmental-impact-auditor
+  - ai-sustainability-reporting-lead
+  - ai-project-manager
+description: "How to present AI skills in architecture: skills, ATS keywords, resume bullet templates, verifying generated designs, interview questions, a plan and resources."
+insights:
+  - "**Set criteria before generating.**"
+  - "**Check codes yourself.**"
+  - "**Context beats optimisation.**"
+  - "**Document assumptions** in analysis."
+mistakes:
+  - "Presenting renderings as buildable."
+  - "Optimising one metric only."
+  - "Ignoring local climate and culture."
+  - "Using images without rights."
+interview_questions:
+  - "How did you evaluate generated options?"
+  - "How do you check a design against code?"
+  - "Tell us about a trade-off."
+  - "How do you involve users?"
+  - "What would you not automate?"
+action_plan:
+  - "**Week 1.** Pick a small space and list criteria."
+  - "**Week 2.** Create several options."
+  - "**Week 3.** Analyse daylight or energy."
+  - "**Week 4.** Choose and explain."
+  - "**Month 2.** Add to your portfolio."
+resources:
+  - { title: "buildingSMART", url: "https://www.buildingsmart.org", note: "open BIM standards" }
+  - { title: "US Green Building Council (LEED)", url: "https://www.usgbc.org", note: "green building rating" }
+  - { title: "Ladybug Tools", url: "https://www.ladybug.tools", note: "free environmental analysis" }
 ---
 
-## What is a AI Architectural Designer?
+## What the work actually looks like
 
-Optimizing layouts for light and airflow using AI. I create structures both beautiful and efficient. This role sits at the intersection of human expertise and artificial intelligence, requiring professionals who can leverage AI tools while maintaining the judgment and creativity that machines cannot replicate.
+You define goals and limits, generate and analyse options, test them against codes and users and refine with the team.
 
-As AI transforms industries in 2026, the AI Architectural Designer role has become one of the most sought-after positions in the modern workforce. Organizations need specialists who understand both the technical capabilities of AI systems and the human context in which they operate.
+## Portfolio
 
-## Core Skills for AI Architectural Designer
+Show the process: criteria, options, analysis, choice and what you learned.
 
-To succeed as a AI Architectural Designer, you need a combination of technical knowledge and human skills. The key competencies include: Structural Logic, Environmental Science, Spatial Design, Mathematics, Aesthetics.
+## How to benchmark pay
 
-These skills work together to help you navigate complex challenges that pure automation cannot solve. Employers consistently look for candidates who demonstrate these abilities through concrete examples and measurable outcomes.
-
-## AI Tools Used by AI Architectural Designer Professionals
-
-Modern AI Architectural Designer professionals work with a range of AI-powered tools: Rhino 3D, Grasshopper, TestFit, Midjourney, AutoCAD.
-
-Familiarity with these tools is increasingly expected, but what truly differentiates top candidates is knowing *when* to use them and how to interpret their outputs critically.
-
-## How to Build Your AI Architectural Designer Resume
-
-Your resume for a AI Architectural Designer position should clearly demonstrate your ability to work alongside AI systems while providing distinctly human value. Here's what matters most:
-
-**Lead with impact.** Quantify your achievements wherever possible. Instead of "managed AI projects," write "led implementation of AI workflow that reduced processing time by 40%."
-
-**Show your judgment.** Employers want to see that you can make decisions AI cannot. Include examples where your expertise, ethics, or creativity determined the outcome.
-
-**Describe how your design saved energy or improved building vibe.**
-
-**List relevant tools.** Include the AI tools you've worked with: Rhino 3D, Grasshopper, TestFit, Midjourney, AutoCAD. Be specific about your proficiency level and the context in which you used them.
-
-## Resume Tips Specific to AI Architectural Designer Roles
-
-- Use keywords from job descriptions — ATS systems scan for exact matches
-- Include a professional summary that mentions your AI-augmented skill set
-- Quantify results: percentages, time saved, revenue impacted, team size
-- Keep formatting clean and ATS-friendly — no tables, graphics, or unusual fonts
-- Add links to relevant projects, publications, or portfolios where applicable
-
-## Create Your AI Architectural Designer Resume in 10 Seconds
-
-Upload your existing resume to ResumeLink and get an AI-optimized interactive profile with ATS score, shareable link, and QR code — instantly, no signup required.
+Compare current postings for architectural or computational design roles. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for architects.

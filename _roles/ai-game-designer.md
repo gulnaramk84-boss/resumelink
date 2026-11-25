@@ -3,59 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Game Designer"
 h1: "AI Game Designer Resume Guide 2026"
-summary_hack: "AI Game Designer professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
-salary_range: "$80,000 – $145,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "An AI Game Designer uses AI to prototype faster, create adaptive behaviour and content, and test balance, while keeping the player's fun and fairness at the centre."
+salary_note: "No verified salary figure here: pay varies by country, studio size and platform. See the benchmarking tips in the body."
 judgment_skills:
-  - Strategic Thinking & Problem Solving
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data Interpretation & Decision Making
-  - Communication & Stakeholder Management
+  - "Game mechanics and player experience"
+  - "Rapid prototyping and playtesting"
+  - "Designing AI behaviour and difficulty"
+  - "Content quality control"
+  - "Teamwork with artists and programmers"
 ai_tools:
-  - Python / R
-  - AI Productivity Suite
-  - Data Visualization Tools
-  - Project Management Platforms
-  - Domain-specific AI Software
+  - "Game engines (Unity, Unreal, Godot)"
+  - "Behaviour trees and scripting"
+  - "Generative tools for placeholder content"
+  - "Analytics and playtest tools"
+  - "Version control"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - cross-functional collaboration
-  - stakeholder management
-  - process optimization
-  - AI implementation
-resume_bullet_1: "Led AI implementation initiative delivering 35% efficiency gain across 3 departments within 6 months."
-resume_bullet_2: "Built and trained team of 8 on AI-augmented workflows, reducing manual processing time by 50%."
-resume_bullet_3: "Developed data-driven reporting framework that improved decision-making speed by 40% for senior leadership."
-career_transition: "Common paths into AI Game Designer: professionals from adjacent fields with strong analytical skills, domain experts who upskill in AI tools, and career changers who complete targeted AI certifications. Most transitions take 6-12 months."
+  - "game design"
+  - "level design"
+  - "Unity"
+  - "Unreal Engine"
+  - "gameplay AI"
+  - "prototyping"
+  - "playtesting"
+  - "balancing"
+  - "procedural generation"
+  - "C#"
+resume_bullet_1: "Prototyped [N] mechanics and playtested with [N] players; shipped [feature] with better retention by [X]."
+resume_bullet_2: "Designed enemy behaviour that adapts to [signal], tuned through [N] test rounds."
+resume_bullet_3: "Built a procedural content tool that reduced level creation time from [X] to [Y]."
+career_transition: "Developers, modders, writers and artists move into game design. A small finished game is the strongest proof."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-human_touch_tip: "In every AI Game Designer interview, prepare one story where your judgment corrected or improved on what an AI system suggested. This demonstrates the human value you bring beyond tool proficiency."
-faq_q1: "What skills are most important for a AI Game Designer in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like Python, data analysis, and familiarity with AI platforms are essential, but soft skills like critical thinking, communication, and ethical judgment differentiate top candidates."
-faq_q2: "What is the salary range for AI Game Designer roles?"
-faq_a2: "Salaries range from $80,000 – $145,000 depending on experience, location, and company size. AI specialization typically commands a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I transition into AI Game Designer from my current career?"
-faq_a3: "Start by identifying the overlap between your current skills and the role requirements. Complete relevant certifications, build a portfolio of AI-augmented projects, and network in professional communities. Most successful transitions take 6-18 months of deliberate preparation."
+  - "Engine certification courses (optional)"
+  - "Game design courses"
+  - "Programming fundamentals"
+human_touch_tip: "Players feel unfairness fast. Show how you tested difficulty and listened to frustrated players."
+faq_q1: "Will AI design games for me?"
+faq_a1: "It can help with drafts, but fun comes from testing and judgment."
+faq_q2: "Is there a legal risk with generated assets?"
+faq_a2: "Possibly. Check licences, platform rules and your studio's policy."
+faq_q3: "What should my portfolio show?"
+faq_a3: "Playable builds, design notes and what you changed after testing."
 related_roles:
-  - chief-ai-officer
-  - ai-governance-consultant
   - computer-vision-specialist
-description: "AI Game Designer professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
+  - ai-augmented-ux-research
+  - prompt-artist
+  - ai-content-strategist
+description: "How to become an AI Game Designer: skills, ATS keywords, resume bullet templates, adaptive behaviour and playtesting, interview questions, a plan and resources."
+insights:
+  - "**Finish small games.** Scope is the usual enemy."
+  - "**Test with strangers.** Friends are too kind."
+  - "**Predictability matters.** Players need to learn your rules."
+  - "**Keep an asset log.** Know where each asset came from."
+mistakes:
+  - "Large scope before a fun core loop."
+  - "Unclear difficulty."
+  - "Using assets without licence."
+  - "No playtest notes."
+interview_questions:
+  - "Describe a core loop you designed."
+  - "How would you make an enemy feel smart but fair?"
+  - "How do you use playtest feedback?"
+  - "Where would you not use generative AI?"
+  - "How do you scope a small project?"
+action_plan:
+  - "**Week 1.** Choose a tiny core loop."
+  - "**Week 2.** Build a prototype in an engine."
+  - "**Week 3.** Playtest with five people."
+  - "**Week 4.** Improve and publish."
+  - "**Month 2.** Add one AI behaviour and document it."
+resources:
+  - { title: "Godot Engine", url: "https://godotengine.org", note: "free open-source engine" }
+  - { title: "Unity Learn", url: "https://learn.unity.com", note: "free tutorials" }
+  - { title: "Unreal Engine learning", url: "https://dev.epicgames.com/community/unreal-engine/learning", note: "courses and docs" }
+  - { title: "GDC Vault", url: "https://gdcvault.com", note: "industry talks" }
 ---
 
-## What does a AI Game Designer do?
+## What the work actually looks like
 
-AI Game Designer professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market. In 2026, this role requires both deep domain knowledge and the ability to work alongside AI systems as a collaborative partner, not just a user.
+You imagine, prototype, test, tune and repeat with a team. AI can speed up drafts and behaviour experiments.
 
-Professionals in this field spend their time designing AI-augmented workflows, validating machine outputs with human judgment, and communicating insights to stakeholders who may not have technical backgrounds. The human element — ethics, creativity, and contextual understanding — remains irreplaceable.
+## Portfolio first
 
-## Why this role matters in 2026
+A playable build plus a page of design decisions says more than a resume line.
 
-Organizations are deploying AI tools faster than they can build internal expertise to manage them. AI Game Designer professionals bridge the gap between AI capability and business value, ensuring that technology investments translate into real outcomes.
+## How to benchmark pay
 
-The demand for specialists who combine domain knowledge with AI literacy is outpacing supply across industries, creating significant career opportunities for those who invest in developing this hybrid skill set.
+Compare current postings for game designer roles. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for related design and development occupations.
