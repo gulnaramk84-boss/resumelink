@@ -3,59 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Drug Discovery Researcher"
 h1: "AI Drug Discovery Researcher Resume Guide 2026"
-summary_hack: "AI Drug Discovery Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
-salary_range: "$100,000 – $170,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "An AI Drug Discovery Researcher applies machine learning to find and improve candidate molecules or targets, while validating predictions with experiments and sound statistics."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Strategic Thinking & Problem Solving
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data Interpretation & Decision Making
-  - Communication & Stakeholder Management
+  - "Biology or chemistry depth"
+  - "Machine learning evaluation"
+  - "Experimental design"
+  - "Reproducibility"
+  - "Research ethics"
 ai_tools:
-  - Python / R
-  - AI Productivity Suite
-  - Data Visualization Tools
-  - Project Management Platforms
-  - Domain-specific AI Software
+  - "Python and notebooks"
+  - "Cheminformatics libraries (for example RDKit)"
+  - "Structure prediction tools"
+  - "Public databases"
+  - "Version control"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - cross-functional collaboration
-  - stakeholder management
-  - process optimization
-  - AI implementation
-resume_bullet_1: "Led AI implementation initiative delivering 35% efficiency gain across 3 departments within 6 months."
-resume_bullet_2: "Built and trained team of 8 on AI-augmented workflows, reducing manual processing time by 50%."
-resume_bullet_3: "Developed data-driven reporting framework that improved decision-making speed by 40% for senior leadership."
-career_transition: "Common paths into AI Drug Discovery Researcher: professionals from adjacent fields with strong analytical skills, domain experts who upskill in AI tools, and career changers who complete targeted AI certifications. Most transitions take 6-12 months."
+  - "drug discovery"
+  - "cheminformatics"
+  - "machine learning"
+  - "molecular modelling"
+  - "bioinformatics"
+  - "RDKit"
+  - "target identification"
+  - "ADMET"
+  - "Python"
+  - "experimental validation"
+resume_bullet_1: "Built a model ranking [N] compounds; [N] were tested and [N] confirmed activity."
+resume_bullet_2: "Created a leakage-safe evaluation split that changed the estimated performance from [X] to [Y]."
+resume_bullet_3: "Documented pipelines so results could be reproduced by [N] teammates."
+career_transition: "Chemists, biologists, pharmacologists and data scientists move into this field. Domain depth matters."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-human_touch_tip: "In every AI Drug Discovery Researcher interview, prepare one story where your judgment corrected or improved on what an AI system suggested. This demonstrates the human value you bring beyond tool proficiency."
-faq_q1: "What skills are most important for a AI Drug Discovery Researcher in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like Python, data analysis, and familiarity with AI platforms are essential, but soft skills like critical thinking, communication, and ethical judgment differentiate top candidates."
-faq_q2: "What is the salary range for AI Drug Discovery Researcher roles?"
-faq_a2: "Salaries range from $100,000 – $170,000 depending on experience, location, and company size. AI specialization typically commands a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I transition into AI Drug Discovery Researcher from my current career?"
-faq_a3: "Start by identifying the overlap between your current skills and the role requirements. Complete relevant certifications, build a portfolio of AI-augmented projects, and network in professional communities. Most successful transitions take 6-18 months of deliberate preparation."
+  - "Advanced degree often expected"
+  - "Cheminformatics courses"
+  - "Good research practice training"
+human_touch_tip: "Predictions are hypotheses. Show how you tested them in the lab."
+faq_q1: "Does AI discover drugs alone?"
+faq_a1: "No. It narrows options; experiments and clinical trials decide."
+faq_q2: "What is data leakage?"
+faq_a2: "When test data is too similar to training data, performance looks better than it is."
+faq_q3: "What should I publish?"
+faq_a3: "Methods, splits, limits and failures."
 related_roles:
-  - chief-ai-officer
-  - ai-governance-consultant
-  - computer-vision-specialist
-description: "AI Drug Discovery Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
+  - ai-biotech-data-scientist
+  - ai-data-curator
+  - ai-ethics-officer
+  - data-provenance-and-ethics
+description: "How to become an AI Drug Discovery Researcher: skills, ATS keywords, resume bullet templates, honest evaluation, interview questions, a plan and public databases."
+insights:
+  - "**Splits decide conclusions.**"
+  - "**Public data has errors.**"
+  - "**Experiments are the judge.**"
+  - "**Report negative results.**"
+mistakes:
+  - "Random splits for similar molecules."
+  - "Overclaiming from simulations."
+  - "Not recording versions."
+  - "Ignoring safety properties."
+interview_questions:
+  - "How would you design a split for a new target?"
+  - "How do you check a model's claims?"
+  - "What data problems have you seen?"
+  - "How do you work with chemists?"
+  - "Tell us about a failed hypothesis."
+action_plan:
+  - "**Week 1.** Choose a public dataset."
+  - "**Week 2.** Clean and document it."
+  - "**Week 3.** Build a baseline with a careful split."
+  - "**Week 4.** Analyse errors."
+  - "**Month 2.** Publish code and limits."
+resources:
+  - { title: "ChEMBL", url: "https://www.ebi.ac.uk/chembl/", note: "bioactivity database" }
+  - { title: "Protein Data Bank", url: "https://www.rcsb.org", note: "protein structures" }
+  - { title: "RDKit", url: "https://www.rdkit.org", note: "cheminformatics library" }
+  - { title: "FDA", url: "https://www.fda.gov/drugs", note: "drug regulation" }
 ---
 
-## What does a AI Drug Discovery Researcher do?
+## What the work actually looks like
 
-AI Drug Discovery Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market. In 2026, this role requires both deep domain knowledge and the ability to work alongside AI systems as a collaborative partner, not just a user.
+You define questions with scientists, prepare data, build and test models, plan experiments and document results.
 
-Professionals in this field spend their time designing AI-augmented workflows, validating machine outputs with human judgment, and communicating insights to stakeholders who may not have technical backgrounds. The human element — ethics, creativity, and contextual understanding — remains irreplaceable.
+## Evaluation matters
 
-## Why this role matters in 2026
+Use splits that mimic real use, report uncertainty and confirm with experiments.
 
-Organizations are deploying AI tools faster than they can build internal expertise to manage them. AI Drug Discovery Researcher professionals bridge the gap between AI capability and business value, ensuring that technology investments translate into real outcomes.
+## How to benchmark pay
 
-The demand for specialists who combine domain knowledge with AI literacy is outpacing supply across industries, creating significant career opportunities for those who invest in developing this hybrid skill set.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for medical scientists.

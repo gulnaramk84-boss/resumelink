@@ -3,64 +3,91 @@ layout: role
 category: "AI Roles"
 title: "AI Sustainability Data Lead"
 h1: "AI Sustainability Data Lead Resume Guide 2026"
-summary_hack: "AI Sustainability Data Leads own the data behind emissions and ESG reporting (collection, quality, calculation and audit readiness), using automation to make it reliable at scale."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "AI Sustainability Data Leads own the data behind emissions and ESG reporting: collection, quality, calculation methods and evidence, using AI to speed extraction while keeping every number traceable."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Carbon accounting"
   - "Data governance"
-  - "ESG reporting standards"
-  - "Data engineering"
-  - "Audit readiness"
+  - "Emissions accounting basics"
+  - "Quality control"
+  - "Supplier data management"
+  - "Documentation for assurance"
 ai_tools:
-  - "Persefoni / Watershed / Sweep"
-  - "Snowflake"
-  - "dbt"
-  - "Power BI"
-  - "Python"
-  - "Excel"
+  - "SQL and Python"
+  - "Carbon accounting platforms"
+  - "Data catalogs"
+  - "BI dashboards"
+  - "Document extraction tools (checked)"
 ats_keywords:
   - "sustainability data"
-  - "carbon accounting"
+  - "ESG data"
   - "GHG Protocol"
-  - "ESG reporting"
-  - "CSRD"
-  - "Scope 3"
   - "data governance"
-resume_bullet_1: "Built an emissions data pipeline covering Scopes 1-3 for 40 entities, passing limited assurance."
-resume_bullet_2: "Automated supplier emissions data collection, raising Scope 3 primary data coverage from 5% to 30%."
-resume_bullet_3: "Cut reporting cycle time from 12 weeks to 5 with automated quality checks."
-career_transition: "Common paths: sustainability analysts, data engineers, finance reporting specialists and ESG consultants."
+  - "data quality"
+  - "carbon accounting"
+  - "assurance"
+  - "SQL"
+  - "supplier data"
+  - "reporting"
+resume_bullet_1: "Built a data pipeline for [N] sources with automated checks, cutting errors by [X]%."
+resume_bullet_2: "Documented lineage for [N] indicators, supporting [assurance] with [result]."
+resume_bullet_3: "Improved supplier data coverage from [X]% to [Y]% in [period]."
+career_transition: "Data engineers, analysts, accountants and environmental staff move into this role."
 certifications:
-  - "GHG Protocol training"
-  - "GRI Certified Sustainability Professional"
-  - "IFRS FSA Credential"
-human_touch_tip: "Mention assurance. Data that survived an external auditor's review is the strongest proof of quality."
-faq_q1: "What frameworks drive sustainability data needs?"
-faq_a1: "The GHG Protocol for emissions, plus reporting frameworks such as the EU CSRD/ESRS, ISSB standards and GRI."
-faq_q2: "What is the hardest part?"
-faq_a2: "Scope 3 value chain data: it comes from many suppliers in inconsistent formats."
-faq_q3: "Is this a data or sustainability role?"
-faq_a3: "Both. Leads need data engineering discipline and a solid understanding of accounting rules."
+  - "Greenhouse gas accounting courses"
+  - "Data management certificates"
+  - "Sustainability reporting training"
+human_touch_tip: "If a figure cannot be traced, mark it as an estimate or leave it out."
+faq_q1: "What is the difference from reporting lead?"
+faq_a1: "This role owns the data; the reporting lead owns the published report. In small teams one person does both."
+faq_q2: "Can AI fill gaps?"
+faq_a2: "Only with clearly labelled estimates and stated methods."
+faq_q3: "Which standard first?"
+faq_a3: "GHG Protocol for emissions; then check what your organisation must report."
 related_roles:
   - ai-sustainability-reporting-lead
   - ai-environmental-impact-auditor
-  - sustainable-ai-compute
-description: "AI Sustainability Data Leads own the data behind emissions and ESG reporting (collection, quality, calculation and audit readiness), using automation to make..."
+  - ai-data-curator
+  - data-provenance-and-ethics
+description: "How to become an AI Sustainability Data Lead: skills, ATS keywords, resume bullet templates, traceable data and quality, interview questions, a plan and official sources."
+partners: [fundan]
+partner_note: "Looking for green finance or grants for sustainability projects in Central Asia? Fundan, one of our other projects, searches open programmes (in Russian)."
+insights:
+  - "**Lineage before dashboards.**"
+  - "**Automate checks, not judgment.**"
+  - "**Label estimates.**"
+  - "**Make suppliers' jobs easy.**"
+mistakes:
+  - "Silent gap-filling."
+  - "Changing factors without a note."
+  - "No owner for each metric."
+  - "Dashboards without evidence."
+interview_questions:
+  - "How would you trace a published emissions figure?"
+  - "How do you handle missing supplier data?"
+  - "How do you test extracted values?"
+  - "How do you manage method changes?"
+  - "What would you automate first?"
+action_plan:
+  - "**Week 1.** List indicators and sources."
+  - "**Week 2.** Define owners and checks."
+  - "**Week 3.** Build one small pipeline."
+  - "**Week 4.** Document lineage."
+  - "**Month 2.** Rehearse an assurance review."
+resources:
+  - { title: "GHG Protocol", url: "https://ghgprotocol.org", note: "emissions accounting" }
+  - { title: "Global Reporting Initiative (GRI)", url: "https://www.globalreporting.org", note: "reporting standards" }
+  - { title: "IFRS Sustainability (ISSB)", url: "https://www.ifrs.org/sustainability/", note: "investor-focused standards" }
+  - { title: "W3C PROV overview", url: "https://www.w3.org/TR/prov-overview/", note: "provenance model" }
 ---
 
-## What does an AI Sustainability Data Lead do?
+## What the work actually looks like
 
-AI Sustainability Data Leads own the data behind emissions and ESG reporting (collection, quality, calculation and audit readiness), using automation to make it reliable at scale.
+You connect sources, define methods, check quality, keep evidence and support reporting and audits.
 
-## A typical week
+## Traceability
 
-- Monitoring data pipelines and quality checks
-- Working with suppliers on data requests
-- Supporting auditors with evidence
-- Updating methodologies
+Every figure should link to a source, a method, an owner and a date.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Name frameworks, scopes and assurance outcomes. Quantify coverage and cycle time.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for data scientists and environmental occupations.

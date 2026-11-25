@@ -3,56 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Urban Mobility Designer"
 h1: "AI Urban Mobility Designer Resume Guide 2026"
-summary_hack: "AI Urban Mobility Designer professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$90,000 – $150,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "An AI Urban Mobility Designer plans streets and transport services using data and simulation, with safety, accessibility and public trust at the centre."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Transport planning"
+  - "Simulation and data analysis"
+  - "Community engagement"
+  - "Safety and accessibility"
+  - "Policy awareness"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "GIS"
+  - "Traffic simulation tools"
+  - "Spreadsheets and Python"
+  - "Survey tools"
+  - "Visualisation software"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into AI Urban Mobility Designer: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "urban planning"
+  - "transport planning"
+  - "mobility"
+  - "GIS"
+  - "traffic simulation"
+  - "public transit"
+  - "road safety"
+  - "accessibility"
+  - "stakeholder engagement"
+  - "data analysis"
+resume_bullet_1: "Analysed travel data for [area] and proposed changes that cut [delay/risk] by [X]%."
+resume_bullet_2: "Consulted [N] residents and revised the design based on [feedback]."
+resume_bullet_3: "Tested [N] scenarios in simulation before the pilot."
+career_transition: "Planners, civil engineers, GIS analysts and community organisers move into mobility design."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For AI Urban Mobility Designer interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for AI Urban Mobility Designer in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for AI Urban Mobility Designer?"
-faq_a2: "Salaries range from $90,000 – $150,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for AI Urban Mobility Designer roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "Urban or transport planning qualifications"
+  - "GIS certificates"
+  - "Road safety training"
+human_touch_tip: "Streets are for people. Show how people who walk, ride or use wheelchairs shaped your plan."
+faq_q1: "Can AI plan a city?"
+faq_a1: "It can analyse and simulate, but choices about space and priorities are public decisions."
+faq_q2: "What data is sensitive?"
+faq_a2: "Location traces can identify people. Aggregate and protect them."
+faq_q3: "How do I show results?"
+faq_a3: "Before-and-after measures and community feedback."
 related_roles:
-  - chief-ai-officer
-  - ai-governance-consultant
-  - computer-vision-specialist
-description: "AI Urban Mobility Designer professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hum..."
+  - ai-environmental-impact-auditor
+  - ai-logistics-optimization-lead
+  - ai-augmented-ux-research
+  - ai-ethics-officer
+description: "How to become an AI Urban Mobility Designer: skills, ATS keywords, resume bullet templates, data and public engagement, interview questions, a plan and resources."
+insights:
+  - "**Count the people not in the data.**"
+  - "**Pilots with removable changes reduce risk.**"
+  - "**Safety first, then speed.**"
+  - "**Explain trade-offs openly.**"
+mistakes:
+  - "Optimising car flow only."
+  - "Ignoring accessibility."
+  - "Using identifiable location data."
+  - "Consulting after decisions."
+interview_questions:
+  - "How would you improve safety at a junction?"
+  - "How do you engage a sceptical community?"
+  - "How do you protect location data?"
+  - "What are the limits of simulation?"
+  - "Describe a trade-off."
+action_plan:
+  - "**Week 1.** Observe one street."
+  - "**Week 2.** Map data and users."
+  - "**Week 3.** Propose options."
+  - "**Week 4.** Gather feedback."
+  - "**Month 2.** Write a case study."
+resources:
+  - { title: "ITDP", url: "https://itdp.org", note: "transport and development" }
+  - { title: "NACTO", url: "https://nacto.org", note: "street design guides" }
+  - { title: "OpenStreetMap", url: "https://www.openstreetmap.org", note: "open map data" }
+  - { title: "WHO: road safety", url: "https://www.who.int/health-topics/road-safety", note: "global guidance" }
 ---
 
-## What does a AI Urban Mobility Designer do?
+## What the work actually looks like
 
-AI Urban Mobility Designer professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You study movement, listen to people, test ideas in models and pilots, and work with public bodies.
 
-## Why this role is in demand in 2026
+## Public trust
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. AI Urban Mobility Designer professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Be clear about data, goals and trade-offs, and show how feedback changed the plan.
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for urban and regional planners.
