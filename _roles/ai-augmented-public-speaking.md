@@ -3,59 +3,90 @@ layout: role
 category: "Skills & Frameworks"
 title: "AI-Augmented Public Speaking Coach"
 h1: "AI-Augmented Public Speaking Coach Resume Guide 2026"
-summary_hack: "AI-Augmented Public Speaking Coach professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
-salary_range: "$60,000 – $120,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "A speaking coach who uses AI to help clients structure talks, rehearse and review delivery, while keeping their own voice and respecting consent for recordings."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Strategic Thinking & Problem Solving
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data Interpretation & Decision Making
-  - Communication & Stakeholder Management
+  - "Speech coaching"
+  - "Story structure"
+  - "Constructive feedback"
+  - "Audience analysis"
+  - "Confidentiality"
 ai_tools:
-  - Python / R
-  - AI Productivity Suite
-  - Data Visualization Tools
-  - Project Management Platforms
-  - Domain-specific AI Software
+  - "Video recording and review"
+  - "Speech analytics apps"
+  - "LLM assistants for outlines and questions"
+  - "Presentation software"
+  - "Scheduling tools"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - cross-functional collaboration
-  - stakeholder management
-  - process optimization
-  - AI implementation
-resume_bullet_1: "Led AI implementation initiative delivering 35% efficiency gain across 3 departments within 6 months."
-resume_bullet_2: "Built and trained team of 8 on AI-augmented workflows, reducing manual processing time by 50%."
-resume_bullet_3: "Developed data-driven reporting framework that improved decision-making speed by 40% for senior leadership."
-career_transition: "Common paths into AI-Augmented Public Speaking Coach: professionals from adjacent fields with strong analytical skills, domain experts who upskill in AI tools, and career changers who complete targeted AI certifications. Most transitions take 6-12 months."
+  - "public speaking"
+  - "presentation coaching"
+  - "communication training"
+  - "storytelling"
+  - "executive coaching"
+  - "feedback"
+  - "facilitation"
+  - "rehearsal"
+  - "workshop design"
+  - "client management"
+resume_bullet_1: "Coached [N] speakers; self-rated confidence rose from [X] to [Y] on a consistent scale."
+resume_bullet_2: "Designed a [N]-session programme with a rehearsal and question practice cycle."
+resume_bullet_3: "Helped a team raise audience rating from [X] to [Y] at [event]."
+career_transition: "Trainers, actors, teachers, journalists and managers who present often move into coaching."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-human_touch_tip: "In every AI-Augmented Public Speaking Coach interview, prepare one story where your judgment corrected or improved on what an AI system suggested. This demonstrates the human value you bring beyond tool proficiency."
-faq_q1: "What skills are most important for a AI-Augmented Public Speaking Coach in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like Python, data analysis, and familiarity with AI platforms are essential, but soft skills like critical thinking, communication, and ethical judgment differentiate top candidates."
-faq_q2: "What is the salary range for AI-Augmented Public Speaking Coach roles?"
-faq_a2: "Salaries range from $60,000 – $120,000 depending on experience, location, and company size. AI specialization typically commands a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I transition into AI-Augmented Public Speaking Coach from my current career?"
-faq_a3: "Start by identifying the overlap between your current skills and the role requirements. Complete relevant certifications, build a portfolio of AI-augmented projects, and network in professional communities. Most successful transitions take 6-18 months of deliberate preparation."
+  - "Coaching or training credentials"
+  - "Toastmasters experience"
+  - "Voice or presentation courses"
+human_touch_tip: "Do not turn everyone into the same speaker. Keep their words and rhythm."
+faq_q1: "Are speech analytics accurate?"
+faq_a1: "They count pace or filler words reasonably in good audio, but cannot judge whether a message moved people. Accents can be misread."
+faq_q2: "Is recording clients allowed?"
+faq_a2: "Only with clear consent and safe storage."
+faq_q3: "How to get first clients?"
+faq_a3: "Offer a short workshop and collect honest feedback."
 related_roles:
-  - prompt-engineering-for-developers
-  - cognitive-load-management-ai
+  - ai-transformation-coach
+  - soft-skills-masterlist
   - digital-body-language
-description: "AI-Augmented Public Speaking Coach professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
+  - the-art-of-ai-storytelling
+description: "How to become an AI-augmented public speaking coach: skills, ATS keywords, resume bullet templates, consent and feedback, pricing, interview questions and a plan."
+partners: [ratekit]
+partner_note: "Coaching as a freelancer? RateKit, one of our other projects, helps you work out a minimum hourly rate that covers preparation time."
+insights:
+  - "**One message per talk.**"
+  - "**Rehearse questions, not only slides.**"
+  - "**Metrics inform; humans interpret.**"
+  - "**Record before and after.**"
+mistakes:
+  - "Coaching to a script word for word."
+  - "Chasing zero filler words."
+  - "Keeping recordings without consent."
+  - "Promising to remove all nerves."
+interview_questions:
+  - "How do you coach a very anxious speaker?"
+  - "Which measures do you trust?"
+  - "How do you give hard feedback?"
+  - "How do you handle recordings?"
+  - "Show a before-and-after outline."
+action_plan:
+  - "**Week 1.** Define who you coach."
+  - "**Week 2.** Build a one-hour session."
+  - "**Week 3.** Test tools with your own recording."
+  - "**Week 4.** Coach two volunteers."
+  - "**Month 2.** Publish an offer and price."
+resources:
+  - { title: "Toastmasters International", url: "https://www.toastmasters.org", note: "practice community" }
+  - { title: "TED: public speaking tips", url: "https://www.ted.com/topics/public+speaking", note: "talks about speaking" }
+  - { title: "International Coaching Federation", url: "https://coachingfederation.org", note: "coaching standards" }
 ---
 
-## What does a AI-Augmented Public Speaking Coach do?
+## What the work actually looks like
 
-AI-Augmented Public Speaking Coach professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market. In 2026, this role requires both deep domain knowledge and the ability to work alongside AI systems as a collaborative partner, not just a user.
+You listen to a rehearsal, agree on goals, adjust structure and delivery, practise questions and review again.
 
-Professionals in this field spend their time designing AI-augmented workflows, validating machine outputs with human judgment, and communicating insights to stakeholders who may not have technical backgrounds. The human element — ethics, creativity, and contextual understanding — remains irreplaceable.
+## A three-pass review
 
-## Why this role matters in 2026
+First the message, then the structure, last the delivery. Fixing gestures does not help an unclear point.
 
-Organizations are deploying AI tools faster than they can build internal expertise to manage them. AI-Augmented Public Speaking Coach professionals bridge the gap between AI capability and business value, ensuring that technology investments translate into real outcomes.
+## How to benchmark pay
 
-The demand for specialists who combine domain knowledge with AI literacy is outpacing supply across industries, creating significant career opportunities for those who invest in developing this hybrid skill set.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for training and development specialists.

@@ -3,56 +3,89 @@ layout: role
 category: "Ethics & Society"
 title: "AI Trust & Safety Specialist"
 h1: "AI Trust & Safety Specialist Resume Guide 2026"
-summary_hack: "AI Trust & Safety Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$90,000 – $150,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "AI Trust and Safety Specialists find and reduce harm in AI products: abuse, scams, unsafe answers and synthetic media, through policy, testing, review and incident response."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Policy writing"
+  - "Risk analysis"
+  - "Abuse investigation"
+  - "Testing model behaviour"
+  - "Calm incident handling"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "Moderation and case tools"
+  - "Evaluation sets and red-team prompts"
+  - "SQL and dashboards"
+  - "Classifiers"
+  - "Ticketing systems"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into AI Trust & Safety Specialist: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "trust and safety"
+  - "content moderation"
+  - "policy"
+  - "AI safety"
+  - "red teaming"
+  - "abuse prevention"
+  - "incident response"
+  - "synthetic media"
+  - "risk assessment"
+  - "SQL"
+resume_bullet_1: "Built an evaluation set of [N] cases and reduced harmful answers from [X]% to [Y]%."
+resume_bullet_2: "Cut median time to act on severe reports from [X] to [Y] hours."
+resume_bullet_3: "Wrote policy for [area] with examples and an appeal process."
+career_transition: "Moderators, fraud analysts, support leads, lawyers, researchers and security staff move into trust and safety."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For AI Trust & Safety Specialist interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for AI Trust & Safety Specialist in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for AI Trust & Safety Specialist?"
-faq_a2: "Salaries range from $90,000 – $150,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for AI Trust & Safety Specialist roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "No single required certificate"
+  - "AI governance credentials such as IAPP AIGP"
+  - "Investigation or security training"
+human_touch_tip: "Reviewing harmful content affects people. Mention how you protected your team."
+faq_q1: "Is it only moderation?"
+faq_a1: "No. It includes policy, product design, testing, detection and response."
+faq_q2: "Do I need to code?"
+faq_a2: "Not always. SQL and basic scripting help a lot."
+faq_q3: "How do I show experience without sharing cases?"
+faq_a3: "Describe categories, methods and results, never user details."
 related_roles:
-  - ai-ethics-auditor
-  - ai-governance-consultant
-  - algorithmic-bias-audit-for-managers
-description: "AI Trust & Safety Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of h..."
+  - ai-adversarial-security-tester
+  - ai-ethics-officer
+  - ai-content-governance-lead
+  - securing-your-digital-likeness
+description: "How to become an AI Trust and Safety Specialist: skills, ATS keywords, resume bullet templates, testing and appeals, interview questions, a plan and sources."
+insights:
+  - "**Attackers read your rules.**"
+  - "**Measure wrongful blocks too.**"
+  - "**Severity decides speed.**"
+  - "**Test other languages.**"
+mistakes:
+  - "Vague policies."
+  - "No appeals."
+  - "Testing only in English."
+  - "Ignoring reviewer wellbeing."
+interview_questions:
+  - "How would you handle a new scam pattern?"
+  - "Write a rule for impersonation."
+  - "How do you balance safety and expression?"
+  - "How do you test a chatbot before launch?"
+  - "What do you do in the first hour of an incident?"
+action_plan:
+  - "**Week 1.** Read one platform's public policies."
+  - "**Week 2.** Write a policy with edge cases."
+  - "**Week 3.** Create safe test cases and score a model."
+  - "**Week 4.** Define escalation and appeal."
+  - "**Month 2.** Publish a sanitised case study."
+resources:
+  - { title: "Trust and Safety Professional Association", url: "https://www.tspa.org", note: "curriculum and community" }
+  - { title: "OWASP Top 10 for LLM Applications", url: "https://genai.owasp.org/llm-top-10/", note: "security risks" }
+  - { title: "NIST AI Risk Management Framework", url: "https://www.nist.gov/itl/ai-risk-management-framework", note: "risk language for AI work" }
+  - { title: "C2PA", url: "https://c2pa.org", note: "content provenance standard" }
 ---
 
-## What does a AI Trust & Safety Specialist do?
+## What the work actually looks like
 
-AI Trust & Safety Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You write rules, test systems, investigate reports, work with engineers and legal teams and learn from incidents.
 
-## Why this role is in demand in 2026
+## Policy that can be applied
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. AI Trust & Safety Specialist professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Each rule needs a definition, allowed and forbidden examples, an action and a way to appeal.
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for information security and related analyst occupations.

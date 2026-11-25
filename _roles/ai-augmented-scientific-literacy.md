@@ -3,56 +3,89 @@ layout: role
 category: "Skills & Frameworks"
 title: "AI Scientific Literacy Educator"
 h1: "AI Scientific Literacy Educator Resume Guide 2026"
-summary_hack: "AI Scientific Literacy Educator professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$70,000 – $120,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "Educators who help students, journalists or staff understand scientific claims in the AI era: check sources, read uncertainty and notice when a fluent answer is wrong."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Science understanding"
+  - "Lesson design"
+  - "Source evaluation"
+  - "Statistics in plain language"
+  - "Respectful discussion"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "Literature databases"
+  - "LLM assistants as examples to critique"
+  - "Slides and learning platforms"
+  - "Simple data tools"
+  - "Fact-checking resources"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into AI Scientific Literacy Educator: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "science education"
+  - "scientific literacy"
+  - "AI literacy"
+  - "media literacy"
+  - "critical thinking"
+  - "curriculum design"
+  - "science communication"
+  - "statistics"
+  - "workshops"
+  - "evaluation"
+resume_bullet_1: "Taught [N] learners; scores on a claim-checking task rose from [X] to [Y]."
+resume_bullet_2: "Created [N] lessons that use real AI errors as practice material."
+resume_bullet_3: "Partnered with [organisation] to run [N] public sessions."
+career_transition: "Teachers, librarians, researchers and science communicators move into this work."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For AI Scientific Literacy Educator interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for AI Scientific Literacy Educator in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for AI Scientific Literacy Educator?"
-faq_a2: "Salaries range from $70,000 – $120,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for AI Scientific Literacy Educator roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "Teaching qualification where required"
+  - "Science communication training"
+  - "Subject degree"
+human_touch_tip: "Teach how to find out, not a list of things to believe."
+faq_q1: "What is the first lesson?"
+faq_a1: "A claim needs a source, a method and a sense of how sure we can be."
+faq_q2: "Should students use AI at all?"
+faq_a2: "Rules differ by institution. Teach checking and honest disclosure where use is allowed."
+faq_q3: "Where are the jobs?"
+faq_a3: "Schools, museums, libraries, universities, newsrooms and training teams."
 related_roles:
-  - prompt-engineering-for-developers
-  - cognitive-load-management-ai
-  - human-in-the-loop-workflow-design
-description: "AI Scientific Literacy Educator professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier o..."
+  - ai-augmented-scientific-method
+  - ai-literacy-for-parents-and-educators
+  - ai-education-curriculum-developer
+  - ai-for-independent-journalists
+description: "Careers teaching scientific and AI literacy: skills, ATS keywords, resume bullet templates, claim checking, interview questions, a plan and trusted sources."
+insights:
+  - "**Fluent is not true.**"
+  - "**Show how experts change their minds.**"
+  - "**Practise on local, familiar claims.**"
+  - "**Measure skill before and after.**"
+mistakes:
+  - "Lecturing without practice."
+  - "Mocking people who believed a claim."
+  - "Using unverified AI facts in materials."
+  - "Presenting uncertainty as ignorance."
+interview_questions:
+  - "How would you teach checking a health claim?"
+  - "Explain correlation and cause to a beginner."
+  - "How do you handle a controversial topic?"
+  - "How do you measure learning?"
+  - "Show an AI error you would use in class."
+action_plan:
+  - "**Week 1.** Collect five real claims."
+  - "**Week 2.** Write a checking worksheet."
+  - "**Week 3.** Test it with a small group."
+  - "**Week 4.** Improve using their mistakes."
+  - "**Month 2.** Run a public session."
+resources:
+  - { title: "Cochrane", url: "https://www.cochrane.org", note: "evidence reviews" }
+  - { title: "Sense about Science", url: "https://senseaboutscience.org", note: "public understanding of evidence" }
+  - { title: "News Literacy Project", url: "https://newslit.org", note: "teaching materials" }
+  - { title: "UNESCO: media and information literacy", url: "https://www.unesco.org/en/media-information-literacy", note: "framework" }
 ---
 
-## What does a AI Scientific Literacy Educator do?
+## What the work actually looks like
 
-AI Scientific Literacy Educator professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You plan lessons, gather examples, guide practice, discuss uncertainty and update material as tools change.
 
-## Why this role is in demand in 2026
+## A claim-checking routine
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. AI Scientific Literacy Educator professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Who says it? Based on what? How large was the study? Do others agree? What would change my mind?
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for teachers and training specialists.

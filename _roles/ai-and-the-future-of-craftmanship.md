@@ -3,59 +3,90 @@ layout: role
 category: "Ethics & Society"
 title: "AI & The Future of Craftsmanship"
 h1: "AI & The Future of Craftsmanship Resume Guide 2026"
-summary_hack: "AI & The Future of Craftsmanship professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
-salary_range: "$60,000 – $110,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "This is a theme more than a job title: skilled makers using AI for planning, design exploration and business tasks while the craft, material knowledge and signature of the maker stay human."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Strategic Thinking & Problem Solving
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data Interpretation & Decision Making
-  - Communication & Stakeholder Management
+  - "Craft mastery"
+  - "Material knowledge"
+  - "Original design"
+  - "Customer storytelling"
+  - "Choosing what not to automate"
 ai_tools:
-  - Python / R
-  - AI Productivity Suite
-  - Data Visualization Tools
-  - Project Management Platforms
-  - Domain-specific AI Software
+  - "Design and CAD software"
+  - "Generative image tools for sketches"
+  - "CNC or 3D printing where suitable"
+  - "Online shop platforms"
+  - "LLM assistants for descriptions (checked)"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - cross-functional collaboration
-  - stakeholder management
-  - process optimization
-  - AI implementation
-resume_bullet_1: "Led AI implementation initiative delivering 35% efficiency gain across 3 departments within 6 months."
-resume_bullet_2: "Built and trained team of 8 on AI-augmented workflows, reducing manual processing time by 50%."
-resume_bullet_3: "Developed data-driven reporting framework that improved decision-making speed by 40% for senior leadership."
-career_transition: "Common paths into AI & The Future of Craftsmanship: professionals from adjacent fields with strong analytical skills, domain experts who upskill in AI tools, and career changers who complete targeted AI certifications. Most transitions take 6-12 months."
+  - "craftsmanship"
+  - "handmade"
+  - "product design"
+  - "CAD"
+  - "materials"
+  - "small business"
+  - "e-commerce"
+  - "custom orders"
+  - "quality"
+  - "digital fabrication"
+resume_bullet_1: "Delivered [N] custom pieces with a defect or return rate of [X]%."
+resume_bullet_2: "Used digital mock-ups to cut design revisions from [X] to [Y] per order."
+resume_bullet_3: "Grew direct sales from [X] to [Y] orders per month with documented process stories."
+career_transition: "Makers, restorers, tailors, woodworkers and designers can add digital tools. On a resume use your real trade, not this phrase."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-human_touch_tip: "In every AI & The Future of Craftsmanship interview, prepare one story where your judgment corrected or improved on what an AI system suggested. This demonstrates the human value you bring beyond tool proficiency."
-faq_q1: "What skills are most important for a AI & The Future of Craftsmanship in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like Python, data analysis, and familiarity with AI platforms are essential, but soft skills like critical thinking, communication, and ethical judgment differentiate top candidates."
-faq_q2: "What is the salary range for AI & The Future of Craftsmanship roles?"
-faq_a2: "Salaries range from $60,000 – $110,000 depending on experience, location, and company size. AI specialization typically commands a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I transition into AI & The Future of Craftsmanship from my current career?"
-faq_a3: "Start by identifying the overlap between your current skills and the role requirements. Complete relevant certifications, build a portfolio of AI-augmented projects, and network in professional communities. Most successful transitions take 6-18 months of deliberate preparation."
+  - "Trade qualification or apprenticeship"
+  - "CAD or fabrication courses"
+  - "Safety training for machines and materials"
+human_touch_tip: "Say honestly which parts are made by hand, by machine and with AI help."
+faq_q1: "Is this a job title?"
+faq_a1: "Usually not. Use your trade and mention digital tools in the bullets."
+faq_q2: "Can I call a product handmade if AI designed it?"
+faq_a2: "Rules and marketplace policies differ. Describe the process truthfully."
+faq_q3: "Where does AI help most?"
+faq_a3: "Quotes, descriptions, mock-ups and planning. Not judging a joint or a fabric by touch."
 related_roles:
-  - ai-ethics-auditor
-  - ai-governance-consultant
-  - algorithmic-bias-audit-for-managers
-description: "AI & The Future of Craftsmanship professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
+  - ai-fashion-designer
+  - the-analog-renaissance
+  - ai-ecommerce-manager
+  - the-economics-of-meaningful-work
+description: "How makers present craft and AI skills: ATS keywords, resume bullet templates, honest labelling, pricing, interview questions, a plan and resources."
+partners: [ratekit]
+partner_note: "Pricing handmade or custom work? RateKit, one of our other projects, helps you work out a minimum rate per hour."
+insights:
+  - "**Process is part of the value.**"
+  - "**A generated image may be impossible to build.**"
+  - "**Price your hours,** not only materials."
+  - "**Photograph real work.**"
+mistakes:
+  - "Selling renderings as finished goods."
+  - "Copying another maker's design."
+  - "Underpricing custom work."
+  - "Hiding how it was made."
+interview_questions:
+  - "What do you keep doing by hand and why?"
+  - "How do you estimate a custom job?"
+  - "Tell us about a material failure."
+  - "How do you protect your designs?"
+  - "How did a digital tool change your work?"
+action_plan:
+  - "**Week 1.** Photograph and describe three pieces."
+  - "**Week 2.** List every hour and cost for one."
+  - "**Week 3.** Try a digital mock-up for a new idea."
+  - "**Week 4.** Update your price and process page."
+  - "**Month 2.** Ask customers what they valued."
+resources:
+  - { title: "UNESCO: Intangible Cultural Heritage", url: "https://ich.unesco.org", note: "traditional craftsmanship" }
+  - { title: "World Crafts Council", url: "https://www.wccinternational.org", note: "international craft body" }
+  - { title: "WIPO: copyright", url: "https://www.wipo.int/en/web/copyright", note: "intellectual property basics" }
 ---
 
-## What does a AI & The Future of Craftsmanship do?
+## What the work actually looks like
 
-AI & The Future of Craftsmanship professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market. In 2026, this role requires both deep domain knowledge and the ability to work alongside AI systems as a collaborative partner, not just a user.
+You make and repair things, talk with customers, plan materials and time, and decide where tools save effort without lowering quality.
 
-Professionals in this field spend their time designing AI-augmented workflows, validating machine outputs with human judgment, and communicating insights to stakeholders who may not have technical backgrounds. The human element — ethics, creativity, and contextual understanding — remains irreplaceable.
+## Price the whole job
 
-## Why this role matters in 2026
+Add design time, communication, finishing, mistakes, packaging and fees, not only making hours.
 
-Organizations are deploying AI tools faster than they can build internal expertise to manage them. AI & The Future of Craftsmanship professionals bridge the gap between AI capability and business value, ensuring that technology investments translate into real outcomes.
+## How to benchmark pay
 
-The demand for specialists who combine domain knowledge with AI literacy is outpacing supply across industries, creating significant career opportunities for those who invest in developing this hybrid skill set.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for craft and fine artists and related trades.

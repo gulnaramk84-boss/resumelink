@@ -3,56 +3,88 @@ layout: role
 category: "Skills & Frameworks"
 title: "AI-Augmented Problem Solving Specialist"
 h1: "AI-Augmented Problem Solving Specialist Resume Guide 2026"
-summary_hack: "AI-Augmented Problem Solving Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$85,000 – $145,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "A way of solving problems that pairs structured thinking with AI help: define the problem well, generate options, test assumptions and measure whether the fix worked."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Problem framing"
+  - "Root cause analysis"
+  - "Hypothesis testing"
+  - "Critical reading of AI output"
+  - "Stakeholder communication"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "LLM assistants"
+  - "Spreadsheets and SQL"
+  - "Process mapping tools"
+  - "Root cause templates"
+  - "Project trackers"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into AI-Augmented Problem Solving Specialist: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "problem solving"
+  - "root cause analysis"
+  - "process improvement"
+  - "critical thinking"
+  - "data analysis"
+  - "continuous improvement"
+  - "lean"
+  - "stakeholder management"
+  - "experimentation"
+  - "AI-assisted"
+resume_bullet_1: "Solved [problem] by finding [cause]; [metric] improved from [X] to [Y]."
+resume_bullet_2: "Led [N] improvement reviews using AI to list options and data to choose."
+resume_bullet_3: "Prevented a wrong fix by testing an assumption that proved false."
+career_transition: "Anyone in operations, engineering, support or management can build and show this skill."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For AI-Augmented Problem Solving Specialist interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for AI-Augmented Problem Solving Specialist in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for AI-Augmented Problem Solving Specialist?"
-faq_a2: "Salaries range from $85,000 – $145,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for AI-Augmented Problem Solving Specialist roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "Lean or Six Sigma"
+  - "Project management certificates"
+  - "Data analysis courses"
+human_touch_tip: "Use your real job title and let one clear story show this strength."
+faq_q1: "Is this a job title?"
+faq_a1: "Seldom. It is a skill employers look for inside many roles."
+faq_q2: "What can AI do here?"
+faq_a2: "Suggest causes, questions and options. It does not know what happened in your organisation unless you check."
+faq_q3: "How to tell it in an interview?"
+faq_a3: "Problem, what you checked, what you changed, result, lesson."
 related_roles:
-  - prompt-engineering-for-developers
-  - cognitive-load-management-ai
-  - human-in-the-loop-workflow-design
-description: "AI-Augmented Problem Solving Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the fr..."
+  - ai-and-human-intuition-synergy
+  - soft-skills-masterlist
+  - interview-prep-sheet
+  - the-science-of-iterative-prompting
+description: "How to show AI-augmented problem solving on a resume: skills, ATS keywords, bullet templates, root cause analysis, interview stories, a plan and resources."
+insights:
+  - "**A good problem statement has a number and a place.**"
+  - "**Ask what would prove you wrong.**"
+  - "**Small tests are cheaper than big fixes.**"
+  - "**Check the result later.**"
+mistakes:
+  - "Solving symptoms."
+  - "Taking the first AI answer."
+  - "No baseline."
+  - "Pasting confidential data into public tools."
+interview_questions:
+  - "Describe a hard problem you solved."
+  - "How did you find the root cause?"
+  - "What did the AI get wrong?"
+  - "How did you measure success?"
+  - "What would you do differently?"
+action_plan:
+  - "**Week 1.** Choose one recurring problem."
+  - "**Week 2.** Measure it and list causes."
+  - "**Week 3.** Test the most likely cause."
+  - "**Week 4.** Apply a fix and measure."
+  - "**Month 2.** Write it as a resume bullet and a story."
+resources:
+  - { title: "ASQ: root cause analysis", url: "https://asq.org/quality-resources/root-cause-analysis", note: "method overview" }
+  - { title: "Lean Enterprise Institute", url: "https://www.lean.org", note: "problem solving practice" }
+  - { title: "O*NET: occupation skills", url: "https://www.onetonline.org", note: "match skills to titles" }
 ---
 
-## What does a AI-Augmented Problem Solving Specialist do?
+## What the work actually looks like
 
-AI-Augmented Problem Solving Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You clarify what is wrong, gather facts, list causes, test them, fix, measure and share what you learned.
 
-## Why this role is in demand in 2026
+## Five questions before a fix
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. AI-Augmented Problem Solving Specialist professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+What exactly happens? Since when? Who is affected? What changed? How will we know it is solved?
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for your underlying occupation.
