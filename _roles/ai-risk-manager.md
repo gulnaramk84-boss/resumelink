@@ -3,56 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Risk Manager"
 h1: "AI Risk Manager Resume Guide 2026"
-summary_hack: "AI Risk Manager professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$110,000 – $175,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "An AI Risk Manager identifies, measures and controls the risks of AI systems, including errors, bias, security, privacy, legal and reputational harm, and reports them to leadership."
+salary_note: "No verified salary figure here: pay depends on country, sector and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Risk identification and scoring"
+  - "Control design and testing"
+  - "Regulatory awareness"
+  - "Incident handling"
+  - "Plain reporting to leadership"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "Risk registers and GRC tools"
+  - "Model monitoring dashboards"
+  - "Spreadsheets and SQL"
+  - "Documentation templates"
+  - "Incident tracking"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into AI Risk Manager: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "risk management"
+  - "AI governance"
+  - "model risk"
+  - "controls"
+  - "audit"
+  - "compliance"
+  - "NIST AI RMF"
+  - "incident response"
+  - "third-party risk"
+  - "reporting"
+resume_bullet_1: "Built a risk register of [N] AI uses with owners and controls; closed [N] high risks in [period]."
+resume_bullet_2: "Introduced monitoring and escalation for [system]; detected [N] issues before customers were affected."
+resume_bullet_3: "Ran [N] tabletop exercises and updated the incident plan."
+career_transition: "Risk, audit, compliance, information security and model validation professionals move naturally into AI risk."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For AI Risk Manager interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for AI Risk Manager in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for AI Risk Manager?"
-faq_a2: "Salaries range from $110,000 – $175,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for AI Risk Manager roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "IAPP AIGP"
+  - "FRM or other risk credentials"
+  - "ISACA certifications (for example CRISC)"
+human_touch_tip: "Risk work is persuasion. Show how you helped a team fix a problem instead of only blocking it."
+faq_q1: "What is model risk?"
+faq_a1: "The risk that a model's errors or misuse cause financial, legal or human harm."
+faq_q2: "Which framework should I know?"
+faq_a2: "NIST AI RMF is a common starting point, with sector rules and laws such as the EU AI Act where relevant."
+faq_q3: "How do I report risk to executives?"
+faq_a3: "Name the harm, likelihood, current control, residual risk and decision needed."
 related_roles:
-  - chief-ai-officer
   - ai-governance-consultant
-  - computer-vision-specialist
-description: "AI Risk Manager professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI colla..."
+  - ai-governance-and-the-eu-ai-act
+  - ai-cybersecurity-analyst
+  - ai-ethics-officer
+description: "How to become an AI Risk Manager: skills, ATS keywords, resume bullet templates, registers and controls, incident handling, interview questions, a step-by-step plan and official frameworks."
+insights:
+  - "**Rank by harm.** Start with systems affecting money, rights or safety."
+  - "**Controls need tests.** A written control that is never checked may not work."
+  - "**Watch third parties.** Vendors and plugins bring risks you still own."
+  - "**Incidents teach.** Review them without blame and update the register."
+mistakes:
+  - "A register nobody updates."
+  - "Scoring risks without evidence."
+  - "No owner for a risk."
+  - "Reporting too late."
+interview_questions:
+  - "How would you assess a new AI feature's risk?"
+  - "How do you test a control?"
+  - "A model drifts. What do you do?"
+  - "How do you handle disagreement with a product team?"
+  - "How do you report to the board?"
+action_plan:
+  - "**Week 1.** Choose a framework and list its core functions."
+  - "**Week 2.** Build a small register for five AI uses."
+  - "**Week 3.** Define controls and how to test them."
+  - "**Week 4.** Write an incident and escalation plan."
+  - "**Month 2.** Present a one-page report."
+resources:
+  - { title: "NIST AI Risk Management Framework", url: "https://www.nist.gov/itl/ai-risk-management-framework", note: "core framework" }
+  - { title: "EU AI Act (official text, EUR-Lex)", url: "https://eur-lex.europa.eu/eli/reg/2024/1689/oj", note: "Regulation (EU) 2024/1689" }
+  - { title: "ISACA", url: "https://www.isaca.org", note: "risk and audit credentials" }
+  - { title: "MITRE ATLAS", url: "https://atlas.mitre.org", note: "AI threat knowledge base" }
 ---
 
-## What does a AI Risk Manager do?
+## What the work actually looks like
 
-AI Risk Manager professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You list AI uses, assess risks, agree controls, test them, monitor and report. When something goes wrong you help respond and learn.
 
-## Why this role is in demand in 2026
+## A clear report
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. AI Risk Manager professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Harm, likelihood, controls, remaining risk, decision needed, owner and date.
+
+## How to benchmark pay
+
+Compare current postings for AI risk or model risk roles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for financial and compliance occupations.

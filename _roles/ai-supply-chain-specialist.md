@@ -4,63 +4,87 @@ category: "AI Roles"
 title: "AI Supply Chain Specialist"
 h1: "AI Supply Chain Specialist Resume Guide 2026"
 summary_hack: "AI Supply Chain Specialists apply AI across planning, sourcing, inventory and logistics to cut costs and improve service, working between operations teams and data teams."
-salary_note: "No verified salary data yet; check current job postings in your market"
+salary_note: "No verified salary figure here: pay depends on country, industry and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "End-to-end supply chain knowledge"
-  - "Inventory optimization"
-  - "Supplier management"
-  - "Data analysis"
-  - "Process improvement"
+  - "Demand forecasting and inventory logic"
+  - "Process mapping"
+  - "Data quality judgment"
+  - "Supplier and logistics risk"
+  - "Cross-team communication"
 ai_tools:
-  - "SAP / Oracle ERP"
-  - "Kinaxis / o9"
-  - "Power BI"
-  - "Excel"
-  - "Python"
-  - "Coupa"
+  - "ERP and planning systems"
+  - "Spreadsheets, SQL and BI"
+  - "Forecasting tools and Python"
+  - "Transport and warehouse systems"
+  - "Risk monitoring feeds"
 ats_keywords:
   - "supply chain"
+  - "demand forecasting"
   - "inventory optimization"
-  - "procurement"
+  - "S&OP"
   - "logistics"
-  - "demand planning"
   - "ERP"
+  - "SQL"
+  - "procurement"
+  - "risk management"
   - "continuous improvement"
-resume_bullet_1: "Implemented inventory optimization that released $5M of working capital across 3 warehouses."
-resume_bullet_2: "Automated supplier risk monitoring for 600 suppliers using news and financial signals."
-resume_bullet_3: "Cut purchase order cycle time by 35% with AI-assisted order proposals."
-career_transition: "Common paths: supply chain analysts, buyers, planners and logistics coordinators."
+resume_bullet_1: "Improved forecast accuracy for [product group] from [X]% to [Y]% and cut stockouts by [Z]."
+resume_bullet_2: "Reduced excess inventory by [amount] while keeping service level at [X]%."
+resume_bullet_3: "Built an early-warning view of [N] suppliers, acting on [N] risks before they caused disruption."
+career_transition: "Planners, buyers, logistics coordinators, analysts and operations managers can move into this work. One improvement with before-and-after numbers is a strong portfolio."
 certifications:
-  - "ASCM CSCP"
-  - "ASCM CPIM"
-  - "CIPS Diploma"
-human_touch_tip: "Tell one story that crosses functions: how an AI insight in planning changed a decision in procurement or logistics."
-faq_q1: "What is the difference from a supply chain analyst?"
-faq_a1: "The specialist usually owns implementation of AI tools and process changes, not only analysis and reporting."
-faq_q2: "Which areas benefit most from AI?"
-faq_a2: "Demand forecasting, inventory optimization, supplier risk, transport planning and warehouse operations."
-faq_q3: "Which certification is best?"
-faq_a3: "ASCM's CSCP for end-to-end roles and CPIM for planning-focused roles are the most recognized."
+  - "ASCM (APICS) CPIM or CSCP"
+  - "Lean Six Sigma"
+  - "Google Data Analytics Certificate"
+human_touch_tip: "Forecasts are often wrong. Show how you planned for error with buffers, alternatives and fast communication."
+faq_q1: "Does AI replace planners?"
+faq_a1: "It automates parts of forecasting and alerts, but planners handle exceptions, relationships and trade-offs."
+faq_q2: "What should I learn first?"
+faq_a2: "Inventory basics, forecasting metrics, and clean data."
+faq_q3: "How do I measure value?"
+faq_a3: "Forecast error, service level, inventory days, expedite cost and disruption impact."
 related_roles:
-  - ai-supply-chain-resilience-lead
-  - ai-procurement-specialist
-  - ai-logistics-optimization-lead
-description: "AI Supply Chain Specialists apply AI across planning, sourcing, inventory and logistics to cut costs and improve service, working between operations teams an..."
+  - ai-business-lead
+  - ai-risk-manager
+  - ai-financial-analyst
+  - ai-project-manager
+description: "How to become an AI Supply Chain Specialist: skills, ATS keywords, resume bullet templates, forecasting and inventory, interview questions, a step-by-step plan and trusted resources."
+insights:
+  - "**Data hygiene pays first.** Wrong lead times or stock counts ruin any model."
+  - "**Measure forecast error by item.** Averages hide the products that hurt."
+  - "**Resilience has a price.** Buffers and second suppliers cost money; decide deliberately."
+  - "**Exceptions are the work.** Design who acts when the model flags a problem."
+mistakes:
+  - "Trusting a forecast without a fallback plan."
+  - "Optimising cost while service collapses."
+  - "Ignoring supplier risk until disruption."
+  - "Building dashboards nobody acts on."
+interview_questions:
+  - "How would you reduce stockouts without raising inventory much?"
+  - "How do you judge forecast quality?"
+  - "A key supplier is late. What happens first?"
+  - "Which data would you fix first?"
+  - "Describe a trade-off you made."
+action_plan:
+  - "**Week 1.** Pick one product group and gather sales and lead-time data."
+  - "**Week 2.** Build a simple forecast and measure error."
+  - "**Week 3.** Calculate safety stock under two scenarios."
+  - "**Week 4.** Propose an exception process and owner."
+  - "**Month 2.** Write the case with numbers and limits."
+resources:
+  - { title: "ASCM", url: "https://www.ascm.org", note: "supply chain education and certifications" }
+  - { title: "MIT Center for Transportation and Logistics", url: "https://ctl.mit.edu", note: "research and courses" }
+  - { title: "Forecasting: Principles and Practice", url: "https://otexts.com/fpp3/", note: "free forecasting textbook" }
 ---
 
-## What does an AI Supply Chain Specialist do?
+## What the work actually looks like
 
-AI Supply Chain Specialists apply AI across planning, sourcing, inventory and logistics to cut costs and improve service, working between operations teams and data teams.
+You combine sales, stock and supplier data, forecast demand, set inventory rules and respond to exceptions with operations teams. AI speeds analysis; people manage relationships and judgment.
 
-## A typical week
+## Show impact
 
-- Reviewing inventory and service metrics
-- Working with suppliers on risks
-- Improving planning processes
-- Coordinating with data and IT teams
+Use simple before-and-after measures: forecast error, service level, inventory and disruption time.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Quantify working capital, cost and service improvements. Name ERP and planning tools.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for supply chain analyst or planning roles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for logisticians.

@@ -3,51 +3,88 @@ layout: role
 category: "AI Roles"
 title: "AI-Augmented UX Research"
 h1: "Scaling User Insights Without Losing the Human Voice"
-summary_hack: "Using AI to cluster qualitative data from hundreds of interviews while maintaining the 'Raw Empathy' of the user experience."
-judgment_skills: Don't let the AI summarize the user's pain. Use AI to find the 'exact quote' that represents the pain of 100 other users.
-ai_tools: ["LLM Verification", "Semantic Analysis", "Benchmark Testing", "Expert Review"]
-human_touch_tip: "Use AI to analyze patterns across hundreds of sessions, but always conduct at least five in-person user interviews yourself per project cycle — the body language, hesitation, and emotional responses you observe in person reveal insights no AI transcript analysis can capture."
-description: "Using AI to cluster qualitative data from hundreds of interviews while maintaining the 'Raw Empathy' of the user experience."
+summary_hack: "AI-augmented UX research uses AI to transcribe, tag and cluster large amounts of qualitative data, while researchers keep the context, check the patterns and protect participants."
+salary_note: "No salary figure here: this is a method used inside UX research and design roles. See the body for how to show it."
+judgment_skills:
+  - "Interviewing and observation"
+  - "Study design and sampling"
+  - "Verifying AI-generated themes"
+  - "Consent and participant privacy"
+  - "Telling evidence-based stories"
+ai_tools:
+  - "Transcription tools"
+  - "Research repositories and tagging tools"
+  - "LLM assistants for clustering (checked)"
+  - "Survey and analytics tools"
+  - "Whiteboards and presentation tools"
+ats_keywords:
+  - "UX research"
+  - "user interviews"
+  - "usability testing"
+  - "qualitative analysis"
+  - "research repository"
+  - "affinity mapping"
+  - "surveys"
+  - "personas"
+  - "accessibility"
+  - "design thinking"
+resume_bullet_1: "Analysed [N] interviews with AI-assisted tagging, verified by manual review of [X]% of data; informed [N] product decisions."
+resume_bullet_2: "Reduced analysis time from [X] to [Y] days without dropping key themes."
+resume_bullet_3: "Set up consent and data-handling steps for AI tools, approved by [legal/privacy]."
+career_transition: "Researchers, designers, anthropologists, support leads and analysts move into UX research. Bring a study with questions, method, findings and what changed."
+certifications:
+  - "UX research courses (for example Nielsen Norman Group)"
+  - "Accessibility training"
+  - "Google UX Design Certificate"
+human_touch_tip: "Summaries flatten emotion. Show how you kept real quotes, context and the voice of people who were different from the majority."
+faq_q1: "Can AI replace user interviews?"
+faq_a1: "No. It can help process data, but it cannot know what a real person did or felt unless you ask them."
+faq_q2: "How do I check AI themes?"
+faq_a2: "Re-read a sample yourself, compare with your own tags and look for minority views."
+faq_q3: "What about privacy?"
+faq_a3: "Get consent, remove identifiers and use approved tools."
+related_roles:
+  - ai-product-manager
+  - ai-customer-journey-designer
+  - ai-data-curator
+  - ai-ethics-officer
+description: "A guide to AI-augmented UX research: method, checks, privacy, skills, ATS keywords, resume bullet templates, interview questions, a step-by-step plan and trusted resources."
+insights:
+  - "**AI is a first pass.** Treat clusters as hypotheses to verify."
+  - "**Minority voices matter.** Rare comments can reveal serious usability or accessibility problems."
+  - "**Keep traceability.** Link each finding to quotes or observations."
+  - "**Consent covers tools.** Tell participants how recordings are processed."
+mistakes:
+  - "Synthetic 'users' in place of real research."
+  - "Uploading recordings to unapproved tools."
+  - "Presenting counts from small samples as proof."
+  - "Dropping context from quotes."
+interview_questions:
+  - "How do you verify AI-generated themes?"
+  - "When would you not use AI in research?"
+  - "How do you handle consent?"
+  - "Tell us about a finding that changed a design."
+  - "How do you report uncertainty?"
+action_plan:
+  - "**Week 1.** Plan a five-person study with a clear question and consent."
+  - "**Week 2.** Interview and record with permission."
+  - "**Week 3.** Tag manually a sample, then compare with AI tagging."
+  - "**Week 4.** Report themes with evidence and limits."
+  - "**Month 2.** Publish an anonymised case study."
+resources:
+  - { title: "Nielsen Norman Group", url: "https://www.nngroup.com", note: "UX research articles and methods" }
+  - { title: "Google People + AI Guidebook", url: "https://pair.withgoogle.com/guidebook", note: "human-centred AI" }
+  - { title: "W3C Web Accessibility Initiative", url: "https://www.w3.org/WAI/", note: "accessibility standards" }
 ---
 
-## What is a AI-Augmented UX Research?
+## What this means in practice
 
-Using AI to cluster qualitative data from hundreds of interviews while maintaining the 'Raw Empathy' of the user experience. This role sits at the intersection of human expertise and artificial intelligence, requiring professionals who can leverage AI tools while maintaining the judgment and creativity that machines cannot replicate.
+You still talk to people. AI helps with transcription, sorting and first themes so that you can spend more time on understanding and less on copying.
 
-As AI transforms industries in 2026, the AI-Augmented UX Research role has become one of the most sought-after positions in the modern workforce. Organizations need specialists who understand both the technical capabilities of AI systems and the human context in which they operate.
+## A trustworthy method
 
-## Core Skills for AI-Augmented UX Research
+Decide the question, collect with consent, tag a sample by hand, compare with AI, investigate differences, report with quotes and limits.
 
-To succeed as a AI-Augmented UX Research, you need a combination of technical knowledge and human skills. The key competencies include: t let the AI summarize the user, exact quote.
+## How to show it on a resume
 
-These skills work together to help you navigate complex challenges that pure automation cannot solve. Employers consistently look for candidates who demonstrate these abilities through concrete examples and measurable outcomes.
-
-## AI Tools Used by AI-Augmented UX Research Professionals
-
-Modern AI-Augmented UX Research professionals work with a range of AI-powered tools: LLM Verification, Semantic Analysis, Benchmark Testing, Expert Review.
-
-Familiarity with these tools is increasingly expected, but what truly differentiates top candidates is knowing *when* to use them and how to interpret their outputs critically.
-
-## How to Build Your AI-Augmented UX Research Resume
-
-Your resume for a AI-Augmented UX Research position should clearly demonstrate your ability to work alongside AI systems while providing distinctly human value. Here's what matters most:
-
-**Lead with impact.** Quantify your achievements wherever possible. Instead of "managed AI projects," write "led implementation of AI workflow that reduced processing time by 40%."
-
-**Show your judgment.** Employers want to see that you can make decisions AI cannot. Include examples where your expertise, ethics, or creativity determined the outcome.
-
-**Use AI to analyze patterns across hundreds of sessions, but always conduct at least five in-person user interviews yourself per project cycle — the body language, hesitation, and emotional responses you observe in person reveal insights no AI transcript analysis can capture.**
-
-**List relevant tools.** Include the AI tools you've worked with: LLM Verification, Semantic Analysis, Benchmark Testing, Expert Review. Be specific about your proficiency level and the context in which you used them.
-
-## Resume Tips Specific to AI-Augmented UX Research Roles
-
-- Use keywords from job descriptions — ATS systems scan for exact matches
-- Include a professional summary that mentions your AI-augmented skill set
-- Quantify results: percentages, time saved, revenue impacted, team size
-- Keep formatting clean and ATS-friendly — no tables, graphics, or unusual fonts
-- Add links to relevant projects, publications, or portfolios where applicable
-
-## Create Your AI-Augmented UX Research Resume in 10 Seconds
-
-Upload your existing resume to ResumeLink and get an AI-optimized interactive profile with ATS score, shareable link, and QR code — instantly, no signup required.
+Describe the question, number of participants, how AI was used and checked, and what changed. For pay research, compare postings for UX researcher roles and see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for related design occupations.

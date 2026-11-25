@@ -3,51 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI HR Specialist"
 h1: "HR in the AI Era: Resume for People Ops"
-summary_hack: "Using AI for talent scouting while maintaining human-first recruitment."
-judgment_skills: ['Unbiased Recruitment', 'Cultural Design', 'Conflict Resolution', 'Data Privacy', 'Talent Strategy']
-ai_tools: ['LinkedIn Recruiter', 'HiredScore', 'Glint', 'Workday', 'Greenhouse']
-human_touch_tip: "Describe your philosophy on 'Human-First' leadership in a tech world."
-description: "Using AI for talent scouting while maintaining human-first recruitment."
+summary_hack: "An AI-aware HR specialist uses AI to reduce paperwork in recruiting, onboarding and people support, while keeping decisions about people fair, explainable and human."
+salary_note: "No verified salary figure here: pay depends on country, industry and seniority. See the benchmarking tips in the body."
+judgment_skills:
+  - "Fair, structured hiring"
+  - "Employee relations and empathy"
+  - "Privacy and employment law basics"
+  - "Testing tools for bias and errors"
+  - "Clear communication about automation"
+ai_tools:
+  - "HR information and applicant tracking systems"
+  - "Interview scheduling tools"
+  - "Knowledge bases and HR chat assistants"
+  - "Survey and analytics tools"
+  - "LLM assistants for drafting job posts"
+ats_keywords:
+  - "human resources"
+  - "talent acquisition"
+  - "HRIS"
+  - "employee relations"
+  - "onboarding"
+  - "people operations"
+  - "compliance"
+  - "structured interviews"
+  - "diversity and inclusion"
+  - "HR analytics"
+resume_bullet_1: "Hired [N] people with structured interviews and scorecards; reduced time to hire from [X] to [Y] days."
+resume_bullet_2: "Introduced an HR assistant for routine questions with human escalation; resolved [N] requests per [period]."
+resume_bullet_3: "Reviewed an AI screening step for unequal outcomes and changed the process, documented and approved by [legal]."
+career_transition: "Recruiters, HR coordinators, office managers and customer-facing professionals can grow into people operations. Show a process you improved and how you protected fairness."
+certifications:
+  - "SHRM-CP or SHRM-SCP"
+  - "CIPD qualifications"
+  - "Google AI Essentials"
+human_touch_tip: "Candidates remember how they were treated. Show how automation freed time for real conversations and honest feedback."
+faq_q1: "Can AI make hiring decisions?"
+faq_a1: "Treat it as support, not the decision-maker. Many places have rules about automated decisions, so check the law where you hire and keep human review."
+faq_q2: "Is it safe to paste CVs into a chat tool?"
+faq_a2: "Not into public tools. CVs contain personal data: use approved systems and follow privacy rules."
+faq_q3: "What should HR learn about AI?"
+faq_a3: "What tools do, their limits, how to test for bias, and how to explain their use to employees and candidates."
+related_roles:
+  - ai-talent-strategy-analyst
+  - first-90-days-plan
+  - ai-ethics-officer
+  - job-search-organization
+description: "A practical guide for HR professionals using AI: skills, ATS keywords, resume bullet templates, fair and private hiring, interview questions, a step-by-step plan and official sources."
+insights:
+  - "**Structured beats gut feel.** The same questions and scorecards make hiring fairer and easier to defend."
+  - "**Job posts shape the pool.** Clear, realistic requirements bring better and more diverse applicants."
+  - "**Tell people about automation.** Transparency builds trust and is sometimes required."
+  - "**Measure quality, not just speed.** Look at retention and manager feedback too."
+mistakes:
+  - "Using screening tools nobody tested."
+  - "Rejecting candidates automatically with no review."
+  - "Putting personal data into unapproved tools."
+  - "Writing job posts full of unnecessary requirements."
+interview_questions:
+  - "How would you check an AI screening tool before using it?"
+  - "Design a structured interview for a role you know."
+  - "How do you respond to a candidate who asks how you use AI?"
+  - "How do you handle a complaint about unfair treatment?"
+  - "Which HR metrics would you report?"
+action_plan:
+  - "**Week 1.** Map one HR process and where time is lost."
+  - "**Week 2.** Write scorecards and structured questions for one role."
+  - "**Week 3.** Choose one routine task to support with AI and set human review."
+  - "**Week 4.** Test for errors and unequal outcomes; record decisions."
+  - "**Month 2.** Report results and gather candidate feedback."
+resources:
+  - { title: "SHRM", url: "https://www.shrm.org", note: "HR resources and credentials" }
+  - { title: "CIPD", url: "https://www.cipd.org", note: "people profession body" }
+  - { title: "US EEOC", url: "https://www.eeoc.gov", note: "equal employment opportunity rules" }
+  - { title: "GDPR (official text, EUR-Lex)", url: "https://eur-lex.europa.eu/eli/reg/2016/679/oj", note: "data protection rules" }
 ---
 
-## What is a AI HR Specialist?
+## What the work actually looks like
 
-Using AI for talent scouting while maintaining human-first recruitment. This role sits at the intersection of human expertise and artificial intelligence, requiring professionals who can leverage AI tools while maintaining the judgment and creativity that machines cannot replicate.
+You recruit, onboard, answer employee questions and help managers. AI can draft, schedule and summarise, while you handle judgment, relationships and difficult conversations.
 
-As AI transforms industries in 2026, the AI HR Specialist role has become one of the most sought-after positions in the modern workforce. Organizations need specialists who understand both the technical capabilities of AI systems and the human context in which they operate.
+## Fairness and privacy
 
-## Core Skills for AI HR Specialist
+Use job-related criteria, structured interviews, human review of automated steps and minimum necessary data. Keep records of how decisions were made.
 
-To succeed as a AI HR Specialist, you need a combination of technical knowledge and human skills. The key competencies include: Unbiased Recruitment, Cultural Design, Conflict Resolution, Data Privacy, Talent Strategy.
+## How to benchmark pay
 
-These skills work together to help you navigate complex challenges that pure automation cannot solve. Employers consistently look for candidates who demonstrate these abilities through concrete examples and measurable outcomes.
-
-## AI Tools Used by AI HR Specialist Professionals
-
-Modern AI HR Specialist professionals work with a range of AI-powered tools: LinkedIn Recruiter, HiredScore, Glint, Workday, Greenhouse.
-
-Familiarity with these tools is increasingly expected, but what truly differentiates top candidates is knowing *when* to use them and how to interpret their outputs critically.
-
-## How to Build Your AI HR Specialist Resume
-
-Your resume for a AI HR Specialist position should clearly demonstrate your ability to work alongside AI systems while providing distinctly human value. Here's what matters most:
-
-**Lead with impact.** Quantify your achievements wherever possible. Instead of "managed AI projects," write "led implementation of AI workflow that reduced processing time by 40%."
-
-**Show your judgment.** Employers want to see that you can make decisions AI cannot. Include examples where your expertise, ethics, or creativity determined the outcome.
-
-**Describe your philosophy on 'Human-First' leadership in a tech world.**
-
-**List relevant tools.** Include the AI tools you've worked with: LinkedIn Recruiter, HiredScore, Glint, Workday, Greenhouse. Be specific about your proficiency level and the context in which you used them.
-
-## Resume Tips Specific to AI HR Specialist Roles
-
-- Use keywords from job descriptions — ATS systems scan for exact matches
-- Include a professional summary that mentions your AI-augmented skill set
-- Quantify results: percentages, time saved, revenue impacted, team size
-- Keep formatting clean and ATS-friendly — no tables, graphics, or unusual fonts
-- Add links to relevant projects, publications, or portfolios where applicable
-
-## Create Your AI HR Specialist Resume in 10 Seconds
-
-Upload your existing resume to ResumeLink and get an AI-optimized interactive profile with ATS score, shareable link, and QR code — instantly, no signup required.
+Compare current postings for HR specialist, recruiter or people operations roles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for human resources specialists.
