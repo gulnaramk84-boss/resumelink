@@ -72,7 +72,7 @@ action_plan:
   - "**Week 4.** Share it with its limits."
   - "**Month 2.** Ask someone to rerun it."
 resources:
-  - { title: "Open Science Framework", url: "https://osf.io", note: "preregistration and sharing" }
+  - { title: "Center for Open Science: preregistration", url: "https://www.cos.io/initiatives/prereg", note: "how to preregister a study" }
   - { title: "COPE: authorship and AI tools", url: "https://publicationethics.org", note: "publication ethics" }
   - { title: "Semantic Scholar", url: "https://www.semanticscholar.org", note: "literature search" }
   - { title: "Zenodo", url: "https://zenodo.org", note: "archive for data and code" }

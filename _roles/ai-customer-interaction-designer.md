@@ -3,51 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Interaction Designer"
 h1: "The Human Machine: AI UX Resume"
-summary_hack: "Designing the way AI speaks and interacts with humans across web and mobile platforms."
-judgment_skills: ['Linguistics', 'Psychology', 'Design Thinking', 'Empathy']
-ai_tools: ['Voiceflow', 'Figma', 'ChatGPT', 'Botpress']
-human_touch_tip: "Describe how you make an AI sound 'forgiving' when a user makes a mistake."
-description: "Designing the way AI speaks and interacts with humans across web and mobile platforms."
+summary_hack: "An AI Interaction Designer shapes how people talk to AI in apps and websites: what it says, what it can do, how it admits uncertainty and how a person reaches a human."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
+judgment_skills:
+  - "Interaction design"
+  - "Conversation writing"
+  - "User testing"
+  - "Accessibility"
+  - "Error recovery"
+ai_tools:
+  - "Design and prototyping tools"
+  - "Conversation platforms"
+  - "LLM prompt and evaluation tools"
+  - "Analytics"
+  - "Session review with consent"
+ats_keywords:
+  - "interaction design"
+  - "UX"
+  - "conversation design"
+  - "chatbot"
+  - "prototyping"
+  - "usability testing"
+  - "accessibility"
+  - "WCAG"
+  - "human handoff"
+  - "evaluation"
+resume_bullet_1: "Redesigned an assistant flow; task completion rose from [X]% to [Y]%."
+resume_bullet_2: "Tested [N] failure cases and added clear recovery and human handoff."
+resume_bullet_3: "Improved accessibility to meet [WCAG level] for [product]."
+career_transition: "UX designers, content designers, support leads and linguists move into this role."
+certifications:
+  - "Portfolio matters most"
+  - "Accessibility certification"
+  - "UX courses"
+human_touch_tip: "Show a conversation that went wrong and how your design rescued it."
+faq_q1: "Should the bot say it is a bot?"
+faq_a1: "Yes. Be open; some laws require it."
+faq_q2: "Is chat always the best interface?"
+faq_a2: "No. Buttons or a form are often faster for known tasks."
+faq_q3: "Do I need to code?"
+faq_a3: "Prototyping helps, but research and writing are central."
+related_roles:
+  - ai-voice-interaction-designer
+  - ai-augmented-ux-research
+  - ai-customer-journey-designer
+  - the-psychology-of-ai-personification
+description: "How to become an AI Interaction Designer: skills, ATS keywords, resume bullet templates, failure states and handoff, interview questions, a plan and resources."
+insights:
+  - "**Design the failure first.**"
+  - "**Say what the assistant cannot do.**"
+  - "**Let users correct it easily.**"
+  - "**Test with real wording.**"
+mistakes:
+  - "Fake human personality."
+  - "No way to reach a person."
+  - "Long walls of text."
+  - "Ignoring screen reader users."
+interview_questions:
+  - "Design a refund conversation."
+  - "What happens when the model is unsure?"
+  - "How do you test non-deterministic answers?"
+  - "When would you not use chat?"
+  - "How do you handle an angry user?"
+action_plan:
+  - "**Week 1.** Pick one task and watch users do it."
+  - "**Week 2.** Write the happy path and five failures."
+  - "**Week 3.** Prototype and test with several people."
+  - "**Week 4.** Fix and measure again."
+  - "**Month 2.** Publish the case study."
+resources:
+  - { title: "Google People + AI Guidebook", url: "https://pair.withgoogle.com/guidebook", note: "human-centred AI patterns" }
+  - { title: "Microsoft HAX Toolkit", url: "https://www.microsoft.com/en-us/haxtoolkit/", note: "human-AI interaction guidelines" }
+  - { title: "W3C Web Accessibility Initiative", url: "https://www.w3.org/WAI/", note: "accessibility" }
+  - { title: "Nielsen Norman Group", url: "https://www.nngroup.com", note: "usability research" }
 ---
 
-## What is a AI Interaction Designer?
+## What the work actually looks like
 
-Designing the way AI speaks and interacts with humans across web and mobile platforms. This role sits at the intersection of human expertise and artificial intelligence, requiring professionals who can leverage AI tools while maintaining the judgment and creativity that machines cannot replicate.
+You research needs, write and prototype flows, test with users, define limits and escalation, and watch real conversations to improve.
 
-As AI transforms industries in 2026, the AI Interaction Designer role has become one of the most sought-after positions in the modern workforce. Organizations need specialists who understand both the technical capabilities of AI systems and the human context in which they operate.
+## Five failure states to design
 
-## Core Skills for AI Interaction Designer
+Did not understand, does not know, not allowed, system error, and the user wants a human.
 
-To succeed as a AI Interaction Designer, you need a combination of technical knowledge and human skills. The key competencies include: Linguistics, Psychology, Design Thinking, Empathy.
+## How to benchmark pay
 
-These skills work together to help you navigate complex challenges that pure automation cannot solve. Employers consistently look for candidates who demonstrate these abilities through concrete examples and measurable outcomes.
-
-## AI Tools Used by AI Interaction Designer Professionals
-
-Modern AI Interaction Designer professionals work with a range of AI-powered tools: Voiceflow, Figma, ChatGPT, Botpress.
-
-Familiarity with these tools is increasingly expected, but what truly differentiates top candidates is knowing *when* to use them and how to interpret their outputs critically.
-
-## How to Build Your AI Interaction Designer Resume
-
-Your resume for a AI Interaction Designer position should clearly demonstrate your ability to work alongside AI systems while providing distinctly human value. Here's what matters most:
-
-**Lead with impact.** Quantify your achievements wherever possible. Instead of "managed AI projects," write "led implementation of AI workflow that reduced processing time by 40%."
-
-**Show your judgment.** Employers want to see that you can make decisions AI cannot. Include examples where your expertise, ethics, or creativity determined the outcome.
-
-**Describe how you make an AI sound 'forgiving' when a user makes a mistake.**
-
-**List relevant tools.** Include the AI tools you've worked with: Voiceflow, Figma, ChatGPT, Botpress. Be specific about your proficiency level and the context in which you used them.
-
-## Resume Tips Specific to AI Interaction Designer Roles
-
-- Use keywords from job descriptions — ATS systems scan for exact matches
-- Include a professional summary that mentions your AI-augmented skill set
-- Quantify results: percentages, time saved, revenue impacted, team size
-- Keep formatting clean and ATS-friendly — no tables, graphics, or unusual fonts
-- Add links to relevant projects, publications, or portfolios where applicable
-
-## Create Your AI Interaction Designer Resume in 10 Seconds
-
-Upload your existing resume to ResumeLink and get an AI-optimized interactive profile with ATS score, shareable link, and QR code — instantly, no signup required.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for web and digital interface designers.
