@@ -3,56 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Model Strategy Consultant"
 h1: "AI Model Strategy Consultant Resume Guide 2026"
-summary_hack: "AI Model Strategy Consultant professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$100,000 – $165,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "An AI Model Strategy Consultant helps choose between small and large models for each task, based on evidence on quality, cost, privacy and operations."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Requirements analysis"
+  - "Evaluation"
+  - "Cost modelling"
+  - "Deployment awareness"
+  - "Advising"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "Model APIs"
+  - "Open-weight models"
+  - "Evaluation suites"
+  - "Spreadsheets"
+  - "Cloud cost tools"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into AI Model Strategy Consultant: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "small language models"
+  - "LLM"
+  - "model selection"
+  - "total cost"
+  - "privacy"
+  - "on-premise"
+  - "fine-tuning"
+  - "evaluation"
+  - "latency"
+  - "AI strategy"
+resume_bullet_1: "Moved [task] to a smaller model, cutting cost by [X]% with quality within [Y]."
+resume_bullet_2: "Built a decision matrix used for [N] use cases."
+resume_bullet_3: "Identified tasks needing no model at all."
+career_transition: "ML engineers, architects, consultants and product managers move into this role."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For AI Model Strategy Consultant interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for AI Model Strategy Consultant in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for AI Model Strategy Consultant?"
-faq_a2: "Salaries range from $100,000 – $165,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for AI Model Strategy Consultant roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "Cloud AI certifications"
+  - "ML courses"
+  - "Evaluation portfolio"
+human_touch_tip: "Include the cost of running and maintaining your own model."
+faq_q1: "Are small models always cheaper?"
+faq_a1: "Not if hardware sits idle or staff time is high."
+faq_q2: "Where do they shine?"
+faq_a2: "Narrow, repeated tasks, on-device or private settings."
+faq_q3: "Open weight means free?"
+faq_a3: "Check licence terms and running costs."
 related_roles:
-  - chief-ai-officer
-  - ai-governance-consultant
-  - computer-vision-specialist
-description: "AI Model Strategy Consultant professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of h..."
+  - llm-benchmarking-for-business
+  - ai-solutions-architect
+  - edge-ai-developer
+  - sustainable-ai-compute
+description: "How to become an AI Model Strategy Consultant: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Route hard cases to a larger model.**"
+  - "**Fine-tuning needs good data.**"
+  - "**Privacy can decide.**"
+  - "**Re-evaluate as models change.**"
+mistakes:
+  - "Choosing by brand."
+  - "Ignoring licence."
+  - "No test set."
+  - "One model for everything."
+interview_questions:
+  - "How would you choose for a support classifier?"
+  - "How do you estimate total cost?"
+  - "When do you self-host?"
+  - "How do you manage updates?"
+  - "Describe a recommendation."
+action_plan:
+  - "**Week 1.** Define two tasks."
+  - "**Week 2.** Test small and large models."
+  - "**Week 3.** Calculate cost per thousand requests."
+  - "**Week 4.** Write a decision matrix."
+  - "**Month 2.** Present trade-offs."
+resources:
+  - { title: "Hugging Face Learn", url: "https://huggingface.co/learn", note: "free courses" }
+  - { title: "Hugging Face model hub", url: "https://huggingface.co/models", note: "model cards and licences" }
+  - { title: "Ollama", url: "https://ollama.com", note: "run models locally" }
+  - { title: "NIST AI Risk Management Framework", url: "https://www.nist.gov/itl/ai-risk-management-framework", note: "risk language for AI work" }
 ---
 
-## What does a AI Model Strategy Consultant do?
+## What the work actually looks like
 
-AI Model Strategy Consultant professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You define needs, test models, model costs, advise and revisit.
 
-## Why this role is in demand in 2026
+## A decision matrix
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. AI Model Strategy Consultant professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Quality, latency, cost, data rules, licence and team skill, weighted per task.
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for management analysts and software developers.

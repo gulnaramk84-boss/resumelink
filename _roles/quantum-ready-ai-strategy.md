@@ -3,56 +3,89 @@ layout: role
 category: "AI Roles"
 title: "Quantum-Ready AI Strategist"
 h1: "Quantum-Ready AI Strategist Resume Guide 2026"
-summary_hack: "Quantum-Ready AI Strategist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$120,000 – $190,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "A Quantum-Ready AI Strategist helps organisations prepare realistically for quantum computing, especially moving to post-quantum cryptography, without hype."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Technology assessment"
+  - "Security planning"
+  - "Roadmapping"
+  - "Vendor evaluation"
+  - "Plain explanation"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "Cryptography inventories"
+  - "Roadmap tools"
+  - "Quantum SDKs for learning"
+  - "Risk registers"
+  - "Research databases"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into Quantum-Ready AI Strategist: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "quantum computing"
+  - "post-quantum cryptography"
+  - "crypto agility"
+  - "risk assessment"
+  - "technology strategy"
+  - "roadmap"
+  - "cybersecurity"
+  - "NIST"
+  - "migration"
+  - "research"
+resume_bullet_1: "Inventoried cryptography across [N] systems and ranked migration priority."
+resume_bullet_2: "Produced a roadmap with decision points approved by [body]."
+resume_bullet_3: "Stopped a purchase based on unsupported quantum claims."
+career_transition: "Security architects, strategists, physicists and consultants move into this work."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For Quantum-Ready AI Strategist interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for Quantum-Ready AI Strategist in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for Quantum-Ready AI Strategist?"
-faq_a2: "Salaries range from $120,000 – $190,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for Quantum-Ready AI Strategist roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "Security certifications"
+  - "Quantum computing courses"
+  - "Architecture experience"
+human_touch_tip: "Separate what is needed now, such as cryptography inventory, from speculation."
+faq_q1: "Will quantum computers speed up all AI?"
+faq_a1: "There is no general evidence of that today."
+faq_q2: "Why act now?"
+faq_a2: "Data stolen today could be decrypted later, and migration is slow."
+faq_q3: "Do I need physics?"
+faq_a3: "Helpful; not essential for migration planning."
 related_roles:
+  - zero-knowledge-ai-privacy
+  - ai-augmented-strategic-foresight
+  - ai-security-auditor
   - chief-ai-officer
-  - ai-governance-consultant
-  - computer-vision-specialist
-description: "Quantum-Ready AI Strategist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of hu..."
+description: "How to become a Quantum-Ready AI Strategist: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**You cannot migrate what you have not found.**"
+  - "**Vendors hold part of the work.**"
+  - "**Crypto agility outlasts one standard.**"
+  - "**Review the timeline yearly.**"
+mistakes:
+  - "Buying on hype."
+  - "Waiting for certainty."
+  - "No inventory."
+  - "Ignoring long-lived data."
+interview_questions:
+  - "Where would you start?"
+  - "Which data is at long-term risk?"
+  - "How do you explain this to a board?"
+  - "How do you evaluate a vendor claim?"
+  - "What would change your plan?"
+action_plan:
+  - "**Week 1.** Read NIST post-quantum material."
+  - "**Week 2.** List where encryption is used in a sample system."
+  - "**Week 3.** Rank by data lifetime."
+  - "**Week 4.** Draft a roadmap."
+  - "**Month 2.** Present with uncertainties."
+resources:
+  - { title: "NIST: post-quantum cryptography", url: "https://csrc.nist.gov/projects/post-quantum-cryptography", note: "standards and migration" }
+  - { title: "CISA: quantum readiness", url: "https://www.cisa.gov/quantum", note: "migration advice" }
+  - { title: "IBM Quantum Learning", url: "https://learning.quantum.ibm.com", note: "free courses" }
+  - { title: "ENISA", url: "https://www.enisa.europa.eu", note: "EU cybersecurity agency" }
 ---
 
-## What does a Quantum-Ready AI Strategist do?
+## What the work actually looks like
 
-Quantum-Ready AI Strategist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You assess exposure, plan migration, educate leaders and watch developments.
 
-## Why this role is in demand in 2026
+## Start with inventory
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. Quantum-Ready AI Strategist professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Record systems, algorithms, owners, data lifetime and vendor plans.
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for information security analysts and computer research scientists.
