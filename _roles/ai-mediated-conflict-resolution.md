@@ -3,51 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI-Mediated Resolution"
 h1: "Using Neutral AI to Solve Team and Business Disputes"
-summary_hack: "How to use 'Objective AI' to analyze transcripts and data to find fair middle ground in human negotiations."
-judgment_skills: ['Objectivity', 'Pattern Analysis', 'Diplomatic Communication', 'Fairness Logic', 'De-escalation']
-ai_tools: ["Neuro-Symbolic Reasoning", "Cross-Model Verification", "Knowledge Graphs", "Compute Efficiency"]
-human_touch_tip: "Use AI to prepare for difficult conversations by simulating different responses, but never disclose to the other party that you used AI to prepare — authenticity in conflict resolution depends on the other person believing they are encountering your genuine self."
-description: "How to use 'Objective AI' to analyze transcripts and data to find fair middle ground in human negotiations."
+summary_hack: "A mediator or facilitator who uses AI for preparation, translation or summaries, while keeping neutrality, confidentiality and human judgment in the room."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
+judgment_skills:
+  - "Active listening"
+  - "Neutrality"
+  - "De-escalation"
+  - "Confidentiality"
+  - "Ethical tool use"
+ai_tools:
+  - "Secure video and notes"
+  - "Translation tools (checked)"
+  - "Scheduling"
+  - "LLM assistants for neutral summaries"
+  - "Document sharing"
+ats_keywords:
+  - "mediation"
+  - "conflict resolution"
+  - "facilitation"
+  - "negotiation"
+  - "dispute resolution"
+  - "neutrality"
+  - "confidentiality"
+  - "online dispute resolution"
+  - "workplace relations"
+  - "communication"
+resume_bullet_1: "Facilitated [N] cases with agreement reached in [X]%."
+resume_bullet_2: "Designed an online intake that cut waiting from [X] to [Y] days."
+resume_bullet_3: "Trained [N] managers in early conflict handling."
+career_transition: "HR professionals, lawyers, social workers and community leaders move into mediation."
+certifications:
+  - "Accredited mediator training"
+  - "Online dispute resolution courses"
+  - "Professional body membership"
+human_touch_tip: "Never put what a party told you in private into a tool without consent."
+faq_q1: "Can AI mediate?"
+faq_a1: "It may support simple online processes; sensitive disputes need a trained person."
+faq_q2: "Is it confidential?"
+faq_a2: "Only if tools and agreements make it so."
+faq_q3: "Accreditation?"
+faq_a3: "Requirements vary by country and court."
+related_roles:
+  - ai-mediated-cross-cultural-negotiation
+  - human-ai-negotiation-tactics
+  - ai-mediated-mentorship
+  - ai-hr-specialist
+description: "How to become an AI-Mediated Resolution: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Summaries can tilt tone.**"
+  - "**Silence carries meaning tools miss.**"
+  - "**Screen for safety and power imbalance.**"
+  - "**Agreements need clear next steps.**"
+mistakes:
+  - "Taking sides."
+  - "Recording without consent."
+  - "Rushing to agreement."
+  - "Mediating where there is violence risk."
+interview_questions:
+  - "How do you stay neutral?"
+  - "What would make you stop a mediation?"
+  - "How do you use AI, and tell parties?"
+  - "How do you handle power imbalance?"
+  - "Describe a hard case without names."
+action_plan:
+  - "**Week 1.** Read mediator ethics codes."
+  - "**Week 2.** Practise reflective listening."
+  - "**Week 3.** Draft a tool consent form."
+  - "**Week 4.** Role-play with a colleague."
+  - "**Month 2.** Seek accredited training."
+resources:
+  - { title: "American Arbitration Association", url: "https://www.adr.org", note: "dispute resolution" }
+  - { title: "CEDR", url: "https://www.cedr.com", note: "mediation training" }
+  - { title: "International Mediation Institute", url: "https://imimediation.org", note: "standards" }
+  - { title: "National Center for Technology and Dispute Resolution", url: "https://odr.info", note: "online dispute resolution" }
 ---
 
-## What is a AI-Mediated Resolution?
+## What the work actually looks like
 
-How to use 'Objective AI' to analyze transcripts and data to find fair middle ground in human negotiations. This role sits at the intersection of human expertise and artificial intelligence, requiring professionals who can leverage AI tools while maintaining the judgment and creativity that machines cannot replicate.
+You assess suitability, prepare parties, facilitate talks, record agreements and follow up.
 
-As AI transforms industries in 2026, the AI-Mediated Resolution role has become one of the most sought-after positions in the modern workforce. Organizations need specialists who understand both the technical capabilities of AI systems and the human context in which they operate.
+## Consent for every tool
 
-## Core Skills for AI-Mediated Resolution
+Say what it does, where data goes and that a party may refuse without penalty.
 
-To succeed as a AI-Mediated Resolution, you need a combination of technical knowledge and human skills. The key competencies include: Objectivity, Pattern Analysis, Diplomatic Communication, Fairness Logic, De-escalation.
+## How to benchmark pay
 
-These skills work together to help you navigate complex challenges that pure automation cannot solve. Employers consistently look for candidates who demonstrate these abilities through concrete examples and measurable outcomes.
-
-## AI Tools Used by AI-Mediated Resolution Professionals
-
-Modern AI-Mediated Resolution professionals work with a range of AI-powered tools: Neuro-Symbolic Reasoning, Cross-Model Verification, Knowledge Graphs, Compute Efficiency.
-
-Familiarity with these tools is increasingly expected, but what truly differentiates top candidates is knowing *when* to use them and how to interpret their outputs critically.
-
-## How to Build Your AI-Mediated Resolution Resume
-
-Your resume for a AI-Mediated Resolution position should clearly demonstrate your ability to work alongside AI systems while providing distinctly human value. Here's what matters most:
-
-**Lead with impact.** Quantify your achievements wherever possible. Instead of "managed AI projects," write "led implementation of AI workflow that reduced processing time by 40%."
-
-**Show your judgment.** Employers want to see that you can make decisions AI cannot. Include examples where your expertise, ethics, or creativity determined the outcome.
-
-**Use AI to prepare for difficult conversations by simulating different responses, but never disclose to the other party that you used AI to prepare — authenticity in conflict resolution depends on the other person believing they are encountering your genuine self.**
-
-**List relevant tools.** Include the AI tools you've worked with: Neuro-Symbolic Reasoning, Cross-Model Verification, Knowledge Graphs, Compute Efficiency. Be specific about your proficiency level and the context in which you used them.
-
-## Resume Tips Specific to AI-Mediated Resolution Roles
-
-- Use keywords from job descriptions — ATS systems scan for exact matches
-- Include a professional summary that mentions your AI-augmented skill set
-- Quantify results: percentages, time saved, revenue impacted, team size
-- Keep formatting clean and ATS-friendly — no tables, graphics, or unusual fonts
-- Add links to relevant projects, publications, or portfolios where applicable
-
-## Create Your AI-Mediated Resolution Resume in 10 Seconds
-
-Upload your existing resume to ResumeLink and get an AI-optimized interactive profile with ATS score, shareable link, and QR code — instantly, no signup required.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for arbitrators, mediators and conciliators.

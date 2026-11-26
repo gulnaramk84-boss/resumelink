@@ -3,64 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Logistics Flow Manager"
 h1: "AI Logistics Flow Manager Resume Guide 2026"
-summary_hack: "AI Logistics Flow Managers keep goods moving through networks of carriers, hubs and warehouses, using AI for routing, ETA prediction and exception handling."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI Logistics Flow Manager improves how goods move end to end, removing bottlenecks with data, simulation and practical changes on the floor."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Network flow planning"
-  - "Carrier management"
-  - "Exception management"
-  - "KPI management"
+  - "Flow analysis"
+  - "Operations leadership"
+  - "Data interpretation"
+  - "Lean methods"
   - "Cross-team coordination"
 ai_tools:
-  - "project44 / FourKites"
-  - "Oracle TMS / SAP TM"
-  - "Power BI"
-  - "Excel"
-  - "Python"
-  - "Descartes"
+  - "TMS and WMS"
+  - "Simulation tools"
+  - "SQL and BI"
+  - "Forecasting tools"
+  - "Process maps"
 ats_keywords:
   - "logistics"
-  - "transportation management"
-  - "supply chain visibility"
-  - "route optimization"
-  - "carrier management"
-  - "OTIF"
-  - "ETA prediction"
-resume_bullet_1: "Used predictive ETAs to reroute at-risk loads, lifting on-time delivery from 88% to 95%."
-resume_bullet_2: "Cut empty miles by 14% through AI-assisted load consolidation."
-resume_bullet_3: "Built an exception playbook that halved time to resolve delayed shipments."
-career_transition: "Common paths: logistics coordinators, dispatchers, transport planners and supply chain analysts."
+  - "flow optimisation"
+  - "throughput"
+  - "lean"
+  - "network design"
+  - "forecasting"
+  - "KPI"
+  - "warehouse"
+  - "transport"
+  - "continuous improvement"
+resume_bullet_1: "Raised throughput by [X]% by removing a bottleneck at [step]."
+resume_bullet_2: "Cut average dwell time from [X] to [Y] hours."
+resume_bullet_3: "Reduced empty kilometres by [X]% through planning changes."
+career_transition: "Coordinators, warehouse supervisors, industrial engineers and analysts move into this role."
 certifications:
-  - "ASCM CLTD (Certified in Logistics, Transportation and Distribution)"
-  - "ASCM CSCP"
-  - "Lean Six Sigma Green Belt"
-human_touch_tip: "Describe a disruption you managed and the decision you made when the model's recommendation did not fit reality."
-faq_q1: "What does logistics flow management include?"
-faq_a1: "Planning and monitoring the movement of goods across transport modes and nodes, and resolving exceptions before customers feel them."
-faq_q2: "Which KPIs matter most?"
-faq_a2: "On-time in-full (OTIF), cost per shipment, transit time, empty miles and exception resolution time."
-faq_q3: "Is this role hands-on or strategic?"
-faq_a3: "Both. Managers balance daily firefighting with improving network design."
+  - "APICS CSCP"
+  - "Lean Six Sigma"
+  - "CSCMP SCPro"
+human_touch_tip: "Walk the floor before trusting the dashboard."
+faq_q1: "Where is the usual bottleneck?"
+faq_a1: "It differs; measure waiting at each handover."
+faq_q2: "Do I need coding?"
+faq_a2: "Helpful for analysis, not always required."
+faq_q3: "How to prove impact?"
+faq_a3: "Baseline, change, result over a fair period."
 related_roles:
-  - ai-logistics-optimization-lead
   - ai-logistic-coordinator
+  - ai-logistics-optimization-lead
+  - ai-manufacturing-efficiency-lead
   - ai-supply-chain-resilience-lead
-description: "AI Logistics Flow Managers keep goods moving through networks of carriers, hubs and warehouses, using AI for routing, ETA prediction and exception handling."
+description: "How to become an AI Logistics Flow Manager: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Speeding one step can jam the next.**"
+  - "**Peak days reveal the system.**"
+  - "**Data timestamps may be wrong.**"
+  - "**Involve drivers and pickers.**"
+mistakes:
+  - "Optimising averages only."
+  - "Ignoring safety."
+  - "No pilot."
+  - "Blaming people for system limits."
+interview_questions:
+  - "How do you find a bottleneck?"
+  - "How would you plan for peak season?"
+  - "How do you validate a simulation?"
+  - "How do you balance cost and speed?"
+  - "Describe a change that failed."
+action_plan:
+  - "**Week 1.** Map one flow."
+  - "**Week 2.** Measure waiting times."
+  - "**Week 3.** Test a small change."
+  - "**Week 4.** Compare results."
+  - "**Month 2.** Write the case with numbers."
+resources:
+  - { title: "ASCM", url: "https://www.ascm.org", note: "supply chain body" }
+  - { title: "CSCMP", url: "https://cscmp.org", note: "supply chain council" }
+  - { title: "Lean Enterprise Institute", url: "https://www.lean.org", note: "flow methods" }
+  - { title: "MIT Center for Transportation and Logistics", url: "https://ctl.mit.edu", note: "research" }
 ---
 
-## What does an AI Logistics Flow Manager do?
+## What the work actually looks like
 
-AI Logistics Flow Managers keep goods moving through networks of carriers, hubs and warehouses, using AI for routing, ETA prediction and exception handling.
+You measure flow, find constraints, test changes with teams and keep the gains.
 
-## A typical week
+## Follow one order
 
-- Monitoring live shipments and exceptions
-- Reviewing carrier performance
-- Adjusting routes and consolidation plans
-- Reporting KPIs to operations leadership
+Trace a single order from receipt to delivery and time every wait.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Lead with OTIF, cost and transit improvements. Name TMS and visibility platforms.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for logisticians and operations managers.
