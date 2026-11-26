@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<style>
+.a-h1{font-size:clamp(1.7rem,5vw,2.5rem);font-weight:500;letter-spacing:-.02em;line-height:1.25;color:var(--forest);margin-bottom:12px}
+.a-intro{font-size:16px;color:var(--muted);line-height:1.8;margin-bottom:24px}
+.r-body{font-size:15px;line-height:1.8;color:var(--forest)}
+.r-body h2{font-size:19px;margin:32px 0 10px}
+.r-body p{margin-bottom:12px}
+.r-body ul,.r-body ol{margin:0 0 14px 20px}
+.r-body li{margin-bottom:6px}
+.r-body pre{white-space:pre-wrap;background:var(--surface);border:0.5px solid var(--border);border-radius:12px;padding:16px;font:14px/1.7 'DM Sans',sans-serif;margin-bottom:6px}
+.r-body a{color:var(--green-dk)}
+.a-cta{display:flex;flex-wrap:wrap;gap:12px;margin:32px 0}
+.a-cta a{background:var(--green-dk);color:#fff;border-radius:10px;padding:12px 20px;font-size:14px;font-weight:500;text-decoration:none}
+.a-cta a+a{background:var(--mint);color:var(--green-dk);border:0.5px solid var(--border)}
+</style>
+<p style="font-size:13px;margin-bottom:14px"><a href="/roles/" style="color:var(--green-dk)">← All career guides</a></p>
+<h1 class="a-h1">{{ page.h1 }}</h1>
+<p class="a-intro">{{ page.description }}</p>
+<details class="r-toc" id="r-toc" open hidden><summary>On this page</summary><ul></ul></details>
+<div class="r-body">{{ content }}</div>
+<div class="a-cta"><a href="/">Build a profile from your resume</a><a href="/match-check.html">Compare your resume with a job</a></div>
+{% include guide-tools.html %}

@@ -72,7 +72,7 @@ action_plan:
   - "**Week 4.** Analyse public data."
   - "**Month 2.** Write a cautious brief."
 resources:
-  - { title: "ILO: future of work", url: "https://www.ilo.org/topics-and-sectors/future-work", note: "research" }
+  - { title: "ILO: future of work", url: "https://www.ilo.org/topics", note: "research" }
   - { title: "OECD: employment", url: "https://www.oecd.org/en/topics/employment.html", note: "data and analysis" }
   - { title: "O*NET", url: "https://www.onetonline.org", note: "task data" }
   - { title: "NBER", url: "https://www.nber.org", note: "working papers" }

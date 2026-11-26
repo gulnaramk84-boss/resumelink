@@ -1,58 +1,37 @@
 ---
-layout: role
+layout: article
 category: "Guides & Strategy"
-title: "Career Resilience Coach"
-h1: "Career Resilience Coach Resume Guide 2026"
-summary_hack: "Career Resilience Coach professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$55,000 – $100,000"
-salary_note: "US market rate, varies by experience and location"
-judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
-ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
-ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into Career Resilience Coach: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
-certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For Career Resilience Coach interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for Career Resilience Coach in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for Career Resilience Coach?"
-faq_a2: "Salaries range from $55,000 – $100,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for Career Resilience Coach roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
-related_roles:
-  - career-change-roadmap
-  - job-search-organization
-  - first-90-days-plan
-description: "Career Resilience Coach professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-..."
+title: "Handling Job Rejection"
+h1: "What to Do After a Job Rejection"
+description: "Ask for feedback, find the weak stage and protect your energy."
+action_plan: true
 ---
+## It is often not about you
 
-## What does a Career Resilience Coach do?
+Budgets change, internal candidates appear and priorities shift. You rarely see the full reason.
 
-Career Resilience Coach professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+## Ask for feedback
 
-## Why this role is in demand in 2026
+```
+Hello [name], thank you for letting me know. If you have a moment, what would have made my application stronger? I would be glad to be considered if a suitable role opens.
+```
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. Career Resilience Coach professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Not everyone replies.
+
+## Find the weak stage
+
+- No replies to applications: check your resume and role fit.
+- Rejected after the first call: practise your introduction and discuss expectations earlier.
+- Rejected after a task: ask someone skilled to review your work.
+
+## Keep a simple tracker
+
+Company, role, date, stage, next action. After a few weeks, patterns become visible.
+
+## Protect yourself
+
+Set hours for searching and hours without it. Talk with people. If low mood lasts or feels heavy, speak with a health professional.
+
+## One step today
+
+Improve one thing in your resume and send one carefully chosen application.

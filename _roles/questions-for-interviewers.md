@@ -1,61 +1,45 @@
 ---
-layout: role
+layout: article
 category: "Guides & Strategy"
-title: "Interview Preparation Coach"
-h1: "Interview Preparation Coach Resume Guide 2026"
-summary_hack: "Interview Preparation Coach professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
-salary_range: "$55,000 – $100,000"
-salary_note: "US market rate, varies by experience and location"
-judgment_skills:
-  - Strategic Thinking & Problem Solving
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data Interpretation & Decision Making
-  - Communication & Stakeholder Management
-ai_tools:
-  - Python / R
-  - AI Productivity Suite
-  - Data Visualization Tools
-  - Project Management Platforms
-  - Domain-specific AI Software
-ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - cross-functional collaboration
-  - stakeholder management
-  - process optimization
-  - AI implementation
-resume_bullet_1: "Led AI implementation initiative delivering 35% efficiency gain across 3 departments within 6 months."
-resume_bullet_2: "Built and trained team of 8 on AI-augmented workflows, reducing manual processing time by 50%."
-resume_bullet_3: "Developed data-driven reporting framework that improved decision-making speed by 40% for senior leadership."
-career_transition: "Common paths into Interview Preparation Coach: professionals from adjacent fields with strong analytical skills, domain experts who upskill in AI tools, and career changers who complete targeted AI certifications. Most transitions take 6-12 months."
-certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-human_touch_tip: "In every Interview Preparation Coach interview, prepare one story where your judgment corrected or improved on what an AI system suggested. This demonstrates the human value you bring beyond tool proficiency."
-faq_q1: "What skills are most important for a Interview Preparation Coach in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like Python, data analysis, and familiarity with AI platforms are essential, but soft skills like critical thinking, communication, and ethical judgment differentiate top candidates."
-faq_q2: "What is the salary range for Interview Preparation Coach roles?"
-faq_a2: "Salaries range from $55,000 – $100,000 depending on experience, location, and company size. AI specialization typically commands a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I transition into Interview Preparation Coach from my current career?"
-faq_a3: "Start by identifying the overlap between your current skills and the role requirements. Complete relevant certifications, build a portfolio of AI-augmented projects, and network in professional communities. Most successful transitions take 6-18 months of deliberate preparation."
-related_roles:
-  - career-change-roadmap
-  - job-search-organization
-  - first-90-days-plan
-description: "Interview Preparation Coach professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
+title: "Questions to Ask Interviewers"
+h1: "Good Questions to Ask at the End of an Interview"
+description: "Questions that reveal how the job really works and show you are thinking ahead."
+action_plan: true
 ---
+## About the work
 
-## What does a Interview Preparation Coach do?
+- What would you like done in the first three months?
+- What does a typical week look like?
+- Why is this role open?
 
-Interview Preparation Coach professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market. In 2026, this role requires both deep domain knowledge and the ability to work alongside AI systems as a collaborative partner, not just a user.
+## About the team
 
-Professionals in this field spend their time designing AI-augmented workflows, validating machine outputs with human judgment, and communicating insights to stakeholders who may not have technical backgrounds. The human element — ethics, creativity, and contextual understanding — remains irreplaceable.
+- Who would I report to and work with?
+- How does the team give feedback?
+- How are disagreements settled?
 
-## Why this role matters in 2026
+## About growth
 
-Organizations are deploying AI tools faster than they can build internal expertise to manage them. Interview Preparation Coach professionals bridge the gap between AI capability and business value, ensuring that technology investments translate into real outcomes.
+- What have people in this role moved on to?
+- How is performance reviewed?
 
-The demand for specialists who combine domain knowledge with AI literacy is outpacing supply across industries, creating significant career opportunities for those who invest in developing this hybrid skill set.
+## About conditions
+
+- What are the usual hours and how often do they change?
+- What is the next step and when might I hear?
+
+Ask about pay and benefits when it fits your market and the stage of the process.
+
+## Listen for warning signs
+
+Vague answers about duties, constant urgency, pressure to accept at once or requests to pay for anything.
+
+## How many
+
+Prepare six and ask two or three. Skip what was already answered.
+
+## A closing line
+
+```
+Is there anything in my background that you would like me to explain further?
+```
