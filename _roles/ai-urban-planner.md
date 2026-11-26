@@ -3,64 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Urban Planner"
 h1: "AI Urban Planner Resume Guide 2026"
-summary_hack: "AI Urban Planners use spatial data, simulation and AI to plan land use, housing and infrastructure, and to involve residents in decisions about their city."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI Urban Planner uses spatial data and modelling to inform land use and services, while public participation and law guide decisions."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Land use planning"
-  - "GIS analysis"
-  - "Scenario modeling"
-  - "Public engagement"
-  - "Planning law and policy"
+  - "Planning law"
+  - "Spatial analysis"
+  - "Public consultation"
+  - "Design sense"
+  - "Balancing interests"
 ai_tools:
-  - "Esri ArcGIS"
-  - "QGIS"
-  - "UrbanFootprint"
-  - "CityEngine"
+  - "GIS"
+  - "Spatial modelling"
+  - "3D city models"
+  - "Survey platforms"
   - "Python"
-  - "Miro"
 ats_keywords:
   - "urban planning"
   - "GIS"
   - "land use"
   - "zoning"
-  - "transportation planning"
-  - "public engagement"
-  - "scenario planning"
-resume_bullet_1: "Modeled 4 growth scenarios for a city of 400,000, informing the comprehensive plan update."
-resume_bullet_2: "Used AI to analyze 6,000 public comments, surfacing 12 priority themes for council."
-resume_bullet_3: "Identified 900 underused parcels suitable for infill housing through spatial analysis."
-career_transition: "Common paths: planners, GIS analysts, architects and transport modelers."
+  - "public consultation"
+  - "spatial analysis"
+  - "sustainability"
+  - "transport"
+  - "housing"
+  - "policy"
+resume_bullet_1: "Analysed [area] for [issue] and informed a plan change."
+resume_bullet_2: "Reached [N] residents, including [group], and revised the proposal."
+resume_bullet_3: "Modelled [N] scenarios for housing and services."
+career_transition: "Planners, geographers, architects and GIS analysts add AI methods."
 certifications:
-  - "AICP (American Institute of Certified Planners)"
-  - "RTPI chartered membership"
-  - "GISP"
-human_touch_tip: "Show how analysis changed a decision and how residents were involved. Planning is political as much as technical."
-faq_q1: "How is AI used in urban planning?"
-faq_a1: "Analyzing land use and mobility data, simulating scenarios, generating design options and summarizing public feedback."
-faq_q2: "Do planners need to code?"
-faq_a2: "Not always, but GIS skills are essential and Python is increasingly valued."
-faq_q3: "What credentials matter?"
-faq_a3: "AICP in the US and RTPI membership in the UK are the main professional credentials."
+  - "Accredited planning degree or chartership"
+  - "GIS certification"
+  - "Facilitation training"
+human_touch_tip: "Show a map and then the people it left out."
+faq_q1: "Can AI decide zoning?"
+faq_a1: "No. It informs; elected and legal processes decide."
+faq_q2: "What data bias exists?"
+faq_a2: "Areas with fewer devices or complaints look invisible."
+faq_q3: "Do I need a licence?"
+faq_a3: "Depends on country and title."
 related_roles:
-  - ai-urban-mobility-designer
+  - ai-smart-city-coordinator
   - ai-urban-traffic-optimizer
+  - ai-urban-mobility-designer
   - ai-architectural-designer
-description: "AI Urban Planners use spatial data, simulation and AI to plan land use, housing and infrastructure, and to involve residents in decisions about their city."
+description: "How to become an AI Urban Planner: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Old data freezes old inequality.**"
+  - "**Consultation timing matters.**"
+  - "**Visuals can persuade unfairly.**"
+  - "**Explain model assumptions.**"
+mistakes:
+  - "Treating models as neutral."
+  - "Late consultation."
+  - "Ignoring informal use of space."
+  - "Jargon with residents."
+interview_questions:
+  - "How would you assess a new housing site?"
+  - "How do you include quiet voices?"
+  - "What are the limits of your model?"
+  - "How do you handle opposition?"
+  - "Describe a trade-off."
+action_plan:
+  - "**Week 1.** Choose a neighbourhood."
+  - "**Week 2.** Map services and gaps."
+  - "**Week 3.** Talk with residents."
+  - "**Week 4.** Draft scenarios."
+  - "**Month 2.** Present with limits."
+resources:
+  - { title: "UN-Habitat", url: "https://unhabitat.org", note: "planning guidance" }
+  - { title: "American Planning Association", url: "https://www.planning.org", note: "profession" }
+  - { title: "Royal Town Planning Institute", url: "https://www.rtpi.org.uk", note: "profession" }
+  - { title: "OpenStreetMap", url: "https://www.openstreetmap.org", note: "open data" }
 ---
 
-## What does an AI Urban Planner do?
+## What the work actually looks like
 
-AI Urban Planners use spatial data, simulation and AI to plan land use, housing and infrastructure, and to involve residents in decisions about their city.
+You analyse places, consult, draft plans, check law and support decision bodies.
 
-## A typical week
+## Who is missing
 
-- Running spatial analyses
-- Preparing scenario reports
-- Leading public meetings
-- Reviewing development proposals
+Compare your data with who actually lives and works there.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Quantify plan scope and decisions informed. Name GIS tools and credentials.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for urban and regional planners.

@@ -3,64 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Transformation Coach"
 h1: "AI Transformation Coach Resume Guide 2026"
-summary_hack: "AI Transformation Coaches help leaders and teams adopt AI in daily work, covering mindset, skills and habits, so tools actually get used and deliver value."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI Transformation Coach helps teams change how they work with AI: practical habits, safe experiments, new skills and honest talk about worries."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
   - "Coaching"
   - "Facilitation"
+  - "Process thinking"
   - "Change management"
-  - "AI literacy teaching"
-  - "Adoption measurement"
+  - "Measurement"
 ai_tools:
-  - "Microsoft Copilot"
-  - "ChatGPT Enterprise"
-  - "Miro"
-  - "Prosci ADKAR"
-  - "Notion"
-  - "Survey tools"
+  - "Workshop boards"
+  - "Approved AI assistants"
+  - "Surveys"
+  - "Experiment trackers"
+  - "Training materials"
 ats_keywords:
   - "AI adoption"
-  - "transformation"
-  - "coaching"
   - "change management"
+  - "coaching"
   - "training"
-  - "AI literacy"
-  - "facilitation"
-resume_bullet_1: "Coached 60 managers through a 12-week AI adoption program; weekly active use rose from 20% to 72%."
-resume_bullet_2: "Designed hands-on workshops rated 4.7/5 by 800 participants."
-resume_bullet_3: "Built team-specific use case libraries saving an average of 3 hours per employee per week (self-reported)."
-career_transition: "Common paths: agile coaches, L&D specialists, change managers and consultants."
+  - "workshops"
+  - "process redesign"
+  - "upskilling"
+  - "stakeholder engagement"
+  - "agile"
+  - "responsible AI"
+resume_bullet_1: "Coached [N] teams; [X]% kept a new AI-assisted workflow after [period]."
+resume_bullet_2: "Saved [N] hours a month in [process], verified by the team."
+resume_bullet_3: "Created safe-use guidance understood by [X]% in a check."
+career_transition: "Agile coaches, trainers, consultants and team leads move into this work."
 certifications:
-  - "ICF ACC/PCC coaching credentials"
-  - "Prosci Certified Change Practitioner"
-  - "ICAgile Certified Professional"
-human_touch_tip: "Share a skeptical team you won over and what changed their mind. Adoption stories beat training hour counts."
-faq_q1: "What does an AI transformation coach do?"
-faq_a1: "Helps people build confidence and routines with AI tools, and helps leaders set realistic goals and guardrails."
-faq_q2: "Is technical expertise needed?"
-faq_a2: "Solid hands-on AI tool experience is essential; deep engineering skills are not."
-faq_q3: "How is success measured?"
-faq_a3: "Active use, time saved, quality of outputs and employee confidence, ideally tracked before and after."
+  - "Prosci or change management"
+  - "ICF coaching"
+  - "Agile coaching"
+human_touch_tip: "Let the team choose the first problem."
+faq_q1: "Is it mostly training?"
+faq_a1: "No. Habits change through practice on real work."
+faq_q2: "How to handle fear?"
+faq_a2: "Name it, be honest about what is decided and what is not."
+faq_q3: "What proves success?"
+faq_a3: "Lasting use and better outcomes, not licence counts."
 related_roles:
   - ai-literacy-for-executives
+  - ai-first-organizational-design
   - the-psychology-of-ai-adoption
-  - ai-mediated-mentorship
-description: "AI Transformation Coaches help leaders and teams adopt AI in daily work, covering mindset, skills and habits, so tools actually get used and deliver value."
+  - ai-project-manager
+description: "How to become an AI Transformation Coach: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Time to practise is the scarce resource.**"
+  - "**Early failures teach.**"
+  - "**Managers set permission.**"
+  - "**Share examples from peers.**"
+mistakes:
+  - "Tool tours without tasks."
+  - "Counting logins."
+  - "Ignoring data rules."
+  - "Promising no change to jobs."
+interview_questions:
+  - "How do you start with a sceptical team?"
+  - "How do you measure adoption?"
+  - "What do you do if quality drops?"
+  - "How do you handle job fears?"
+  - "Describe a coaching success."
+action_plan:
+  - "**Week 1.** Interview one team."
+  - "**Week 2.** Pick a repeated task."
+  - "**Week 3.** Run a two-week experiment."
+  - "**Week 4.** Review time and quality."
+  - "**Month 2.** Write the playbook."
+resources:
+  - { title: "Prosci", url: "https://www.prosci.com", note: "change methods" }
+  - { title: "International Coaching Federation", url: "https://coachingfederation.org", note: "coaching ethics" }
+  - { title: "NIST AI Risk Management Framework", url: "https://www.nist.gov/itl/ai-risk-management-framework", note: "risk language for AI work" }
+  - { title: "OECD.AI Policy Observatory", url: "https://oecd.ai", note: "AI policy by country" }
 ---
 
-## What does an AI Transformation Coach do?
+## What the work actually looks like
 
-AI Transformation Coaches help leaders and teams adopt AI in daily work, covering mindset, skills and habits, so tools actually get used and deliver value.
+You observe, coach, run experiments, remove blockers and help leaders support the change.
 
-## A typical week
+## Two-week experiments
 
-- Running coaching sessions and workshops
-- Reviewing adoption data
-- Collecting and sharing use cases
-- Advising leaders on next steps
+One task, one measure, a baseline, a review and a decision to keep or drop.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Quantify adoption and satisfaction changes. Mention coaching credentials.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for training and development specialists.
