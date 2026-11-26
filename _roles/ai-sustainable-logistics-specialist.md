@@ -3,64 +3,91 @@ layout: role
 category: "AI Roles"
 title: "AI Sustainable Logistics Specialist"
 h1: "AI Sustainable Logistics Specialist Resume Guide 2026"
-summary_hack: "AI Sustainable Logistics Specialists cut transport emissions and costs together through route optimization, mode shift, load consolidation and fleet electrification planning."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI Sustainable Logistics Specialist cuts emissions and waste from transport and warehousing using measurement and optimisation."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Transport emissions accounting"
-  - "Route and network optimization"
-  - "Fleet transition planning"
-  - "Carrier engagement"
-  - "Data analysis"
+  - "Emissions calculation"
+  - "Route and load planning"
+  - "Data quality"
+  - "Supplier and carrier engagement"
+  - "Honest claims"
 ai_tools:
-  - "TMS platforms"
-  - "Route optimization tools"
-  - "GLEC Framework"
-  - "Power BI"
-  - "Python"
-  - "EV fleet planning tools"
+  - "TMS"
+  - "Route optimisation"
+  - "Emissions calculators"
+  - "Spreadsheets and BI"
+  - "Telematics"
 ats_keywords:
-  - "green logistics"
-  - "transport emissions"
-  - "route optimization"
-  - "fleet electrification"
+  - "sustainable logistics"
+  - "carbon footprint"
+  - "route optimisation"
+  - "load factor"
   - "GLEC"
   - "Scope 3"
-  - "logistics"
-resume_bullet_1: "Reduced transport CO2e by 18% and cost by 7% through AI-assisted load consolidation and mode shift."
-resume_bullet_2: "Built a fleet electrification plan for 120 vans, prioritizing routes by range and charging access."
-resume_bullet_3: "Implemented GLEC-aligned emissions reporting across 25 carriers."
-career_transition: "Common paths: logistics planners, transport analysts, sustainability analysts and fleet managers."
+  - "fleet"
+  - "packaging"
+  - "modal shift"
+  - "reporting"
+resume_bullet_1: "Raised load factor from [X]% to [Y]%, removing [N] trips."
+resume_bullet_2: "Shifted [X]% of volume to rail, cutting estimated emissions by [Y]%."
+resume_bullet_3: "Built a transport emissions baseline using a stated method."
+career_transition: "Transport planners, logistics coordinators and sustainability analysts move into this role."
 certifications:
-  - "ASCM CLTD"
-  - "GLEC Framework training (Smart Freight Centre)"
-  - "Lean Six Sigma Green Belt"
-human_touch_tip: "Show wins where emissions and cost both fell. That is what gets sustainability projects funded."
-faq_q1: "How are logistics emissions calculated?"
-faq_a1: "Commonly with the GLEC Framework, which aligns with the GHG Protocol and ISO 14083 for transport chains."
-faq_q2: "Where are the biggest reductions?"
-faq_a2: "Fuller loads, fewer empty miles, shifting to rail or sea where possible, and electrifying suitable routes."
-faq_q3: "Is this a logistics or sustainability role?"
-faq_a3: "It sits in logistics operations with strong links to sustainability reporting."
+  - "GHG accounting courses"
+  - "CSCMP training"
+  - "Fleet management qualifications"
+human_touch_tip: "State the method behind every emissions number."
+faq_q1: "Is the greenest route the shortest?"
+faq_a1: "Not always; load, vehicle and mode matter."
+faq_q2: "What is Scope 3?"
+faq_a2: "Value-chain emissions, including much outsourced transport."
+faq_q3: "Can I claim carbon neutral?"
+faq_a3: "Claims are regulated in many markets; be careful."
 related_roles:
   - ai-logistics-optimization-lead
-  - ai-sustainability-reporting-lead
-  - ai-energy-economics-for-business
-description: "AI Sustainable Logistics Specialists cut transport emissions and costs together through route optimization, mode shift, load consolidation and fleet electrif..."
+  - ai-sustainability-data-lead
+  - ai-logistics-flow-manager
+  - ai-environmental-impact-auditor
+description: "How to become an AI Sustainable Logistics Specialist: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+partners: [fundan]
+partner_note: "Planning a green logistics project in Central Asia? Fundan, one of our other projects, searches grants and green finance (in Russian)."
+insights:
+  - "**Empty running is hidden waste.**"
+  - "**Urgent orders drive emissions.**"
+  - "**Carrier data quality varies.**"
+  - "**Packaging affects vehicle fill.**"
+mistakes:
+  - "Offsets instead of reductions."
+  - "Comparing different methods."
+  - "Ignoring cost and service."
+  - "Unsupported green claims."
+interview_questions:
+  - "How would you build a baseline?"
+  - "Where would you cut first?"
+  - "How do you get carrier data?"
+  - "How do you balance speed and emissions?"
+  - "How do you avoid greenwashing?"
+action_plan:
+  - "**Week 1.** Learn a freight emissions method."
+  - "**Week 2.** Calculate a sample lane."
+  - "**Week 3.** Test consolidation."
+  - "**Week 4.** Estimate savings."
+  - "**Month 2.** Write the case with assumptions."
+resources:
+  - { title: "Smart Freight Centre: GLEC", url: "https://www.smartfreightcentre.org", note: "freight emissions framework" }
+  - { title: "GHG Protocol", url: "https://ghgprotocol.org", note: "emissions accounting" }
+  - { title: "CSCMP", url: "https://cscmp.org", note: "supply chain council" }
+  - { title: "IEA: transport", url: "https://www.iea.org/energy-system/transport", note: "analysis" }
 ---
 
-## What does an AI Sustainable Logistics Specialist do?
+## What the work actually looks like
 
-AI Sustainable Logistics Specialists cut transport emissions and costs together through route optimization, mode shift, load consolidation and fleet electrification planning.
+You measure, find waste, test changes with carriers and warehouses and report honestly.
 
-## A typical week
+## Reduce before offsetting
 
-- Analyzing routes and loads
-- Working with carriers on data
-- Planning fleet changes
-- Reporting emissions and cost results
+Remove trips, fill vehicles and change mode first.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Quantify emissions and cost reductions together. Mention GLEC or ISO 14083.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for logisticians and environmental occupations.

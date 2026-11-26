@@ -3,56 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Supply Chain Risk Manager"
 h1: "AI Supply Chain Risk Manager Resume Guide 2026"
-summary_hack: "AI Supply Chain Risk Manager professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$95,000 – $160,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "An AI Supply Chain Risk Manager identifies, rates and monitors supplier and route risks and makes sure owners act on them."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Risk assessment"
+  - "Supplier due diligence"
+  - "Data monitoring"
+  - "Escalation"
+  - "Reporting"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "Risk platforms"
+  - "Credit and news monitoring"
+  - "ERP data"
+  - "Dashboards"
+  - "Risk registers"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into AI Supply Chain Risk Manager: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "supply chain risk"
+  - "third-party risk"
+  - "due diligence"
+  - "risk register"
+  - "monitoring"
+  - "sanctions screening"
+  - "business continuity"
+  - "compliance"
+  - "mitigation"
+  - "KPI"
+resume_bullet_1: "Built a risk register of [N] suppliers with owners and review dates."
+resume_bullet_2: "Escalated [N] early warnings that avoided shortages."
+resume_bullet_3: "Reduced high-risk supplier spend from [X]% to [Y]%."
+career_transition: "Procurement, compliance, audit and logistics staff move into this role."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For AI Supply Chain Risk Manager interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for AI Supply Chain Risk Manager in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for AI Supply Chain Risk Manager?"
-faq_a2: "Salaries range from $95,000 – $160,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for AI Supply Chain Risk Manager roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "CIPS"
+  - "ISO 31000 training"
+  - "APICS CSCP"
+human_touch_tip: "A register without action is decoration."
+faq_q1: "How is this different from resilience?"
+faq_a1: "Risk management finds and tracks threats; resilience builds ability to recover."
+faq_q2: "Which data helps?"
+faq_a2: "Delivery performance, finances, location, news and audits."
+faq_q3: "Do alerts overwhelm?"
+faq_a3: "Yes without thresholds and owners."
 related_roles:
-  - chief-ai-officer
-  - ai-governance-consultant
-  - computer-vision-specialist
-description: "AI Supply Chain Risk Manager professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of h..."
+  - ai-supply-chain-resilience-lead
+  - ai-ethical-sourcing-specialist
+  - ai-risk-manager
+  - securing-the-ai-supply-chain
+description: "How to become an AI Supply Chain Risk Manager: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Late deliveries warn before news does.**"
+  - "**Concentration by region hides.**"
+  - "**Contracts define your options.**"
+  - "**Cyber risk travels through suppliers.**"
+mistakes:
+  - "Scoring once a year."
+  - "No risk appetite."
+  - "Ignoring small suppliers."
+  - "Alerts without owner."
+interview_questions:
+  - "How would you rate supplier risk?"
+  - "Which early warnings matter?"
+  - "How do you handle a sanctioned link?"
+  - "How do you report to leadership?"
+  - "Describe a risk you caught."
+action_plan:
+  - "**Week 1.** List suppliers for a sample product."
+  - "**Week 2.** Define scoring criteria."
+  - "**Week 3.** Add monitoring sources."
+  - "**Week 4.** Assign actions."
+  - "**Month 2.** Review after a month."
+resources:
+  - { title: "ISO 31000: risk management", url: "https://www.iso.org/iso-31000-risk-management.html", note: "standard overview" }
+  - { title: "ASCM", url: "https://www.ascm.org", note: "supply chain body" }
+  - { title: "CIPS", url: "https://www.cips.org", note: "procurement profession" }
+  - { title: "US OFAC sanctions", url: "https://ofac.treasury.gov", note: "official lists" }
 ---
 
-## What does a AI Supply Chain Risk Manager do?
+## What the work actually looks like
 
-AI Supply Chain Risk Manager professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You assess, monitor, escalate, agree mitigations and report.
 
-## Why this role is in demand in 2026
+## Likelihood, impact, speed
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. AI Supply Chain Risk Manager professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Rate how likely, how bad and how fast it would hit you.
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for logisticians and compliance occupations.

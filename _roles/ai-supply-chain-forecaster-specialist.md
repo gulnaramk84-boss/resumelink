@@ -3,64 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Demand Forecasting Specialist"
 h1: "AI Demand Forecasting Specialist Resume Guide 2026"
-summary_hack: "AI Demand Forecasting Specialists build and run forecasts that drive inventory and production, combining statistical and machine learning models with market intelligence."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI Demand Forecasting Specialist builds and monitors forecasts that purchasing, production and logistics can actually use."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Time series forecasting"
-  - "Demand planning"
-  - "Forecast accuracy analysis"
-  - "S&OP collaboration"
-  - "Data preparation"
+  - "Time series methods"
+  - "Data cleaning"
+  - "Business context"
+  - "Forecast evaluation"
+  - "Communication"
 ai_tools:
-  - "SAP IBP"
-  - "Kinaxis"
-  - "o9 Solutions"
-  - "Python (statsmodels, LightGBM)"
+  - "Python or R"
+  - "Planning systems"
   - "SQL"
-  - "Excel"
+  - "BI tools"
+  - "Forecasting libraries"
 ats_keywords:
   - "demand forecasting"
-  - "demand planning"
+  - "time series"
   - "S&OP"
   - "forecast accuracy"
-  - "MAPE"
-  - "inventory planning"
+  - "bias"
+  - "Python"
+  - "inventory"
+  - "planning"
   - "machine learning"
-resume_bullet_1: "Reduced forecast error (MAPE) from 32% to 21% across 4,000 SKUs with gradient boosting models."
-resume_bullet_2: "Cut safety stock by $3.5M while maintaining a 98% service level."
-resume_bullet_3: "Introduced forecast value-added analysis, removing manual overrides that made accuracy worse."
-career_transition: "Common paths: demand planners, data analysts, supply chain analysts and statisticians."
+  - "supply chain"
+resume_bullet_1: "Reduced weighted forecast error from [X]% to [Y]%."
+resume_bullet_2: "Removed a consistent over-forecast of [X]% that caused excess stock."
+resume_bullet_3: "Automated forecasts for [N] items with exception review."
+career_transition: "Planners, analysts, statisticians and data scientists move into forecasting."
 certifications:
-  - "IBF CPF (Certified Professional Forecaster)"
-  - "ASCM CPIM"
-  - "ASCM CSCP"
-human_touch_tip: "Explain forecast value added: when human overrides helped and when they hurt. It shows maturity beyond model building."
-faq_q1: "How do I measure forecast quality?"
-faq_a1: "With accuracy metrics like MAPE or WAPE and bias, compared against a simple baseline and measured over time."
-faq_q2: "Does machine learning always beat statistical models?"
-faq_a2: "No. It helps most with many drivers and lots of data; simple models often win on sparse or stable demand."
-faq_q3: "What is S&OP?"
-faq_a3: "Sales and Operations Planning: a monthly process aligning demand, supply and finance plans."
+  - "IBF forecasting certification"
+  - "APICS CPIM"
+  - "Data science courses"
+human_touch_tip: "Report bias as well as error."
+faq_q1: "Does machine learning always win?"
+faq_a1: "No. Compare with simple baselines."
+faq_q2: "What about shocks?"
+faq_a2: "Use scenarios and human input."
+faq_q3: "Which metric?"
+faq_a3: "Choose one that matches business cost."
 related_roles:
-  - ai-retail-inventory-planner
   - ai-supply-chain-resilience-lead
+  - ai-retail-inventory-planner
   - ai-supply-chain-risk-manager
-description: "AI Demand Forecasting Specialists build and run forecasts that drive inventory and production, combining statistical and machine learning models with market ..."
+  - ai-financial-analyst
+description: "How to become an AI Demand Forecasting Specialist: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Sales are not demand when stock ran out.**"
+  - "**Aggregation level changes accuracy.**"
+  - "**Manual overrides need tracking.**"
+  - "**Value of accuracy differs by item.**"
+mistakes:
+  - "Random train-test splits on time data."
+  - "Chasing one metric."
+  - "No baseline."
+  - "Black box nobody trusts."
+interview_questions:
+  - "How do you back-test?"
+  - "How do you treat promotions?"
+  - "How do you forecast intermittent demand?"
+  - "How do you measure override value?"
+  - "Explain error to a manager."
+action_plan:
+  - "**Week 1.** Study baselines."
+  - "**Week 2.** Back-test on public data."
+  - "**Week 3.** Measure error and bias."
+  - "**Week 4.** Add one improvement."
+  - "**Month 2.** Publish method and limits."
+resources:
+  - { title: "Forecasting: Principles and Practice", url: "https://otexts.com/fpp3/", note: "free textbook" }
+  - { title: "Institute of Business Forecasting", url: "https://ibf.org", note: "certification" }
+  - { title: "ASCM", url: "https://www.ascm.org", note: "supply chain body" }
+  - { title: "Nixtla documentation", url: "https://nixtlaverse.nixtla.io", note: "open forecasting libraries" }
 ---
 
-## What does an AI Demand Forecasting Specialist do?
+## What the work actually looks like
 
-AI Demand Forecasting Specialists build and run forecasts that drive inventory and production, combining statistical and machine learning models with market intelligence.
+You prepare data, model, evaluate, discuss with planners and monitor drift.
 
-## A typical week
+## Always compare with naive
 
-- Updating and reviewing forecasts
-- Analyzing accuracy and bias
-- Preparing inputs for S&OP
-- Investigating unusual demand signals
+If a model cannot beat last period or the same season last year, do not deploy it.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Lead with accuracy and inventory outcomes on real volumes (SKUs, revenue). Name planning systems.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for logisticians and operations research analysts.
