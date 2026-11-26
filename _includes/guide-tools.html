@@ -48,6 +48,9 @@
   document.querySelectorAll('.r-bullets li').forEach(function (li) {
     li.appendChild(button(L.copy, li.textContent.trim()));
   });
+  document.querySelectorAll('.r-body pre').forEach(function (pre) {
+    pre.parentNode.insertBefore(button(L.copy, pre.textContent.trim()), pre.nextSibling);
+  });
   var box = document.querySelector('.r-keywords');
   if (box) {
     var words = Array.prototype.map.call(box.querySelectorAll('.r-keyword'), function (k) { return k.textContent.trim(); });

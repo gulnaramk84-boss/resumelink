@@ -9,6 +9,9 @@ collections:
   roles:
     output: true
     permalink: /roles/:name/
+  ru_guides:
+    output: true
+    permalink: /guides-ru/:name/
 
 # Defaults
 defaults:

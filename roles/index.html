@@ -159,7 +159,7 @@ function toggleLang() { try { localStorage.setItem('rl_lang', rlLang() === 'en' 
 const LANG = rlLang();
 const I18N = {
     en: { title: 'Explore 200+ AI Career Guides', sub: 'Find your next role, learn required skills, ATS keywords, and career paths', search: 'Search roles... (Engineer, Manager, Designer, etc.)', none: 'No roles found. Try adjusting your search.', read: 'Read guide →', foot: '© 2026 ResumeLink. All career guides are AI-powered and regularly updated.', note: '' },
-    ru: { title: 'Более 200 карьерных гайдов по ИИ', sub: 'Найдите свою роль: нужные навыки, ключевые слова и пути в профессию', search: 'Поиск ролей… (инженер, менеджер, дизайнер)', none: 'Ничего не найдено. Попробуйте изменить запрос.', read: 'Читать гайд →', foot: '© 2026 ResumeLink. Все гайды создаются с помощью ИИ и регулярно обновляются.', note: 'Интерфейс переведён, сами тексты гайдов пока на английском.' }
+    ru: { title: 'Более 200 карьерных гайдов по ИИ', sub: 'Найдите свою роль: нужные навыки, ключевые слова и пути в профессию', search: 'Поиск ролей… (инженер, менеджер, дизайнер)', none: 'Ничего не найдено. Попробуйте изменить запрос.', read: 'Читать гайд →', foot: '© 2026 ResumeLink. Все гайды создаются с помощью ИИ и регулярно обновляются.', note: 'Гайды по профессиям пока на английском. Гайды по поиску работы на русском: resumelink.cc/guides-ru/' }
 };
 Object.assign(I18N.en, { feat: 'Popular guides', found: n => n + ' guides', more: n => 'Show more (' + n + ' left)', sort: 'Sort:', alpha: 'A–Z', bycat: 'By category' });
 Object.assign(I18N.ru, { feat: 'Популярные гайды', found: n => 'Найдено: ' + n, more: n => 'Показать ещё (осталось ' + n + ')', sort: 'Сортировка:', alpha: 'По алфавиту', bycat: 'По категориям' });

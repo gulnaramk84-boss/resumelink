@@ -1,0 +1,11 @@
+---
+layout: default
+permalink: /guides-ru/
+lang: ru
+title: "Гайды по поиску работы на русском"
+description: "Простые пошаговые гайды: резюме, сопроводительное письмо, LinkedIn, собеседование, переговоры о зарплате и смена профессии."
+---
+<style>.g-card{display:block;background:var(--surface);border:0.5px solid var(--border);border-radius:14px;padding:18px 20px;margin-bottom:12px;text-decoration:none;color:var(--forest)}.g-card:hover{border-color:var(--green)}.g-card p{font-size:13px;color:var(--muted);margin-top:4px}</style>
+<h1 style="font-size:clamp(1.7rem,5vw,2.4rem);font-weight:500;margin-bottom:18px">Гайды по поиску работы</h1>
+{% assign items = site.ru_guides | sort: "order" %}
+{% for g in items %}<a class="g-card" href="{{ g.url }}"><strong>{{ g.h1 }}</strong><p>{{ g.description }}</p></a>{% endfor %}

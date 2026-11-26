@@ -18,6 +18,9 @@ sitemap_exclude: true
 {%- for r in site.roles %}
   <url><loc>{{ r.url | absolute_url }}</loc><lastmod>{{ today }}</lastmod></url>
 {%- endfor %}
+{%- for g in site.ru_guides %}
+  <url><loc>{{ site.url }}{{ g.url }}</loc><lastmod>{{ today }}</lastmod></url>
+{%- endfor %}
 {%- for post in site.posts %}
   <url><loc>{{ post.url | absolute_url }}</loc><lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod></url>
 {%- endfor %}

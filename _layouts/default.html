@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="{{ page.lang | default: 'en' }}" data-theme="light">
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0SJSZFKB2X"></script>
@@ -99,20 +99,20 @@
 <nav>
     <a href="/" class="nav-logo">Resume<span>Link</span></a>
     <div class="nav-links">
-        <a href="/roles/">Explore</a>
-        <a href="/about.html">About</a>
-        <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)">Contact</a>
-        <a href="/" class="nav-cta">Upload Resume →</a>
+        <a href="/roles/">{% if page.lang == 'ru' %}Профессии{% else %}Explore{% endif %}</a>
+        <a href="/about.html">{% if page.lang == 'ru' %}О сервисе{% else %}About{% endif %}</a>
+        <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)">{% if page.lang == 'ru' %}Контакт{% else %}Contact{% endif %}</a>
+        <a href="/" class="nav-cta">{% if page.lang == 'ru' %}Загрузить резюме →{% else %}Upload Resume →{% endif %}</a>
     </div>
     <button class="nav-hamburger" onclick="this.closest('nav').nextElementSibling.classList.toggle('open')" aria-label="Menu">
         <span></span><span></span><span></span>
     </button>
 </nav>
 <div class="nav-mobile">
-    <a href="/roles/">Explore</a>
-    <a href="/about.html">About</a>
-    <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)">Contact</a>
-    <a href="/" style="color:var(--green-dk);font-weight:500">Upload Resume →</a>
+    <a href="/roles/">{% if page.lang == 'ru' %}Профессии{% else %}Explore{% endif %}</a>
+    <a href="/about.html">{% if page.lang == 'ru' %}О сервисе{% else %}About{% endif %}</a>
+    <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)">{% if page.lang == 'ru' %}Контакт{% else %}Contact{% endif %}</a>
+    <a href="/" style="color:var(--green-dk);font-weight:500">{% if page.lang == 'ru' %}Загрузить резюме →{% else %}Upload Resume →{% endif %}</a>
 </div>
 
 <main>
@@ -122,9 +122,9 @@
 <footer>
     <a href="/" class="footer-logo">Resume<span>Link</span></a>
     <div class="footer-links">
-        <a href="/roles/">Guides & Careers</a>
-        <a href="/about.html">About</a>
-        <a href="/policy.html">Privacy & Terms</a>
+        <a href="/roles/">{% if page.lang == 'ru' %}Гайды{% else %}Guides & Careers{% endif %}</a>
+        <a href="/about.html">{% if page.lang == 'ru' %}О сервисе{% else %}About{% endif %}</a>
+        <a href="/policy.html">{% if page.lang == 'ru' %}Конфиденциальность{% else %}Privacy & Terms{% endif %}</a>
         <a href="mailto:info@resumelink.cc" onclick="copyEmailFallback(event)">info@resumelink.cc</a>
         <a href="https://ko-fi.com/ontoguzlabs" target="_blank" rel="noopener">☕ Support</a>
         <a href="https://patreon.com/AzatIsrailov?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" target="_blank" rel="noopener">🧡 Patreon</a>
