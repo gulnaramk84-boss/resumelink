@@ -15,13 +15,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI Career Guides — Find Your Role | ResumeLink</title>
-    <meta name="description" content="Browse 200+ AI career guides: from AI Engineers to AI Ethicists. Find the perfect role, learn required skills, salary ranges, and career paths.">
+    <meta name="description" content="Browse 200+ AI career guides: from AI Engineers to AI Ethicists. Find the perfect role, learn required skills, how to benchmark pay, and career paths.">
     <meta name="robots" content="index, follow, max-image-preview:large">
     <link rel="canonical" href="https://resumelink.cc/roles/">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="ResumeLink">
     <meta property="og:title" content="AI Career Guides — Find Your Role | ResumeLink">
-    <meta property="og:description" content="Browse 200+ AI career guides: required skills, salary ranges, ATS keywords and career paths.">
+    <meta property="og:description" content="Browse 200+ AI career guides: required skills, ATS keywords, pay benchmarking tips and career paths.">
     <meta property="og:url" content="https://resumelink.cc/roles/">
     <meta property="og:image" content="https://resumelink.cc/og-image.png">
     <meta property="og:image:width" content="1200">
@@ -125,7 +125,7 @@
 
 <div class="container">
     <h1 id="t-title">Explore 200+ AI Career Guides</h1>
-    <p class="subtitle" id="t-sub">Find your next role, learn required skills, salary insights, and career paths</p>
+    <p class="subtitle" id="t-sub">Find your next role, learn required skills, ATS keywords, and career paths</p>
 
     <div class="search-box">
         <input type="text" aria-label="Search" id="search-input" placeholder="Search roles... (Engineer, Manager, Designer, etc.)" onkeyup="filterRoles()">
@@ -158,8 +158,8 @@ function rlLang() { try { var s = localStorage.getItem('rl_lang'); if (s === 'en
 function toggleLang() { try { localStorage.setItem('rl_lang', rlLang() === 'en' ? 'ru' : 'en'); } catch (e) {} location.reload(); }
 const LANG = rlLang();
 const I18N = {
-    en: { title: 'Explore 200+ AI Career Guides', sub: 'Find your next role, learn required skills, salary insights, and career paths', search: 'Search roles... (Engineer, Manager, Designer, etc.)', none: 'No roles found. Try adjusting your search.', read: 'Read guide →', foot: '© 2026 ResumeLink. All career guides are AI-powered and regularly updated.', note: '' },
-    ru: { title: 'Более 200 карьерных гайдов по ИИ', sub: 'Найдите свою роль: нужные навыки, зарплаты и пути в профессию', search: 'Поиск ролей… (инженер, менеджер, дизайнер)', none: 'Ничего не найдено. Попробуйте изменить запрос.', read: 'Читать гайд →', foot: '© 2026 ResumeLink. Все гайды создаются с помощью ИИ и регулярно обновляются.', note: 'Интерфейс переведён, сами тексты гайдов пока на английском.' }
+    en: { title: 'Explore 200+ AI Career Guides', sub: 'Find your next role, learn required skills, ATS keywords, and career paths', search: 'Search roles... (Engineer, Manager, Designer, etc.)', none: 'No roles found. Try adjusting your search.', read: 'Read guide →', foot: '© 2026 ResumeLink. All career guides are AI-powered and regularly updated.', note: '' },
+    ru: { title: 'Более 200 карьерных гайдов по ИИ', sub: 'Найдите свою роль: нужные навыки, ключевые слова и пути в профессию', search: 'Поиск ролей… (инженер, менеджер, дизайнер)', none: 'Ничего не найдено. Попробуйте изменить запрос.', read: 'Читать гайд →', foot: '© 2026 ResumeLink. Все гайды создаются с помощью ИИ и регулярно обновляются.', note: 'Интерфейс переведён, сами тексты гайдов пока на английском.' }
 };
 Object.assign(I18N.en, { feat: 'Popular guides', found: n => n + ' guides', more: n => 'Show more (' + n + ' left)', sort: 'Sort:', alpha: 'A–Z', bycat: 'By category' });
 Object.assign(I18N.ru, { feat: 'Популярные гайды', found: n => 'Найдено: ' + n, more: n => 'Показать ещё (осталось ' + n + ')', sort: 'Сортировка:', alpha: 'По алфавиту', bycat: 'По категориям' });
