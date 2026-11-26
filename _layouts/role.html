@@ -121,7 +121,9 @@ layout: default
 
 <div class="r-intro">{{ page.summary_hack }} This 2026 guide covers everything about <strong>{{ t }}</strong> — skills, tools, ATS keywords, and how to stand out.</div>
 
-<div class="r-topcta"><div><strong>Is your resume ready for {{ t }}?</strong><span>Get your ATS score and see keyword gaps in about 10 seconds. Free, no signup.</span></div><a href="/">Check my resume →</a></div>
+<div class="r-topcta"><div><strong>Is your resume ready for {{ t }}?</strong><span>Get your ATS score and see keyword gaps in about 10 seconds. Free, no signup. Or <a href="/match-check.html" style="background:none;color:var(--green-dk);padding:0;text-decoration:underline">compare it with a job description</a>.</span></div><a href="/">Check my resume →</a></div>
+
+<details class="r-toc" id="r-toc" open hidden><summary>{% if page.lang == 'ru' %}&#1057;&#1086;&#1076;&#1077;&#1088;&#1078;&#1072;&#1085;&#1080;&#1077;{% else %}On this page{% endif %}</summary><ul></ul></details>
 
 <div class="r-grid-2">
   <div class="r-card">
@@ -206,7 +208,7 @@ layout: default
   <ul class="r-list">{% for r in page.resources %}<li><a href="{{ r.url }}" target="_blank" rel="noopener">{{ r.title }}</a>{% if r.note %}: {{ r.note }}{% endif %}</li>{% endfor %}</ul>
 </div>
 {% endif %}
-{% if content and content != "" %}<div style="font-size:14px;color:var(--muted);line-height:1.8;margin-bottom:2rem">{{ content }}</div>{% endif %}
+{% if content and content != "" %}<div class="r-body" style="font-size:14px;color:var(--muted);line-height:1.8;margin-bottom:2rem">{{ content }}</div>{% endif %}
 
 {% if page.faq_q1 %}
 <div class="r-section">
@@ -286,3 +288,4 @@ function copyLink(btn) {
 {% include share-buttons.html %}
 
 {% include job-listings.html %}
+{% include guide-tools.html %}

@@ -1,0 +1,57 @@
+{% comment %}Table of contents and one-click copy for guide pages. Labels follow page.lang.{% endcomment %}
+{% if page.lang == 'ru' %}
+  {% assign l_toc = "Содержание" %}{% assign l_copy = "Копировать" %}{% assign l_done = "Скопировано" %}{% assign l_all = "Копировать все слова" %}
+{% else %}
+  {% assign l_toc = "On this page" %}{% assign l_copy = "Copy" %}{% assign l_done = "Copied" %}{% assign l_all = "Copy all keywords" %}
+{% endif %}
+<style>
+.r-toc{background:var(--surface);border:0.5px solid var(--border);border-radius:14px;padding:14px 18px;margin:0 0 1.75rem}
+.r-toc summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--forest)}
+.r-toc ul{list-style:none;padding:10px 0 0;margin:0;display:flex;flex-wrap:wrap;gap:8px}
+.r-toc a{display:inline-block;font-size:12.5px;color:var(--green-dk);background:var(--mint);border:0.5px solid var(--border);border-radius:20px;padding:6px 12px;text-decoration:none}
+.r-copy{display:inline-block;margin-left:10px;font:500 11px 'DM Sans',sans-serif;color:var(--green-dk);background:var(--mint);border:0.5px solid var(--border);border-radius:6px;padding:4px 10px;cursor:pointer;vertical-align:middle}
+.r-copy-all{margin:10px 0 0}
+[data-toc]{scroll-margin-top:80px}
+@media print{.r-toc,.r-copy{display:none!important}}
+</style>
+<script>
+(function () {
+  var L = { copy: {{ l_copy | jsonify }}, done: {{ l_done | jsonify }}, all: {{ l_all | jsonify }} };
+  var slot = document.getElementById('r-toc');
+  var heads = document.querySelectorAll('.r-section-title, .r-body h2');
+  heads = Array.prototype.filter.call(heads, function (h) { return !/Similar Roles|Open Positions|Share/i.test(h.textContent); });
+  if (slot && heads.length > 2) {
+    var list = slot.querySelector('ul');
+    if (window.innerWidth < 600) slot.open = false;
+    heads.forEach(function (h, i) {
+      h.id = h.id || 'part-' + (i + 1);
+      h.setAttribute('data-toc', '');
+      var li = document.createElement('li'), a = document.createElement('a');
+      a.href = '#' + h.id;
+      a.textContent = h.textContent.replace(/^[^A-Za-zА-Яа-яЁё0-9]+/, '').replace(/^Top ATS Keywords for .*/, 'ATS Keywords').trim();
+      li.appendChild(a); list.appendChild(li);
+    });
+    slot.hidden = false;
+  }
+  function button(label, text, extra) {
+    var b = document.createElement('button');
+    b.type = 'button'; b.className = 'r-copy' + (extra || ''); b.textContent = label;
+    b.addEventListener('click', function () {
+      navigator.clipboard.writeText(text).then(function () {
+        b.textContent = '✓ ' + L.done;
+        setTimeout(function () { b.textContent = label; }, 1800);
+      });
+    });
+    return b;
+  }
+  if (!navigator.clipboard) return;
+  document.querySelectorAll('.r-bullets li').forEach(function (li) {
+    li.appendChild(button(L.copy, li.textContent.trim()));
+  });
+  var box = document.querySelector('.r-keywords');
+  if (box) {
+    var words = Array.prototype.map.call(box.querySelectorAll('.r-keyword'), function (k) { return k.textContent.trim(); });
+    box.parentNode.appendChild(button(L.all, words.join(', '), ' r-copy-all'));
+  }
+})();
+</script>

@@ -1,0 +1,139 @@
+---
+layout: null
+permalink: /match-check.html
+title: "Resume vs job description keyword check | ResumeLink"
+---
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Сравнить резюме с вакансией / Resume vs job check | ResumeLink</title>
+<meta name="description" content="Paste your resume and a job description to see which words from the vacancy are missing. Free, runs in your browser, nothing is uploaded. Сравните резюме с вакансией бесплатно.">
+<link rel="canonical" href="https://resumelink.cc/match-check.html">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--green:#1DB368;--green-dk:#0D7A45;--forest:#0D3D28;--bg:#F2FAF6;--surface:#fff;--mint:#EAF7F0;--border:#C5E8D5;--muted:#436B57}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--forest);font-family:'DM Sans',sans-serif;line-height:1.6}
+nav{display:flex;justify-content:space-between;align-items:center;max-width:960px;margin:0 auto;padding:18px 16px}
+nav a{color:var(--forest);text-decoration:none;font-weight:600;font-size:18px}
+nav a span{color:var(--green)}
+nav button{border:1px solid var(--border);background:var(--surface);border-radius:8px;padding:6px 12px;cursor:pointer;color:var(--forest);font:500 12px 'DM Sans',sans-serif}
+main{max-width:960px;margin:0 auto;padding:8px 16px 60px}
+h1{font-size:clamp(1.6rem,5vw,2.4rem);font-weight:500;letter-spacing:-.02em;margin-bottom:8px}
+.sub{color:var(--muted);font-size:15px;margin-bottom:22px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:700px){.grid{grid-template-columns:1fr}}
+label{display:block;font-size:13px;font-weight:600;margin-bottom:6px}
+textarea{width:100%;min-height:220px;border:1px solid var(--border);border-radius:12px;padding:14px;font:400 14px 'DM Sans',sans-serif;color:var(--forest);background:var(--surface);resize:vertical}
+.go{margin:16px 0;background:var(--green-dk);color:#fff;border:0;border-radius:10px;padding:13px 26px;font:600 15px 'DM Sans',sans-serif;cursor:pointer}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:18px;margin-top:14px}
+.card h2{font-size:15px;margin-bottom:10px}
+.score{font-size:34px;font-weight:600;color:var(--green-dk)}
+.tags{display:flex;flex-wrap:wrap;gap:8px}
+.tag{border-radius:20px;padding:5px 12px;font-size:13px;border:1px solid var(--border);background:var(--mint)}
+.tag.miss{background:#FFF7E6;border-color:#F2D28B;color:#6B4A00}
+.note{font-size:13px;color:var(--muted)}
+.links{margin-top:24px;display:flex;flex-wrap:wrap;gap:12px}
+.links a{color:var(--green-dk);font-weight:600;font-size:14px}
+</style>
+</head>
+<body>
+<nav><a href="/">Resume<span>Link</span></a><button type="button" id="lang"></button></nav>
+<main>
+  <h1 data-t="h1"></h1>
+  <p class="sub" data-t="sub"></p>
+  <div class="grid">
+    <div><label for="cv" data-t="cv"></label><textarea id="cv"></textarea></div>
+    <div><label for="job" data-t="job"></label><textarea id="job"></textarea></div>
+  </div>
+  <button type="button" class="go" id="go" data-t="go"></button>
+  <p class="note" id="warn" hidden data-t="warn"></p>
+  <div id="out" hidden aria-live="polite">
+    <div class="card"><div class="score" id="score"></div><p class="note" data-t="scoreNote"></p></div>
+    <div class="card"><h2 data-t="missing"></h2><div class="tags" id="missing"></div></div>
+    <div class="card"><h2 data-t="found"></h2><div class="tags" id="found"></div></div>
+    <p class="note" style="margin-top:14px" data-t="honest"></p>
+  </div>
+  <div class="links"><a href="/" data-t="build"></a><a href="/roles/" data-t="guides"></a></div>
+</main>
+<script>
+(function () {
+  var T = {
+    ru: { h1: 'Сравните резюме с вакансией', sub: 'Вставьте оба текста и посмотрите, каких слов из вакансии нет в резюме. Бесплатно. Тексты никуда не отправляются: всё считается в вашем браузере.', cv: 'Текст вашего резюме', job: 'Текст вакансии', go: 'Сравнить', warn: 'Вставьте оба текста: хотя бы по несколько предложений.', scoreNote: 'Доля важных слов вакансии, которые есть в резюме.', missing: 'Этих слов в резюме нет', found: 'Эти слова уже есть', honest: 'Это простое сравнение слов, а не оценка ИИ и не гарантия приглашения. Добавляйте только то, что вы действительно умеете.', build: 'Создать профиль из резюме →', guides: 'Гайды по профессиям →', none: 'Нет', other: 'EN' },
+    en: { h1: 'Compare your resume with a job', sub: 'Paste both texts and see which words from the vacancy are missing in your resume. Free. Nothing is uploaded: it all runs in your browser.', cv: 'Your resume text', job: 'Job description', go: 'Compare', warn: 'Paste both texts, at least a few sentences each.', scoreNote: 'Share of the vacancy’s key words that appear in your resume.', missing: 'Missing from your resume', found: 'Already there', honest: 'This is simple word matching, not an AI judgment and not a promise of an interview. Only add what you can really do.', build: 'Build a profile from your resume →', guides: 'Career guides →', none: 'None', other: 'RU' }
+  };
+  function getLang() { try { var s = localStorage.getItem('rl_lang'); if (s === 'en' || s === 'ru') return s; } catch (e) {} return (navigator.language || '').indexOf('ru') === 0 ? 'ru' : 'en'; }
+  var lang = getLang();
+  function paint() {
+    document.documentElement.lang = lang;
+    document.querySelectorAll('[data-t]').forEach(function (el) { el.textContent = T[lang][el.getAttribute('data-t')]; });
+    document.getElementById('lang').textContent = T[lang].other;
+  }
+  document.getElementById('lang').addEventListener('click', function () {
+    lang = lang === 'ru' ? 'en' : 'ru';
+    try { localStorage.setItem('rl_lang', lang); } catch (e) {}
+    paint();
+    if (!document.getElementById('out').hidden) run();
+  });
+
+  var STOP = ('a an and are as at be by for from has have in is it its of on or our that the their this to we will with you your who what when where which while would should can may must not all any more most other such than then them they us also into over per via about within across etc work working job role team company experience years year strong good great ability skills skill knowledge required requirements preferred responsibilities including include join looking candidate candidates apply position opportunity ' +
+    'и в во не что он на я с со как а то все она так его но да ты к у же вы за бы по только ее мне было вот от меня еще нет о из ему теперь когда даже ну ли если уже или ни быть был него до вас нибудь опять уж вам ведь там потом себя ничего ей может они тут где есть надо ней для мы тебя их чем была сам чтоб без будто чего раз тоже себе под будет ж тогда кто этот того потому этого какой совсем ним здесь этом один почти мой тем чтобы нее при об также наш наша наши ваш ваша ваши работа работы работе опыт опыта лет год года компания компании команда команды команде требования обязанности условия умение знание знания навыки навык вакансия кандидат должность будем предлагаем ищем').split(/\s+/);
+  var stop = {}; STOP.forEach(function (w) { stop[w] = true; });
+
+  function words(text) { return (text.toLowerCase().replace(/ё/g, 'е').match(/[\p{L}\p{N}][\p{L}\p{N}+#.\-\/]*[\p{L}\p{N}+#]|[\p{L}]/gu) || []); }
+  function stem(w) {
+    if (/^[а-я]+$/.test(w)) return w.length > 5 ? w.slice(0, w.length - 2) : (w.length > 3 ? w.slice(0, w.length - 1) : w);
+    if (/^[a-z]+$/.test(w)) {
+      if (w.length > 5 && /ing$/.test(w)) return w.slice(0, -3);
+      if (w.length > 4 && /ies$/.test(w)) return w.slice(0, -3) + 'y';
+      if (w.length > 3 && /s$/.test(w) && !/ss$/.test(w)) return w.slice(0, -1);
+    }
+    return w;
+  }
+  // Russian words change their endings, so compare the shared beginning.
+  function same(a, b) {
+    if (a === b) return true;
+    if (!/^[а-я]+$/.test(a) || !/^[а-я]+$/.test(b)) return stem(a) === stem(b);
+    var min = Math.min(a.length, b.length), n = 0;
+    while (n < min && a[n] === b[n]) n++;
+    return min > 3 && Math.abs(a.length - b.length) <= 3 && n >= Math.max(3, min - (min > 5 ? 2 : 1));
+  }
+  function keywords(text) {
+    var list = words(text), count = {}, label = {};
+    list.forEach(function (w) {
+      if (w.length < 2 || stop[w] || /^[\d.\-\/]+$/.test(w)) return;
+      var k = stem(w);
+      if (/^[а-я]+$/.test(w)) k = Object.keys(count).filter(function (x) { return same(x, w); })[0] || w;
+      count[k] = (count[k] || 0) + 1;
+      if (!label[k] || w.length < label[k].length) label[k] = w;
+    });
+    return Object.keys(count).sort(function (a, b) { return count[b] - count[a]; }).slice(0, 30).map(function (k) { return { key: k, label: label[k] }; });
+  }
+  function fill(id, items, cls) {
+    var box = document.getElementById(id); box.textContent = '';
+    (items.length ? items : [{ label: T[lang].none }]).forEach(function (i) {
+      var s = document.createElement('span'); s.className = 'tag' + (cls || ''); s.textContent = i.label; box.appendChild(s);
+    });
+  }
+  function run() {
+    var cv = document.getElementById('cv').value, job = document.getElementById('job').value;
+    var short = words(cv).length < 10 || words(job).length < 10;
+    document.getElementById('warn').hidden = !short;
+    document.getElementById('out').hidden = short;
+    if (short) return;
+    var mine = words(cv);
+    var keys = keywords(job);
+    var has = function (k) { return mine.some(function (w) { return same(w, k.label); }); };
+    var found = keys.filter(has), missing = keys.filter(function (k) { return !has(k); });
+    document.getElementById('score').textContent = keys.length ? Math.round(found.length / keys.length * 100) + '%' : '0%';
+    fill('missing', missing, ' miss'); fill('found', found);
+  }
+  document.getElementById('go').addEventListener('click', run);
+  paint();
+})();
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "b7234bbfaa66422890d68f503dd604e3"}'></script>
+</body>
+</html>
