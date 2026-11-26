@@ -3,64 +3,91 @@ layout: role
 category: "AI Roles"
 title: "AI Real Estate Advisor"
 h1: "AI Real Estate Advisor Resume Guide 2026"
-summary_hack: "AI Real Estate Advisors use data and AI tools for pricing, market analysis and client matching, while delivering the negotiation and local knowledge buyers and sellers pay for."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI Real Estate Advisor uses market data and AI tools to guide clients on buying, selling or renting, with honest limits and local knowledge."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Market analysis"
-  - "Pricing strategy"
-  - "Negotiation"
-  - "Client advisory"
   - "Local market knowledge"
+  - "Client listening"
+  - "Data reading"
+  - "Negotiation"
+  - "Ethics and disclosure"
 ai_tools:
-  - "MLS platforms"
-  - "CoStar"
-  - "Zillow / Redfin data"
-  - "ChatGPT / Claude"
-  - "CRM (e.g. Follow Up Boss)"
-  - "Canva"
+  - "Property listing systems"
+  - "CRM"
+  - "Valuation estimate tools"
+  - "Mapping"
+  - "LLM assistants for listings (checked)"
 ats_keywords:
   - "real estate"
-  - "residential sales"
+  - "property advisory"
   - "market analysis"
-  - "pricing"
+  - "client relations"
   - "negotiation"
-  - "client relationships"
-  - "property marketing"
-resume_bullet_1: "Closed 38 transactions in a year with list-to-sale price ratio above market average."
-resume_bullet_2: "Built AI-assisted comparative market analyses, cutting preparation time from 3 hours to 45 minutes."
-resume_bullet_3: "Grew repeat and referral business to 55% of deals."
-career_transition: "Common paths: licensed agents, property managers, mortgage specialists and sales professionals."
+  - "CRM"
+  - "listings"
+  - "valuation"
+  - "due diligence"
+  - "compliance"
+resume_bullet_1: "Closed [N] transactions with [X]% client referrals."
+resume_bullet_2: "Reduced days on market from [X] to [Y] with better pricing evidence."
+resume_bullet_3: "Corrected AI-drafted listings before publication using a checklist."
+career_transition: "Sales, customer service, finance and construction staff move into real estate."
 certifications:
-  - "State real estate license"
-  - "CRS (Certified Residential Specialist)"
-  - "ABR (Accredited Buyer's Representative)"
-human_touch_tip: "Explain how you combine data with local insight, for example a pricing call you made that the automated estimate got wrong."
-faq_q1: "Will AI replace real estate agents?"
-faq_a1: "It automates research and paperwork; clients still rely on agents for negotiation, local knowledge and guidance through a stressful process."
-faq_q2: "Which AI tools help agents most?"
-faq_a2: "Drafting listings and emails, market analysis, lead follow-up and virtual staging, all reviewed for accuracy and fair-housing compliance."
-faq_q3: "Do I need a license?"
-faq_a3: "In most places, yes, to represent clients in transactions."
+  - "Real estate licence where required"
+  - "Ethics training"
+  - "Valuation basics"
+human_touch_tip: "Tell clients what you do not know, such as hidden defects."
+faq_q1: "Are online estimates reliable?"
+faq_a1: "They are starting points and can miss condition and street-level factors."
+faq_q2: "Is a licence needed?"
+faq_a2: "Often; check local law."
+faq_q3: "Can AI write listings?"
+faq_a3: "Check facts and avoid discriminatory wording."
 related_roles:
   - ai-real-estate-valuer
   - ai-real-estate-forecaster
-  - ai-sales-enablement
-description: "AI Real Estate Advisors use data and AI tools for pricing, market analysis and client matching, while delivering the negotiation and local knowledge buyers a..."
+  - ai-real-estate-investment-analyst
+  - ai-smart-home-architect
+description: "How to become an AI Real Estate Advisor: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+partners: [ratekit]
+partner_note: "Working on commission or fees? RateKit, one of our other projects, offers free business calculators."
+insights:
+  - "**Visit before advising.**"
+  - "**Fair housing rules apply to ads and algorithms.**"
+  - "**Document disclosures.**"
+  - "**Follow up after the sale.**"
+mistakes:
+  - "Inventing features."
+  - "Quoting an estimate as value."
+  - "Steering clients by group."
+  - "Giving legal or tax advice without qualification."
+interview_questions:
+  - "How do you price a property?"
+  - "How do you check an AI listing?"
+  - "How do you handle a low offer?"
+  - "What must you disclose?"
+  - "How do you get referrals?"
+action_plan:
+  - "**Week 1.** Check licensing rules."
+  - "**Week 2.** Study one neighbourhood."
+  - "**Week 3.** Compare five properties."
+  - "**Week 4.** Write honest sample listings."
+  - "**Month 2.** Interview a practising agent."
+resources:
+  - { title: "National Association of Realtors", url: "https://www.nar.realtor", note: "industry body" }
+  - { title: "RICS", url: "https://www.rics.org", note: "valuation and surveying standards" }
+  - { title: "Urban Land Institute", url: "https://uli.org", note: "real estate research" }
+  - { title: "US Federal Trade Commission: business guidance", url: "https://www.ftc.gov/business-guidance", note: "advertising and consumer rules" }
 ---
 
-## What does an AI Real Estate Advisor do?
+## What the work actually looks like
 
-AI Real Estate Advisors use data and AI tools for pricing, market analysis and client matching, while delivering the negotiation and local knowledge buyers and sellers pay for.
+You learn needs, research, view, price, market, negotiate and guide the paperwork with legal professionals.
 
-## A typical week
+## Evidence for a price
 
-- Meeting buyers and sellers
-- Preparing pricing analyses
-- Marketing listings
-- Negotiating offers and coordinating closings
+Recent comparable sales, condition differences and a stated range.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Quantify closed deals, volume and price outcomes. Mention license and designations.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for real estate brokers and sales agents.

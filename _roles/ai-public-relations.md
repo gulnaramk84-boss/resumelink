@@ -3,64 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Public Relations Specialist"
 h1: "AI Public Relations Specialist Resume Guide 2026"
-summary_hack: "AI Public Relations Specialists use AI for media monitoring, drafting and audience insight, while protecting the relationships, judgment and credibility that PR depends on."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI Public Relations Specialist builds trust between an organisation and its audiences, using AI for research and drafts while checking every fact."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
+  - "Writing"
   - "Media relations"
+  - "Judgment"
   - "Crisis communication"
-  - "Message development"
-  - "Media monitoring"
-  - "Ethical judgment"
+  - "Measurement"
 ai_tools:
-  - "Meltwater"
-  - "Cision"
-  - "Muck Rack"
-  - "ChatGPT / Claude"
-  - "Brandwatch"
-  - "Canva"
+  - "Media monitoring"
+  - "Media databases"
+  - "LLM assistants (checked)"
+  - "Analytics"
+  - "Design tools"
 ats_keywords:
   - "public relations"
   - "media relations"
-  - "crisis communications"
-  - "press release"
-  - "reputation management"
-  - "media monitoring"
-  - "communications"
-resume_bullet_1: "Secured 120+ earned media placements in a year, including 8 tier-one outlets."
-resume_bullet_2: "Cut media monitoring and reporting time by 60% with AI summaries, reallocating time to journalist outreach."
-resume_bullet_3: "Led crisis communications on a product incident, keeping negative coverage to 2 days."
-career_transition: "Common paths: communications coordinators, journalists, marketing specialists and agency account executives."
+  - "press releases"
+  - "reputation"
+  - "crisis communication"
+  - "stakeholders"
+  - "storytelling"
+  - "monitoring"
+  - "campaigns"
+  - "measurement"
+resume_bullet_1: "Secured [N] relevant media mentions for [campaign]."
+resume_bullet_2: "Responded to [issue] within [X] hours with approved facts."
+resume_bullet_3: "Introduced a fact check for AI-assisted releases with zero corrections in [period]."
+career_transition: "Journalists, marketers, writers and community staff move into PR."
 certifications:
-  - "APR (Accreditation in Public Relations)"
-  - "CIPR Diploma"
-  - "Meltwater / Cision platform certifications"
-human_touch_tip: "Never let AI send a pitch. Show how you personalize outreach; journalists spot mass AI pitches instantly."
-faq_q1: "How is AI used in PR?"
-faq_a1: "Monitoring coverage and sentiment, drafting first versions of releases and briefs, researching journalists and measuring results."
-faq_q2: "What are the risks?"
-faq_a2: "Inaccurate facts, generic pitches that damage relationships, and confidentiality leaks when sensitive information is put into public tools."
-faq_q3: "Is the APR worth it?"
-faq_a3: "It is the most recognized US accreditation for PR professionals and signals commitment to ethics and strategy."
+  - "PRSA or CIPR qualification"
+  - "Media training"
+  - "Analytics courses"
+human_touch_tip: "Never send a quote nobody said."
+faq_q1: "Can AI write press releases?"
+faq_a1: "Drafts yes; facts, quotes and approval are yours."
+faq_q2: "Does mass AI pitching work?"
+faq_a2: "It tends to damage relationships."
+faq_q3: "What to measure?"
+faq_a3: "Reach to the right audience, accuracy and effect on goals."
 related_roles:
-  - ai-brand-voice-architect
+  - ai-media-analyst
   - ai-social-media-manager
   - ai-in-crisis-management
-description: "AI Public Relations Specialists use AI for media monitoring, drafting and audience insight, while protecting the relationships, judgment and credibility that..."
+  - ai-brand-voice-architect
+description: "How to become an AI Public Relations Specialist: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Relationships outlast tools.**"
+  - "**Silence can be a choice, not neglect.**"
+  - "**Check images for manipulation.**"
+  - "**Disclose paid placements.**"
+mistakes:
+  - "Invented quotes."
+  - "Spraying journalists."
+  - "Hiding bad news."
+  - "Counting clippings only."
+interview_questions:
+  - "Write a holding statement."
+  - "How do you pitch a journalist?"
+  - "How do you check AI drafts?"
+  - "How do you measure a campaign?"
+  - "Describe a mistake you fixed."
+action_plan:
+  - "**Week 1.** Pick an organisation and audience."
+  - "**Week 2.** Write a release and pitch."
+  - "**Week 3.** Build a small media list."
+  - "**Week 4.** Draft a crisis statement."
+  - "**Month 2.** Collect them into a portfolio."
+resources:
+  - { title: "PRSA", url: "https://www.prsa.org", note: "ethics and training" }
+  - { title: "CIPR", url: "https://www.cipr.co.uk", note: "professional body" }
+  - { title: "AMEC", url: "https://amecorg.com", note: "measurement framework" }
+  - { title: "US Federal Trade Commission: business guidance", url: "https://www.ftc.gov/business-guidance", note: "advertising and consumer rules" }
 ---
 
-## What does an AI Public Relations Specialist do?
+## What the work actually looks like
 
-AI Public Relations Specialists use AI for media monitoring, drafting and audience insight, while protecting the relationships, judgment and credibility that PR depends on.
+You research, write, pitch, advise leaders, monitor and respond.
 
-## A typical week
+## A holding statement
 
-- Pitching and briefing journalists
-- Monitoring coverage and sentiment
-- Drafting releases and executive talking points
-- Reporting results to leadership
+What happened as far as known, what you are doing, and when you will say more.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Quantify placements, share of voice and crisis outcomes. Name monitoring tools.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for public relations specialists.

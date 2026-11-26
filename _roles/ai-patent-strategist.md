@@ -75,7 +75,7 @@ resources:
   - { title: "WIPO PATENTSCOPE", url: "https://patentscope.wipo.int", note: "search" }
   - { title: "Espacenet (EPO)", url: "https://worldwide.espacenet.com", note: "search" }
   - { title: "Google Patents", url: "https://patents.google.com", note: "search" }
-  - { title: "WIPO Academy", url: "https://www.wipo.int/en/web/academy", note: "courses" }
+  - { title: "WIPO Academy", url: "https://www.wipo.int/en/web/wipo-academy/", note: "courses" }
 ---
 
 ## What the work actually looks like

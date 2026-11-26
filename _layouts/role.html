@@ -3,8 +3,6 @@ layout: default
 ---
 
 {% assign t = page.title %}
-{% assign salary = page.salary_range | default: "Market rate varies" %}
-{% assign salary_note = page.salary_note | default: "depending on location and experience" %}
 
 <script type="application/ld+json">
 {
@@ -112,12 +110,6 @@ layout: default
 
 <div class="r-badge">{{ page.category }} · 2026 Guide</div>
 <h1 class="r-h1">{{ page.h1 }}</h1>
-
-{% if page.salary_range %}
-<div style="margin-bottom:1.5rem">
-  <span class="r-salary">💰 {{ salary }} <span class="r-salary-note">· {{ salary_note }}</span></span>
-</div>
-{% endif %}
 
 <div class="r-intro">{{ page.summary_hack }} This 2026 guide covers everything about <strong>{{ t }}</strong> — skills, tools, ATS keywords, and how to stand out.</div>
 

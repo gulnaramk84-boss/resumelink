@@ -3,64 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Radiology Workflow Specialist"
 h1: "AI Radiology Workflow Specialist Resume Guide 2026"
-summary_hack: "AI Radiology Workflow Specialists integrate and monitor AI tools in imaging departments, making sure detection and triage algorithms fit clinical workflows and stay safe over time."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "A Radiology Workflow Specialist helps imaging departments use AI safely for triage, quality checks and reporting support, under radiologists' responsibility."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Imaging informatics"
-  - "Clinical workflow design"
-  - "AI performance monitoring"
-  - "PACS and RIS integration"
-  - "Clinician training"
+  - "Imaging workflow knowledge"
+  - "Quality assurance"
+  - "Informatics"
+  - "Patient safety"
+  - "Training staff"
 ai_tools:
-  - "PACS (e.g. Sectra, GE, Philips)"
-  - "RIS"
+  - "PACS and RIS"
   - "DICOM tools"
-  - "AI platforms (e.g. Aidoc, Annalise.ai)"
-  - "HL7 / FHIR"
-  - "Power BI"
+  - "Triage and detection software"
+  - "Monitoring dashboards"
+  - "Incident reporting"
 ats_keywords:
   - "radiology"
-  - "imaging informatics"
   - "PACS"
   - "DICOM"
-  - "clinical AI"
   - "workflow"
+  - "quality assurance"
   - "patient safety"
-resume_bullet_1: "Integrated an intracranial hemorrhage triage algorithm into PACS, cutting report turnaround for flagged scans by 30%."
-resume_bullet_2: "Set up monthly monitoring of AI sensitivity and false alarm rates across 4 sites."
-resume_bullet_3: "Trained 45 radiologists and technologists on AI-assisted reading protocols."
-career_transition: "Common paths: radiologic technologists, PACS administrators, imaging informatics analysts and clinical application specialists."
+  - "clinical informatics"
+  - "triage"
+  - "validation"
+  - "imaging"
+resume_bullet_1: "Integrated [tool] with PACS and cut time to review urgent scans from [X] to [Y]."
+resume_bullet_2: "Tracked [N] discrepancies and reported patterns to clinical leads."
+resume_bullet_3: "Trained [N] staff on limits and fallback."
+career_transition: "Radiographers, PACS administrators, nurses and informatics staff move into this role."
 certifications:
-  - "CIIP (Certified Imaging Informatics Professional)"
-  - "ARRT credentials"
-  - "PARCA certifications"
-human_touch_tip: "Share a case where monitoring caught an AI performance drop. It proves you treat AI as a clinical tool that needs oversight."
-faq_q1: "Is this a clinical role?"
-faq_a1: "It is usually a clinical-technical hybrid. Radiologists make diagnoses; the specialist makes sure the tools work well and safely in the workflow."
-faq_q2: "What background is needed?"
-faq_a2: "Experience in radiology operations or imaging IT, plus understanding of DICOM, PACS and basic AI evaluation."
-faq_q3: "How is radiology AI regulated?"
-faq_a3: "Many tools are regulated as medical devices (for example FDA clearance in the US or CE marking in the EU), and hospitals must monitor them in use."
+  - "Radiography qualification where required"
+  - "CIIP (imaging informatics)"
+  - "Patient safety training"
+human_touch_tip: "Be clear: this role supports radiologists and does not replace their reading."
+faq_q1: "Do I need to be a radiologist?"
+faq_a1: "No for workflow roles; diagnosis stays with qualified doctors."
+faq_q2: "Can triage miss urgent cases?"
+faq_a2: "Yes, so keep safety nets and monitor."
+faq_q3: "What is DICOM?"
+faq_a3: "The standard format for medical images."
 related_roles:
   - ai-medical-diagnostic-lead
   - ai-healthcare-ops-manager
   - computer-vision-specialist
-description: "AI Radiology Workflow Specialists integrate and monitor AI tools in imaging departments, making sure detection and triage algorithms fit clinical workflows a..."
+  - ai-medical-admin
+description: "How to become an AI Radiology Workflow Specialist: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Scanner settings affect model results.**"
+  - "**Alerts can reorder work unfairly.**"
+  - "**Downtime plans are essential.**"
+  - "**Collect radiologist feedback.**"
+mistakes:
+  - "No local testing."
+  - "Trusting a negative flag."
+  - "Poor integration adding clicks."
+  - "Ignoring privacy in test data."
+interview_questions:
+  - "How would you introduce a triage tool?"
+  - "How do you monitor it?"
+  - "What if it misses a case?"
+  - "How do you protect images used for testing?"
+  - "How do you handle sceptical staff?"
+action_plan:
+  - "**Week 1.** Learn imaging workflow and DICOM."
+  - "**Week 2.** Read regulator material on AI devices."
+  - "**Week 3.** Map a sample workflow."
+  - "**Week 4.** Design monitoring and fallback."
+  - "**Month 2.** Get feedback from an imaging professional."
+resources:
+  - { title: "RSNA", url: "https://www.rsna.org", note: "radiology society" }
+  - { title: "DICOM standard", url: "https://www.dicomstandard.org", note: "imaging format" }
+  - { title: "SIIM", url: "https://siim.org", note: "imaging informatics" }
+  - { title: "FDA: AI in medical devices", url: "https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device", note: "regulatory approach" }
 ---
 
-## What does an AI Radiology Workflow Specialist do?
+## What the work actually looks like
 
-AI Radiology Workflow Specialists integrate and monitor AI tools in imaging departments, making sure detection and triage algorithms fit clinical workflows and stay safe over time.
+You integrate tools, check quality, train, log problems and report to clinical governance.
 
-## A typical week
+## Safety nets
 
-- Checking AI performance dashboards
-- Resolving integration issues with IT and vendors
-- Collecting radiologist feedback
-- Preparing governance reports
+Every scan still gets read; the tool changes order or adds a second look, with monitoring.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Name the systems and algorithms you integrated and the clinical metrics you improved.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for radiologic technologists and health information roles.
