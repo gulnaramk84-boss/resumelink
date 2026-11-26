@@ -21,6 +21,10 @@ defaults:
     values:
       layout: "role"
 
+# Cloudflare Pages redirect rules
+include:
+  - _redirects
+
 # Exclude from Jekyll processing
 exclude:
   - Gemfile
