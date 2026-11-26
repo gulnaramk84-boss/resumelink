@@ -3,51 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Mental Health Tech"
 h1: "Digital Support: AI Wellness Resume"
-summary_hack: "Designing empathetic, safe AI tools for mental health support."
-judgment_skills: ['Psychology', 'Ethics', 'Empathy', 'Data Privacy']
-ai_tools: ['Headspace', 'ChatGPT', 'Calm']
-human_touch_tip: "Your goal is to support, never to replace, human care."
-description: "Designing empathetic, safe AI tools for mental health support."
+summary_hack: "Work on shaping and testing supportive chat tools for wellbeing: safe wording, clear limits, crisis routes and review by qualified professionals."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
+judgment_skills:
+  - "Empathetic writing"
+  - "Safety testing"
+  - "Understanding professional limits"
+  - "User research"
+  - "Documentation"
+ai_tools:
+  - "Conversation design tools"
+  - "Evaluation sets"
+  - "Review dashboards"
+  - "Escalation systems"
+  - "LLM platforms"
+ats_keywords:
+  - "mental health technology"
+  - "conversation design"
+  - "safety testing"
+  - "wellbeing"
+  - "escalation"
+  - "content review"
+  - "user research"
+  - "ethics"
+  - "crisis protocol"
+  - "quality assurance"
+resume_bullet_1: "Wrote and tested [N] risk scenarios; escalation worked in [X]%."
+resume_bullet_2: "Removed [N] unsafe or overpromising responses."
+resume_bullet_3: "Improved clarity of limits, reducing confused users by [X]%."
+career_transition: "Psychology graduates, counsellors, content designers and UX writers move into this work."
+certifications:
+  - "Clinical licence for therapeutic decisions"
+  - "Mental health first aid"
+  - "Conversation design courses"
+human_touch_tip: "A safe tool says what it cannot do and where to get help now."
+faq_q1: "Is a chatbot therapy?"
+faq_a1: "Not by default. Claims about treatment can be regulated."
+faq_q2: "Who handles crisis?"
+faq_a2: "A defined human or emergency route, never the bot alone."
+faq_q3: "Can minors use it?"
+faq_a3: "Extra rules and safeguards apply; some products should exclude them."
+related_roles:
+  - ai-mental-health-tech-lead
+  - emotional-ai-ethics
+  - ai-and-the-future-of-loneliness
+  - ai-customer-interaction-designer
+description: "How to become an AI Mental Health Tech: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Agreeing with everything can harm.**"
+  - "**Test long conversations too.**"
+  - "**Users disguise distress.**"
+  - "**Privacy affects honesty.**"
+mistakes:
+  - "Claiming to be a therapist."
+  - "Testing only happy paths."
+  - "Storing chats without clear consent."
+  - "Keeping users hooked."
+interview_questions:
+  - "How do you test for crisis messages?"
+  - "What may the bot never say?"
+  - "How do you involve clinicians?"
+  - "How do you protect chat data?"
+  - "How do you measure benefit honestly?"
+action_plan:
+  - "**Week 1.** Read safety guidance."
+  - "**Week 2.** Write limits and escalation text."
+  - "**Week 3.** Draft risk scenarios."
+  - "**Week 4.** Test with professional review."
+  - "**Month 2.** Document failures and fixes."
+resources:
+  - { title: "WHO: mental health", url: "https://www.who.int/health-topics/mental-health", note: "overview" }
+  - { title: "American Psychological Association", url: "https://www.apa.org", note: "professional guidance" }
+  - { title: "NIST AI Risk Management Framework", url: "https://www.nist.gov/itl/ai-risk-management-framework", note: "risk language for AI work" }
+  - { title: "EU AI Act (official text, EUR-Lex)", url: "https://eur-lex.europa.eu/eli/reg/2024/1689/oj", note: "Regulation (EU) 2024/1689" }
 ---
 
-## What is a AI Mental Health Tech?
+## What the work actually looks like
 
-Designing empathetic, safe AI tools for mental health support. This role sits at the intersection of human expertise and artificial intelligence, requiring professionals who can leverage AI tools while maintaining the judgment and creativity that machines cannot replicate.
+You write, test, review transcripts under consent rules, fix unsafe behaviour and report to clinical leads.
 
-As AI transforms industries in 2026, the AI Mental Health Tech role has become one of the most sought-after positions in the modern workforce. Organizations need specialists who understand both the technical capabilities of AI systems and the human context in which they operate.
+## Crisis route first
 
-## Core Skills for AI Mental Health Tech
+Design and test what happens at signs of risk before writing anything friendly.
 
-To succeed as a AI Mental Health Tech, you need a combination of technical knowledge and human skills. The key competencies include: Psychology, Ethics, Empathy, Data Privacy.
+## How to benchmark pay
 
-These skills work together to help you navigate complex challenges that pure automation cannot solve. Employers consistently look for candidates who demonstrate these abilities through concrete examples and measurable outcomes.
-
-## AI Tools Used by AI Mental Health Tech Professionals
-
-Modern AI Mental Health Tech professionals work with a range of AI-powered tools: Headspace, ChatGPT, Calm.
-
-Familiarity with these tools is increasingly expected, but what truly differentiates top candidates is knowing *when* to use them and how to interpret their outputs critically.
-
-## How to Build Your AI Mental Health Tech Resume
-
-Your resume for a AI Mental Health Tech position should clearly demonstrate your ability to work alongside AI systems while providing distinctly human value. Here's what matters most:
-
-**Lead with impact.** Quantify your achievements wherever possible. Instead of "managed AI projects," write "led implementation of AI workflow that reduced processing time by 40%."
-
-**Show your judgment.** Employers want to see that you can make decisions AI cannot. Include examples where your expertise, ethics, or creativity determined the outcome.
-
-**Your goal is to support, never to replace, human care.**
-
-**List relevant tools.** Include the AI tools you've worked with: Headspace, ChatGPT, Calm. Be specific about your proficiency level and the context in which you used them.
-
-## Resume Tips Specific to AI Mental Health Tech Roles
-
-- Use keywords from job descriptions — ATS systems scan for exact matches
-- Include a professional summary that mentions your AI-augmented skill set
-- Quantify results: percentages, time saved, revenue impacted, team size
-- Keep formatting clean and ATS-friendly — no tables, graphics, or unusual fonts
-- Add links to relevant projects, publications, or portfolios where applicable
-
-## Create Your AI Mental Health Tech Resume in 10 Seconds
-
-Upload your existing resume to ResumeLink and get an AI-optimized interactive profile with ATS score, shareable link, and QR code — instantly, no signup required.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for health education and technical writing occupations.

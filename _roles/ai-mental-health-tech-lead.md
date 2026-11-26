@@ -3,51 +3,89 @@ layout: role
 category: "AI Roles"
 title: "AI Mental Health Tech Lead"
 h1: "Digital Well-being: AI Health Resume"
-summary_hack: "Implementing AI-driven wellness tools in the workplace to support employee mental health."
-judgment_skills: ['Clinical Empathy', 'Psychology', 'Ethics', 'Data Privacy', 'Mentorship']
-ai_tools: ['Headspace', 'Calm for Business', 'Sentiment Analysis Tools']
-human_touch_tip: "Emphasize that you use AI to support human therapists, not replace them."
-description: "Implementing AI-driven wellness tools in the workplace to support employee mental health."
+summary_hack: "An AI Mental Health Tech Lead builds and governs digital mental health products, joining engineering, clinical safety, privacy and evidence."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
+judgment_skills:
+  - "Product leadership"
+  - "Clinical safety collaboration"
+  - "Data protection"
+  - "Evidence generation"
+  - "Ethics"
+ai_tools:
+  - "Product analytics"
+  - "Safety case documentation"
+  - "Secure cloud"
+  - "Evaluation frameworks"
+  - "Incident tracking"
+ats_keywords:
+  - "digital mental health"
+  - "product leadership"
+  - "clinical safety"
+  - "data protection"
+  - "evidence"
+  - "user research"
+  - "regulatory"
+  - "responsible AI"
+  - "engineering management"
+  - "accessibility"
+resume_bullet_1: "Shipped [feature] with a documented safety case and clinical sign-off."
+resume_bullet_2: "Ran an evaluation with [N] participants and published limits."
+resume_bullet_3: "Reduced sensitive data collected by [X]%."
+career_transition: "Engineering leads, product managers and clinicians with technology experience move into this role."
+certifications:
+  - "Clinical safety training"
+  - "Product management courses"
+  - "Privacy certification"
+human_touch_tip: "Show a feature you refused to ship."
+faq_q1: "Is the product a medical device?"
+faq_a1: "It can be, depending on claims and function; get regulatory advice early."
+faq_q2: "What evidence is needed?"
+faq_a2: "Proportionate to the claim made."
+faq_q3: "Who is accountable?"
+faq_a3: "Named product and clinical safety leads."
+related_roles:
+  - ai-mental-health-bot-coach
+  - ai-healthcare-privacy-lead
+  - ai-product-manager
+  - ai-digital-wellness-advocate
+description: "How to become an AI Mental Health Tech Lead: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Engagement is not recovery.**"
+  - "**Safety work continues after launch.**"
+  - "**Dropout hides outcomes.**"
+  - "**Co-design with people with lived experience.**"
+mistakes:
+  - "Marketing claims ahead of evidence."
+  - "Weak consent."
+  - "No incident process."
+  - "Ignoring accessibility."
+interview_questions:
+  - "How do you structure clinical safety?"
+  - "How do you decide if regulation applies?"
+  - "Which outcomes would you measure?"
+  - "How do you handle a serious incident?"
+  - "How do you protect data?"
+action_plan:
+  - "**Week 1.** Read digital health guidance."
+  - "**Week 2.** Write a safety case outline."
+  - "**Week 3.** Map data and remove extras."
+  - "**Week 4.** Plan an evaluation."
+  - "**Month 2.** Review with a clinician."
+resources:
+  - { title: "NICE: evidence standards for digital health", url: "https://www.nice.org.uk/about/what-we-do/our-programmes/evidence-standards-framework-for-digital-health-technologies", note: "evidence framework" }
+  - { title: "FDA: AI in medical devices", url: "https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device", note: "regulatory approach" }
+  - { title: "WHO: digital health", url: "https://www.who.int/health-topics/digital-health", note: "global guidance" }
+  - { title: "GDPR (official text, EUR-Lex)", url: "https://eur-lex.europa.eu/eli/reg/2016/679/oj", note: "data protection" }
 ---
 
-## What is a AI Mental Health Tech Lead?
+## What the work actually looks like
 
-Implementing AI-driven wellness tools in the workplace to support employee mental health. This role sits at the intersection of human expertise and artificial intelligence, requiring professionals who can leverage AI tools while maintaining the judgment and creativity that machines cannot replicate.
+You set direction, manage engineers, work with clinicians, gather evidence and handle risk.
 
-As AI transforms industries in 2026, the AI Mental Health Tech Lead role has become one of the most sought-after positions in the modern workforce. Organizations need specialists who understand both the technical capabilities of AI systems and the human context in which they operate.
+## A safety case
 
-## Core Skills for AI Mental Health Tech Lead
+Hazards, causes, controls, evidence each control works and the person who owns it.
 
-To succeed as a AI Mental Health Tech Lead, you need a combination of technical knowledge and human skills. The key competencies include: Clinical Empathy, Psychology, Ethics, Data Privacy, Mentorship.
+## How to benchmark pay
 
-These skills work together to help you navigate complex challenges that pure automation cannot solve. Employers consistently look for candidates who demonstrate these abilities through concrete examples and measurable outcomes.
-
-## AI Tools Used by AI Mental Health Tech Lead Professionals
-
-Modern AI Mental Health Tech Lead professionals work with a range of AI-powered tools: Headspace, Calm for Business, Sentiment Analysis Tools.
-
-Familiarity with these tools is increasingly expected, but what truly differentiates top candidates is knowing *when* to use them and how to interpret their outputs critically.
-
-## How to Build Your AI Mental Health Tech Lead Resume
-
-Your resume for a AI Mental Health Tech Lead position should clearly demonstrate your ability to work alongside AI systems while providing distinctly human value. Here's what matters most:
-
-**Lead with impact.** Quantify your achievements wherever possible. Instead of "managed AI projects," write "led implementation of AI workflow that reduced processing time by 40%."
-
-**Show your judgment.** Employers want to see that you can make decisions AI cannot. Include examples where your expertise, ethics, or creativity determined the outcome.
-
-**Emphasize that you use AI to support human therapists, not replace them.**
-
-**List relevant tools.** Include the AI tools you've worked with: Headspace, Calm for Business, Sentiment Analysis Tools. Be specific about your proficiency level and the context in which you used them.
-
-## Resume Tips Specific to AI Mental Health Tech Lead Roles
-
-- Use keywords from job descriptions — ATS systems scan for exact matches
-- Include a professional summary that mentions your AI-augmented skill set
-- Quantify results: percentages, time saved, revenue impacted, team size
-- Keep formatting clean and ATS-friendly — no tables, graphics, or unusual fonts
-- Add links to relevant projects, publications, or portfolios where applicable
-
-## Create Your AI Mental Health Tech Lead Resume in 10 Seconds
-
-Upload your existing resume to ResumeLink and get an AI-optimized interactive profile with ATS score, shareable link, and QR code — instantly, no signup required.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for computer and information systems managers.

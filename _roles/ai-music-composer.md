@@ -3,64 +3,91 @@ layout: role
 category: "AI Roles"
 title: "AI-Assisted Music Composer"
 h1: "AI-Assisted Music Composer Resume Guide 2026"
-summary_hack: "AI-assisted music composers use generative and production tools to sketch, arrange and produce music faster, while owning the creative voice and navigating rights and licensing."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "A composer who uses AI tools for sketches, sounds or arrangement ideas while keeping musical judgment, performer care and rights in order."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Composition and arrangement"
-  - "Music production"
-  - "Sound design"
-  - "Music licensing"
-  - "Client briefing"
+  - "Composition"
+  - "Arrangement"
+  - "Production"
+  - "Client communication"
+  - "Rights management"
 ai_tools:
-  - "Ableton Live / Logic Pro"
-  - "Suno / Udio"
-  - "iZotope"
-  - "Splice"
-  - "Native Instruments"
-  - "AIVA"
+  - "Digital audio workstations"
+  - "Virtual instruments"
+  - "Notation software"
+  - "Generative audio tools (licence checked)"
+  - "Sample libraries"
 ats_keywords:
-  - "music composition"
+  - "composition"
   - "music production"
-  - "sync licensing"
+  - "arrangement"
   - "sound design"
+  - "sync licensing"
+  - "DAW"
+  - "mixing"
   - "film scoring"
-  - "audio"
-  - "generative music"
-resume_bullet_1: "Composed 40+ tracks for ads and games, using AI sketching to cut concept delivery from 5 days to 2."
-resume_bullet_2: "Delivered an adaptive game soundtrack with 60 stems for a mid-size studio release."
-resume_bullet_3: "Built a licensing-safe workflow documenting the origin of every sound and model used."
-career_transition: "Common paths: composers, producers, sound designers and audio engineers."
+  - "game audio"
+  - "copyright"
+resume_bullet_1: "Composed [N] cues for [projects], delivered on schedule."
+resume_bullet_2: "Placed [N] tracks through licensing with clean rights records."
+resume_bullet_3: "Cut sketch time from [X] to [Y] hours while writing final parts myself."
+career_transition: "Musicians, producers, sound designers and educators move into this work."
 certifications:
-  - "Berklee Online music production certificate"
-  - "Avid Pro Tools certification"
-  - "Ableton Certified Trainer"
-human_touch_tip: "Keep a clear record of which parts are AI-assisted. Clients increasingly ask, and rights questions can make or break a sync deal."
-faq_q1: "Can AI-generated music be copyrighted?"
-faq_a1: "Rules differ by country. Many copyright offices protect human-authored contributions but not purely machine-generated material, so document your creative input."
-faq_q2: "Will AI replace composers?"
-faq_a2: "It is replacing some stock and background music work. Custom scoring, direction and client collaboration remain human strengths."
-faq_q3: "How do I use AI tools responsibly?"
-faq_a3: "Check each tool's terms for commercial use and training data, keep project records, and disclose AI use when clients require it."
+  - "Portfolio matters most"
+  - "Music production courses"
+  - "Membership of a rights society"
+human_touch_tip: "Let a client hear how you changed an AI sketch into your music."
+faq_q1: "Who owns AI-generated music?"
+faq_a1: "It varies by tool terms and country; purely generated parts may not be protected."
+faq_q2: "Can I imitate a singer?"
+faq_a2: "Not without permission."
+faq_q3: "How do composers get paid?"
+faq_a3: "Fees, royalties, licences and teaching."
 related_roles:
-  - prompt-artist
   - ai-video-producer
+  - ai-voice-persona-designer
   - ai-game-designer
-description: "AI-assisted music composers use generative and production tools to sketch, arrange and produce music faster, while owning the creative voice and navigating r..."
+  - ai-augmented-creativity-framework
+description: "How to become an AI-Assisted Music Composer: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+partners: [ratekit]
+partner_note: "Composing for clients? RateKit, one of our other projects, helps you work out a minimum rate before agreeing a fee."
+insights:
+  - "**Read tool licences before release.**"
+  - "**Keep project files as proof of work.**"
+  - "**Register your works.**"
+  - "**Human performance adds character.**"
+mistakes:
+  - "Using uncleared samples."
+  - "No written agreement."
+  - "Imitating living artists."
+  - "Underpricing usage rights."
+interview_questions:
+  - "How do you use AI in your process?"
+  - "How do you clear rights?"
+  - "How do you take a vague brief?"
+  - "Show a revision."
+  - "How do you price a licence?"
+action_plan:
+  - "**Week 1.** Choose three style briefs."
+  - "**Week 2.** Write original cues."
+  - "**Week 3.** Document tools and licences."
+  - "**Week 4.** Build a short reel."
+  - "**Month 2.** Join a rights society and pitch."
+resources:
+  - { title: "ASCAP", url: "https://www.ascap.com", note: "rights society" }
+  - { title: "PRS for Music", url: "https://www.prsformusic.com", note: "royalties" }
+  - { title: "WIPO: copyright", url: "https://www.wipo.int/en/web/copyright", note: "intellectual property basics" }
+  - { title: "US Copyright Office: AI", url: "https://www.copyright.gov/ai/", note: "guidance" }
 ---
 
-## What does an AI-Assisted Music Composer do?
+## What the work actually looks like
 
-AI-assisted music composers use generative and production tools to sketch, arrange and produce music faster, while owning the creative voice and navigating rights and licensing.
+You take a brief, sketch, compose, produce, revise, deliver and keep rights records.
 
-## A typical week
+## A rights sheet per track
 
-- Sketching ideas and variations
-- Arranging and producing final tracks
-- Revising with client or director feedback
-- Preparing stems, metadata and licensing paperwork
+Writers, performers, samples, tools used, licence terms and where it was released.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Link a portfolio and list credits. Mention tools and how AI changed your delivery time.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for music directors and composers.

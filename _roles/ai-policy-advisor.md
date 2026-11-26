@@ -3,64 +3,89 @@ layout: role
 category: "Ethics & Society"
 title: "AI Policy Advisor"
 h1: "AI Policy Advisor Resume Guide 2026"
-summary_hack: "AI Policy Advisors help governments, companies and NGOs shape and respond to AI regulation, translating technical realities into workable rules and positions."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI Policy Advisor analyses how AI affects people and institutions and helps governments or organisations write workable rules."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
   - "Policy analysis"
-  - "Regulatory drafting"
-  - "Technical literacy"
-  - "Stakeholder engagement"
-  - "Persuasive writing"
+  - "Technology understanding"
+  - "Stakeholder consultation"
+  - "Clear writing"
+  - "Impact assessment"
 ai_tools:
-  - "OECD.AI Policy Observatory"
-  - "EU AI Act text and guidance"
-  - "NIST AI RMF"
-  - "Legislative trackers"
-  - "ChatGPT / Claude"
-  - "Google Workspace"
+  - "Research databases"
+  - "Consultation platforms"
+  - "Spreadsheets"
+  - "Document collaboration"
+  - "LLM assistants (verified)"
 ats_keywords:
   - "AI policy"
   - "regulation"
   - "public policy"
+  - "impact assessment"
+  - "stakeholder engagement"
   - "EU AI Act"
-  - "government affairs"
-  - "responsible AI"
-  - "policy analysis"
-resume_bullet_1: "Drafted a consultation response on AI transparency rules, with 3 recommendations reflected in final guidance."
-resume_bullet_2: "Briefed 20+ officials on generative AI risks and practical safeguards."
-resume_bullet_3: "Built a regulatory tracker covering 30 jurisdictions for the executive team."
-career_transition: "Common paths: policy analysts, government affairs specialists, researchers, lawyers and engineers moving into policy."
+  - "governance"
+  - "research"
+  - "briefing"
+  - "legislation"
+resume_bullet_1: "Wrote [N] briefs used in decisions on [topic]."
+resume_bullet_2: "Ran a consultation with [N] organisations and changed [point]."
+resume_bullet_3: "Compared rules in [N] countries for leadership."
+career_transition: "Policy analysts, lawyers, researchers, civil society staff and technologists move into this work."
 certifications:
+  - "Public policy or law degree"
+  - "AI governance courses"
   - "IAPP AIGP"
-  - "Public policy degrees or executive courses"
-  - "Oxford Internet Institute short courses"
-human_touch_tip: "Show you can explain a technical issue to a non-technical minister in one page. That skill is rare and valued."
-faq_q1: "Where do AI policy advisors work?"
-faq_a1: "Governments and regulators, international organizations, tech companies' public policy teams, think tanks and NGOs."
-faq_q2: "Do I need a technical degree?"
-faq_a2: "Not necessarily, but you need enough technical literacy to be credible. Many teams mix lawyers, economists and engineers."
-faq_q3: "What are key AI policy frameworks?"
-faq_a3: "The EU AI Act, the OECD AI Principles, the NIST AI Risk Management Framework and UNESCO's Recommendation on the Ethics of AI."
+human_touch_tip: "Name who bears the cost of each option."
+faq_q1: "Do I need a technical degree?"
+faq_a1: "Not necessarily; you need to understand how systems fail."
+faq_q2: "Where are jobs?"
+faq_a2: "Government, international bodies, think tanks, companies and NGOs."
+faq_q3: "How to start?"
+faq_a3: "Publish short, sourced briefs."
 related_roles:
   - ai-public-sector-policy-advisor
+  - ai-governance-consultant
   - ai-governance-and-the-eu-ai-act
-  - ai-ethics-officer
-description: "AI Policy Advisors help governments, companies and NGOs shape and respond to AI regulation, translating technical realities into workable rules and positions."
+  - ai-augmented-strategic-foresight
+description: "How to become an AI Policy Advisor: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Check the current legal text, not summaries.**"
+  - "**Enforcement decides effect.**"
+  - "**Small organisations feel rules differently.**"
+  - "**Review clauses keep rules current.**"
+mistakes:
+  - "Writing rules no one can check."
+  - "Consulting only large firms."
+  - "Ignoring existing law."
+  - "Predicting with false certainty."
+interview_questions:
+  - "How would you regulate a new use?"
+  - "How do you assess impact?"
+  - "Compare two policy options."
+  - "How do you handle lobbying?"
+  - "Explain a model to a minister."
+action_plan:
+  - "**Week 1.** Pick one issue."
+  - "**Week 2.** Read primary sources."
+  - "**Week 3.** Interview affected people."
+  - "**Week 4.** Write a two-page brief."
+  - "**Month 2.** Ask for critique."
+resources:
+  - { title: "OECD.AI Policy Observatory", url: "https://oecd.ai", note: "AI policy by country" }
+  - { title: "EU AI Act (official text, EUR-Lex)", url: "https://eur-lex.europa.eu/eli/reg/2024/1689/oj", note: "Regulation (EU) 2024/1689" }
+  - { title: "UNESCO: Ethics of AI", url: "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics", note: "international recommendation" }
+  - { title: "Council of Europe: AI", url: "https://www.coe.int/en/web/artificial-intelligence", note: "framework convention" }
 ---
 
-## What does an AI Policy Advisor do?
+## What the work actually looks like
 
-AI Policy Advisors help governments, companies and NGOs shape and respond to AI regulation, translating technical realities into workable rules and positions.
+You research, consult, compare options, draft, brief decision makers and follow implementation.
 
-## A typical week
+## A two-page brief
 
-- Tracking legislative and regulatory developments
-- Drafting briefs and consultation responses
-- Meeting officials, industry and civil society
-- Coordinating positions with legal and technical teams
+Problem, evidence, options, trade-offs, recommendation, and how success will be checked.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Show influence: policies shaped, briefings given, publications. Name frameworks and jurisdictions.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for political scientists and policy analysts.
