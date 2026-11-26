@@ -3,64 +3,91 @@ layout: role
 category: "AI Roles"
 title: "AI-Assisted Wellness Coach"
 h1: "AI-Assisted Wellness Coach Resume Guide 2026"
-summary_hack: "AI-assisted wellness coaches use apps, wearables and AI tools to personalize coaching on sleep, activity, nutrition and stress, while staying within their scope of practice."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI-Assisted Wellness Coach helps clients build healthy habits, using apps and AI for tracking and reminders while staying inside coaching limits."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Behavior change coaching"
   - "Motivational interviewing"
-  - "Program design"
-  - "Data interpretation"
-  - "Scope-of-practice awareness"
+  - "Goal setting"
+  - "Empathy"
+  - "Knowing when to refer"
+  - "Privacy care"
 ai_tools:
-  - "Wearable platforms (Oura, WHOOP, Garmin)"
-  - "Coaching platforms (e.g. Practice, Healthie)"
-  - "ChatGPT / Claude"
-  - "Google Sheets"
-  - "Zoom"
-  - "Canva"
+  - "Habit and tracking apps"
+  - "Video calls"
+  - "Scheduling"
+  - "Wearable data"
+  - "LLM assistants (checked)"
 ats_keywords:
   - "wellness coaching"
-  - "health coaching"
-  - "behavior change"
-  - "wearables"
+  - "behaviour change"
   - "motivational interviewing"
-  - "corporate wellness"
-  - "habit building"
-resume_bullet_1: "Coached 120 clients a year with a 78% program completion rate."
-resume_bullet_2: "Used wearable sleep data to personalize plans, improving average self-reported sleep quality by 20%."
-resume_bullet_3: "Designed a corporate wellness program for 400 employees with 55% participation."
-career_transition: "Common paths: personal trainers, nutrition coaches, nurses, psychologists and HR wellbeing specialists."
+  - "health habits"
+  - "client management"
+  - "telehealth"
+  - "stress management"
+  - "sleep"
+  - "programme design"
+  - "privacy"
+resume_bullet_1: "Coached [N] clients; [X]% reached a self-chosen goal."
+resume_bullet_2: "Raised session attendance from [X]% to [Y]%."
+resume_bullet_3: "Referred [N] clients to qualified care when needed."
+career_transition: "Fitness trainers, nurses, HR staff and teachers move into coaching."
 certifications:
-  - "NBC-HWC (National Board Certified Health & Wellness Coach)"
-  - "ACE Health Coach Certification"
-  - "Precision Nutrition Level 1"
-human_touch_tip: "Show how you protect client data and know when to refer to a medical professional. Trust is the product."
-faq_q1: "Can a wellness coach give medical advice?"
-faq_a1: "No. Coaches support behavior change; diagnosis and treatment belong to licensed health professionals."
-faq_q2: "How do wearables help coaching?"
-faq_a2: "They provide objective trends on sleep, activity and recovery that make conversations more concrete."
-faq_q3: "Which credential is most respected?"
-faq_a3: "In the US, NBC-HWC from the National Board for Health & Wellness Coaching is widely recognized."
+  - "NBHWC board certification or national equivalent"
+  - "Motivational interviewing training"
+  - "First aid"
+human_touch_tip: "Coaching is not therapy or medicine. Say where you draw the line."
+faq_q1: "Do I need a licence?"
+faq_a1: "Rules differ; clinical advice requires qualified professionals."
+faq_q2: "Can AI coach alone?"
+faq_a2: "It can remind and prompt; it may miss warning signs."
+faq_q3: "How to get clients?"
+faq_a3: "Start with a clear niche and honest results."
 related_roles:
   - ai-personalized-nutritionist
-  - ai-mental-health-bot-coach
   - ai-digital-wellness-advocate
-description: "AI-assisted wellness coaches use apps, wearables and AI tools to personalize coaching on sleep, activity, nutrition and stress, while staying within their sc..."
+  - ai-mental-health-tech-lead
+  - ai-augmented-public-speaking
+description: "How to become an AI-Assisted Wellness Coach: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+partners: [ratekit]
+partner_note: "Running your own coaching practice? RateKit, one of our other projects, helps you work out a minimum session rate."
+insights:
+  - "**Small goals last.**"
+  - "**Wearable numbers can cause worry.**"
+  - "**Relapse is part of change.**"
+  - "**Client owns the data.**"
+mistakes:
+  - "Promising cures."
+  - "Giving medical advice."
+  - "Collecting more data than needed."
+  - "No referral list."
+interview_questions:
+  - "A client mentions self-harm. What do you do?"
+  - "How do you set a goal?"
+  - "How do you use app data?"
+  - "How do you handle no progress?"
+  - "What is outside your scope?"
+action_plan:
+  - "**Week 1.** Learn motivational interviewing basics."
+  - "**Week 2.** Write intake and consent forms."
+  - "**Week 3.** Prepare a referral list."
+  - "**Week 4.** Coach two volunteers."
+  - "**Month 2.** Review with a mentor."
+resources:
+  - { title: "NBHWC", url: "https://nbhwc.org", note: "coaching certification" }
+  - { title: "WHO: physical activity", url: "https://www.who.int/news-room/fact-sheets/detail/physical-activity", note: "fact sheet" }
+  - { title: "Motivational Interviewing Network", url: "https://motivationalinterviewing.org", note: "method" }
+  - { title: "GDPR (official text, EUR-Lex)", url: "https://eur-lex.europa.eu/eli/reg/2016/679/oj", note: "data protection" }
 ---
 
-## What does an AI-Assisted Wellness Coach do?
+## What the work actually looks like
 
-AI-assisted wellness coaches use apps, wearables and AI tools to personalize coaching on sleep, activity, nutrition and stress, while staying within their scope of practice.
+You listen, agree goals, plan small steps, follow up and refer when needed.
 
-## A typical week
+## A referral list first
 
-- Running client sessions
-- Reviewing client data and progress
-- Updating programs
-- Creating educational content
+Know whom to contact for medical, mental health and emergency concerns before the first client.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Quantify clients, completion and outcomes. List credentials and tools.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for health education specialists.
