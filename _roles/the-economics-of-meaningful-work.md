@@ -3,56 +3,89 @@ layout: role
 category: "Ethics & Society"
 title: "Future of Work Economist"
 h1: "Future of Work Economist Resume Guide 2026"
-summary_hack: "Future of Work Economist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$85,000 – $145,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "A Future of Work Economist studies how technology changes jobs, pay and job quality, separating evidence from forecasts."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Economics"
+  - "Data analysis"
+  - "Research design"
+  - "Policy communication"
+  - "Honest uncertainty"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "R, Python or Stata"
+  - "Labour force surveys"
+  - "Job posting data"
+  - "Visualisation"
+  - "Literature databases"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into Future of Work Economist: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "labour economics"
+  - "future of work"
+  - "automation"
+  - "job quality"
+  - "econometrics"
+  - "policy analysis"
+  - "skills"
+  - "productivity"
+  - "research"
+  - "data visualisation"
+resume_bullet_1: "Analysed [dataset] on task change and presented findings to [audience]."
+resume_bullet_2: "Built a job quality measure used in [report]."
+resume_bullet_3: "Revised a forecast when new data contradicted it."
+career_transition: "Economists, sociologists, policy analysts and HR researchers move into this work."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For Future of Work Economist interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for Future of Work Economist in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for Future of Work Economist?"
-faq_a2: "Salaries range from $85,000 – $145,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for Future of Work Economist roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "Economics or social science degree"
+  - "Statistics training"
+  - "Published research"
+human_touch_tip: "Exposure of a task to AI is not the same as job loss."
+faq_q1: "Will AI remove most jobs?"
+faq_a1: "Evidence does not settle that; effects differ by task and policy."
+faq_q2: "What is job quality?"
+faq_a2: "Pay, security, autonomy, safety, learning and purpose."
+faq_q3: "Where are jobs?"
+faq_a3: "Universities, institutes, international bodies and governments."
 related_roles:
-  - ai-ethics-auditor
-  - ai-governance-consultant
-  - algorithmic-bias-audit-for-managers
-description: "Future of Work Economist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human..."
+  - ai-policy-advisor
+  - ai-first-organizational-design
+  - ai-talent-intelligence-lead
+  - the-rise-of-the-generalist
+description: "How to become a Future of Work Economist: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Averages hide who loses.**"
+  - "**New tasks appear too.**"
+  - "**Adoption is slower than capability.**"
+  - "**Ask workers about quality.**"
+mistakes:
+  - "Headline-driven forecasts."
+  - "Confusing exposure with displacement."
+  - "No uncertainty."
+  - "Ignoring informal work."
+interview_questions:
+  - "How would you measure AI's effect on a job?"
+  - "What data would you use?"
+  - "How do you present uncertainty?"
+  - "Which policy would you test?"
+  - "Describe a finding that surprised you."
+action_plan:
+  - "**Week 1.** Read two major studies."
+  - "**Week 2.** Pick one occupation."
+  - "**Week 3.** Break it into tasks."
+  - "**Week 4.** Analyse public data."
+  - "**Month 2.** Write a cautious brief."
+resources:
+  - { title: "ILO: future of work", url: "https://www.ilo.org/topics-and-sectors/future-work", note: "research" }
+  - { title: "OECD: employment", url: "https://www.oecd.org/en/topics/employment.html", note: "data and analysis" }
+  - { title: "O*NET", url: "https://www.onetonline.org", note: "task data" }
+  - { title: "NBER", url: "https://www.nber.org", note: "working papers" }
 ---
 
-## What does a Future of Work Economist do?
+## What the work actually looks like
 
-Future of Work Economist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You frame questions, collect data, analyse, compare studies and advise.
 
-## Why this role is in demand in 2026
+## Task level first
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. Future of Work Economist professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+List the tasks in a job and ask what changes in each before judging the whole job.
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for economists.

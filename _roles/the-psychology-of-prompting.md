@@ -3,56 +3,89 @@ layout: role
 category: "Skills & Frameworks"
 title: "Prompt Psychology Specialist"
 h1: "Prompt Psychology Specialist Resume Guide 2026"
-summary_hack: "Prompt Psychology Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$75,000 – $130,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "This is about how the way we ask shapes AI answers and our own thinking: framing, context, bias and checking."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Clear questioning"
+  - "Bias awareness"
+  - "Experimentation"
+  - "Critical reading"
+  - "Teaching"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "LLM assistants"
+  - "Prompt libraries"
+  - "Comparison spreadsheets"
+  - "Evaluation sets"
+  - "Notes"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into Prompt Psychology Specialist: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "prompt design"
+  - "critical thinking"
+  - "framing"
+  - "bias"
+  - "LLM"
+  - "communication"
+  - "evaluation"
+  - "training"
+  - "user research"
+  - "instructional design"
+resume_bullet_1: "Tested [N] prompt variants and documented which improved [task]."
+resume_bullet_2: "Trained [N] colleagues to remove leading framing."
+resume_bullet_3: "Built a prompt library with examples and limits."
+career_transition: "Writers, teachers, researchers and analysts build this skill."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For Prompt Psychology Specialist interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for Prompt Psychology Specialist in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for Prompt Psychology Specialist?"
-faq_a2: "Salaries range from $75,000 – $130,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for Prompt Psychology Specialist roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "No required certificate"
+  - "Prompting courses"
+  - "A documented test log"
+human_touch_tip: "Ask the opposite question and compare the answers."
+faq_q1: "Is it a job title?"
+faq_a1: "Rarely; it is a skill inside many roles."
+faq_q2: "Does politeness change results?"
+faq_a2: "Effects vary by model; test rather than assume."
+faq_q3: "How to avoid agreement bias?"
+faq_a3: "Ask neutrally and request counter-arguments."
 related_roles:
+  - the-science-of-iterative-prompting
   - prompt-engineering-for-developers
-  - cognitive-load-management-ai
-  - human-in-the-loop-workflow-design
-description: "Prompt Psychology Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of h..."
+  - ai-augmented-problem-solving
+  - the-ethics-of-ai-persuasion
+description: "How to become a Prompt Psychology Specialist: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Models often follow your framing.**"
+  - "**Context beats clever phrases.**"
+  - "**Confidence of tone persuades us.**"
+  - "**One good answer is not reliability.**"
+mistakes:
+  - "Leading questions."
+  - "No verification."
+  - "Believing prompt myths."
+  - "Never testing again after model changes."
+interview_questions:
+  - "Rewrite a biased prompt."
+  - "How do you test a prompt?"
+  - "How do you spot flattery?"
+  - "How do you teach this?"
+  - "Show a before and after."
+action_plan:
+  - "**Week 1.** Collect ten of your prompts."
+  - "**Week 2.** Rewrite neutrally."
+  - "**Week 3.** Compare outputs."
+  - "**Week 4.** Note failure patterns."
+  - "**Month 2.** Share a short guide."
+resources:
+  - { title: "Anthropic: prompt engineering", url: "https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview", note: "official guide" }
+  - { title: "OpenAI: prompt engineering", url: "https://platform.openai.com/docs/guides/prompt-engineering", note: "official guide" }
+  - { title: "Google People + AI Guidebook", url: "https://pair.withgoogle.com/guidebook", note: "human-centred AI patterns" }
+  - { title: "The Decision Lab: biases", url: "https://thedecisionlab.com/biases", note: "bias reference" }
 ---
 
-## What does a Prompt Psychology Specialist do?
+## What the work actually looks like
 
-Prompt Psychology Specialist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You phrase tasks, give context, compare results, verify and share what works.
 
-## Why this role is in demand in 2026
+## Neutral first
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. Prompt Psychology Specialist professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+State the task and criteria without hinting which answer you hope for.
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for your underlying occupation.

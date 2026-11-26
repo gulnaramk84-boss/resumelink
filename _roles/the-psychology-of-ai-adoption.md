@@ -3,56 +3,89 @@ layout: role
 category: "Ethics & Society"
 title: "AI Adoption Psychologist"
 h1: "AI Adoption Psychologist Resume Guide 2026"
-summary_hack: "AI Adoption Psychologist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$85,000 – $145,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "An AI Adoption Psychologist studies why people trust, avoid or over-rely on AI and helps organisations introduce it humanely."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Organisational psychology"
+  - "Interviewing"
+  - "Survey design"
+  - "Change support"
+  - "Ethics"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "Survey platforms"
+  - "Statistics software"
+  - "Interview notes"
+  - "Workshop materials"
+  - "Usage data (aggregated)"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into AI Adoption Psychologist: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "AI adoption"
+  - "organisational psychology"
+  - "change management"
+  - "trust"
+  - "human factors"
+  - "user research"
+  - "training"
+  - "resistance"
+  - "wellbeing"
+  - "behaviour change"
+resume_bullet_1: "Identified [N] barriers through interviews and addressed [N]."
+resume_bullet_2: "Raised confident use from [X]% to [Y]% in a pilot."
+resume_bullet_3: "Reduced over-reliance errors with a training change."
+career_transition: "Psychologists, UX researchers, HR and learning staff move into this work."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For AI Adoption Psychologist interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for AI Adoption Psychologist in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for AI Adoption Psychologist?"
-faq_a2: "Salaries range from $85,000 – $145,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for AI Adoption Psychologist roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "Psychology degree for the title in many places"
+  - "Change management certificate"
+  - "Research ethics"
+human_touch_tip: "Resistance often carries useful information about risks."
+faq_q1: "Can I call myself a psychologist?"
+faq_a1: "Protected titles require qualifications in many countries."
+faq_q2: "What builds trust?"
+faq_a2: "Reliability, transparency, control and honest limits."
+faq_q3: "How to measure?"
+faq_a3: "Behaviour and outcomes, not only attitudes."
 related_roles:
-  - ai-ethics-auditor
-  - ai-governance-consultant
-  - algorithmic-bias-audit-for-managers
-description: "AI Adoption Psychologist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human..."
+  - ai-transformation-coach
+  - the-psychology-of-ai-personification
+  - ai-augmented-ux-research
+  - ai-literacy-for-executives
+description: "How to become an AI Adoption Psychologist: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Fear differs by role.**"
+  - "**Early bad experiences stick.**"
+  - "**Peers influence more than memos.**"
+  - "**Too much trust is also a failure.**"
+mistakes:
+  - "Labelling people resistant."
+  - "Survey with no action."
+  - "Coercive targets."
+  - "Promising job safety you cannot give."
+interview_questions:
+  - "How would you study low adoption?"
+  - "How do you detect over-reliance?"
+  - "How do you protect confidentiality?"
+  - "What do you tell leaders?"
+  - "Describe a finding."
+action_plan:
+  - "**Week 1.** Read research on trust in automation."
+  - "**Week 2.** Interview users."
+  - "**Week 3.** Group barriers."
+  - "**Week 4.** Propose changes."
+  - "**Month 2.** Pilot and measure."
+resources:
+  - { title: "American Psychological Association", url: "https://www.apa.org", note: "profession" }
+  - { title: "British Psychological Society", url: "https://www.bps.org.uk", note: "profession" }
+  - { title: "Google People + AI Guidebook", url: "https://pair.withgoogle.com/guidebook", note: "human-centred AI patterns" }
+  - { title: "NIST AI Risk Management Framework", url: "https://www.nist.gov/itl/ai-risk-management-framework", note: "risk language for AI work" }
 ---
 
-## What does a AI Adoption Psychologist do?
+## What the work actually looks like
 
-AI Adoption Psychologist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You study behaviour, advise on design and communication, train and evaluate.
 
-## Why this role is in demand in 2026
+## Calibrated trust
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. AI Adoption Psychologist professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Aim for people to rely on the tool exactly as much as its performance justifies.
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for psychologists.

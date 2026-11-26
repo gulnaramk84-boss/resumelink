@@ -3,64 +3,91 @@ layout: role
 category: "Skills & Frameworks"
 title: "Personal Knowledge Management Specialist"
 h1: "Personal Knowledge Management Specialist Resume Guide 2026"
-summary_hack: "Personal Knowledge Management (PKM) specialists help professionals and teams capture, organize and reuse what they learn, now with AI assistants that search, link and summarize notes."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "A Personal Knowledge Management specialist helps people capture, organise and reuse what they learn, with AI search and summaries that they can trust."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Information architecture"
-  - "Note-taking systems"
-  - "Knowledge synthesis"
-  - "Tool configuration"
-  - "Teaching and coaching"
+  - "Information organisation"
+  - "Writing summaries"
+  - "Coaching"
+  - "Tool selection"
+  - "Privacy care"
 ai_tools:
-  - "Obsidian"
-  - "Notion"
-  - "Logseq"
-  - "Readwise"
-  - "Zotero"
-  - "AI assistants with note search"
+  - "Obsidian, Notion or similar"
+  - "Reference managers"
+  - "Search tools"
+  - "Backups"
+  - "AI summarisers (checked)"
 ats_keywords:
-  - "personal knowledge management"
-  - "PKM"
-  - "note-taking"
   - "knowledge management"
-  - "second brain"
+  - "note taking"
+  - "information architecture"
+  - "taxonomy"
   - "productivity"
-  - "research workflow"
-resume_bullet_1: "Designed a team knowledge base that cut time spent searching for documents by an estimated 3 hours per person per week."
-resume_bullet_2: "Coached 40 professionals on PKM workflows, with 80% still using them after 3 months."
-resume_bullet_3: "Built an AI-assisted research workflow linking 2,000 notes and sources for a consulting practice."
-career_transition: "Common paths: researchers, librarians, knowledge managers, consultants and productivity coaches."
+  - "documentation"
+  - "research"
+  - "training"
+  - "search"
+  - "content curation"
+resume_bullet_1: "Built a team knowledge base of [N] pages, cutting repeat questions by [X]%."
+resume_bullet_2: "Coached [N] people to set up personal systems still used after [period]."
+resume_bullet_3: "Migrated [N] documents with owners and review dates."
+career_transition: "Librarians, writers, researchers, analysts and trainers move into this work."
 certifications:
-  - "Knowledge management certifications (e.g. KM Institute CKM)"
-  - "Library and information science training"
-  - "Tool-specific courses"
-human_touch_tip: "Show a real example of a note that turned into an output (an article, decision or proposal). PKM is judged by what it produces."
-faq_q1: "What is personal knowledge management?"
-faq_a1: "A set of habits and tools for capturing, organizing and reusing information and ideas so you can think and create better."
-faq_q2: "How does AI change PKM?"
-faq_a2: "AI can search, link and summarize large note collections, but your own summaries and connections remain the valuable part."
-faq_q3: "Which tool should I start with?"
-faq_a3: "Any tool you will use daily. Start simple and focus on the habit of processing notes regularly."
+  - "Library or knowledge management study"
+  - "Certified Knowledge Manager courses"
+  - "A public digital garden"
+human_touch_tip: "Write notes your future self can understand without the original."
+faq_q1: "Is it a job?"
+faq_a1: "Organisations hire knowledge managers; personal systems are also coaching topics."
+faq_q2: "Which tool is best?"
+faq_a2: "One you will keep using and can export from."
+faq_q3: "Does AI remove the need to organise?"
+faq_a3: "Search helps; outdated or wrong notes still mislead."
 related_roles:
+  - ai-curation-over-creation
   - cognitive-offloading-strategy
-  - ai-as-a-cognitive-prosthetic
-  - digital-minimalism-in-the-ai-age
-description: "Personal Knowledge Management (PKM) specialists help professionals and teams capture, organize and reuse what they learn, now with AI assistants that search,..."
+  - the-future-of-technical-writing
+  - ai-data-curator
+description: "How to become a Personal Knowledge Management Specialist: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+partners: [ratekit]
+partner_note: "Offering setup or coaching services? RateKit, one of our other projects, helps you work out a minimum rate."
+insights:
+  - "**Retrieval matters more than capture.**"
+  - "**Own your files.**"
+  - "**Date your claims.**"
+  - "**Delete freely.**"
+mistakes:
+  - "Collecting without reading."
+  - "Complex folder trees."
+  - "No backup."
+  - "Sensitive data in cloud tools without care."
+interview_questions:
+  - "How would you design a team knowledge base?"
+  - "How do you keep it current?"
+  - "How do you choose tools?"
+  - "How do you measure use?"
+  - "Show your own system."
+action_plan:
+  - "**Week 1.** Choose one tool."
+  - "**Week 2.** Capture a week of notes."
+  - "**Week 3.** Add links and summaries."
+  - "**Week 4.** Review and prune."
+  - "**Month 2.** Write your method."
+resources:
+  - { title: "KM Institute", url: "https://www.kminstitute.org", note: "knowledge management training" }
+  - { title: "Zettelkasten introduction", url: "https://zettelkasten.de/introduction/", note: "method" }
+  - { title: "Zotero", url: "https://www.zotero.org", note: "reference manager" }
+  - { title: "Obsidian help", url: "https://help.obsidian.md", note: "notes tool" }
 ---
 
-## What does a Personal Knowledge Management Specialist do?
+## What the work actually looks like
 
-Personal Knowledge Management (PKM) specialists help professionals and teams capture, organize and reuse what they learn, now with AI assistants that search, link and summarize notes.
+You learn how people work, design structure, set habits, migrate and maintain.
 
-## A typical week
+## Find it in a minute
 
-- Processing captured notes
-- Linking and summarizing ideas
-- Improving templates and structure
-- Turning notes into outputs
+Test whether someone else can find a key answer quickly; fix the structure if not.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Show systems you built and their measurable effect on time or output.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for librarians and information specialists.

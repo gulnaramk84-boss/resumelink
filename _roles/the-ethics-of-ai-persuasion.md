@@ -3,56 +3,89 @@ layout: role
 category: "Ethics & Society"
 title: "AI Persuasion Ethics Researcher"
 h1: "AI Persuasion Ethics Researcher Resume Guide 2026"
-summary_hack: "AI Persuasion Ethics Researcher professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$85,000 – $145,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "A researcher of AI persuasion studies how automated systems influence beliefs and choices, and where influence turns into manipulation."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Research ethics"
+  - "Experiment design"
+  - "Psychology"
+  - "Policy awareness"
+  - "Clear writing"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "Experiment platforms"
+  - "Statistics tools"
+  - "Text analysis"
+  - "LLM testbeds"
+  - "Pre-registration"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into AI Persuasion Ethics Researcher: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "AI persuasion"
+  - "manipulation"
+  - "ethics"
+  - "behavioural science"
+  - "experiments"
+  - "disclosure"
+  - "misinformation"
+  - "consumer protection"
+  - "research"
+  - "governance"
+resume_bullet_1: "Designed an ethics-reviewed study with [N] participants."
+resume_bullet_2: "Wrote disclosure rules adopted for [product]."
+resume_bullet_3: "Identified [N] manipulative patterns and removed them."
+career_transition: "Psychologists, ethicists, communication researchers and UX researchers move into this work."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For AI Persuasion Ethics Researcher interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for AI Persuasion Ethics Researcher in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for AI Persuasion Ethics Researcher?"
-faq_a2: "Salaries range from $85,000 – $145,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for AI Persuasion Ethics Researcher roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "Research degree common"
+  - "Research ethics training"
+  - "AI governance courses"
+human_touch_tip: "Ask whether the method would still work if the person knew about it."
+faq_q1: "Is all persuasion unethical?"
+faq_a1: "No. Honest reasons differ from hidden pressure or deception."
+faq_q2: "Are there laws?"
+faq_a2: "Consumer protection and AI rules restrict some practices; check current text."
+faq_q3: "Can I test persuasion on users?"
+faq_a3: "Only with proper consent and review."
 related_roles:
-  - ai-ethics-auditor
-  - ai-governance-consultant
-  - algorithmic-bias-audit-for-managers
-description: "AI Persuasion Ethics Researcher professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier o..."
+  - emotional-ai-ethics
+  - ai-behavioral-insights-analyst
+  - the-psychology-of-ai-personification
+  - ai-ethics-officer
+description: "How to become an AI Persuasion Ethics Researcher: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Personalisation raises power.**"
+  - "**Flattery influences quietly.**"
+  - "**Vulnerable people need protection.**"
+  - "**Disclosure alone may not be enough.**"
+mistakes:
+  - "Deceptive experiments without review."
+  - "Ignoring long-term effects."
+  - "Studying only students."
+  - "Vague definitions."
+interview_questions:
+  - "Define manipulation."
+  - "Design a safe study."
+  - "What should a chatbot disclose?"
+  - "How would you audit a sales assistant?"
+  - "Which limits would you recommend?"
+action_plan:
+  - "**Week 1.** Read key definitions and rules."
+  - "**Week 2.** Collect public examples."
+  - "**Week 3.** Draft criteria."
+  - "**Week 4.** Design a small ethical study."
+  - "**Month 2.** Publish a position note."
+resources:
+  - { title: "EU AI Act (official text, EUR-Lex)", url: "https://eur-lex.europa.eu/eli/reg/2024/1689/oj", note: "Regulation (EU) 2024/1689" }
+  - { title: "Deceptive Patterns", url: "https://www.deceptive.design", note: "manipulative design" }
+  - { title: "US Federal Trade Commission: business guidance", url: "https://www.ftc.gov/business-guidance", note: "advertising and consumer rules" }
+  - { title: "British Psychological Society", url: "https://www.bps.org.uk", note: "research ethics" }
 ---
 
-## What does a AI Persuasion Ethics Researcher do?
+## What the work actually looks like
 
-AI Persuasion Ethics Researcher professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You define concepts, study effects, advise on design and rules, and publish.
 
-## Why this role is in demand in 2026
+## Four questions
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. AI Persuasion Ethics Researcher professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Is it truthful, visible, easy to refuse and in the person's interest?
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for psychologists and social scientists.

@@ -75,7 +75,7 @@ resources:
   - { title: "Job Accommodation Network", url: "https://askjan.org", note: "accommodation ideas" }
   - { title: "CAST: Universal Design for Learning", url: "https://www.cast.org", note: "inclusive design" }
   - { title: "W3C Web Accessibility Initiative", url: "https://www.w3.org/WAI/", note: "accessibility" }
-  - { title: "EEOC: AI and the ADA", url: "https://www.eeoc.gov/laws/guidance/americans-disabilities-act-and-use-software-algorithms-and-artificial-intelligence", note: "US guidance, check current status" }
+  - { title: "US EEOC: disability discrimination", url: "https://www.eeoc.gov/disability-discrimination", note: "US equal employment rules" }
 ---
 
 ## What the work actually looks like

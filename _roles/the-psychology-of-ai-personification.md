@@ -3,59 +3,89 @@ layout: role
 category: "Ethics & Society"
 title: "AI Psychology Researcher"
 h1: "AI Psychology Researcher Resume Guide 2026"
-summary_hack: "AI Psychology Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
-salary_range: "$80,000 – $140,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "A researcher of AI personification studies why people treat software as a person, what it does to them and how design should respond."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Strategic Thinking & Problem Solving
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data Interpretation & Decision Making
-  - Communication & Stakeholder Management
+  - "Experimental psychology"
+  - "Qualitative research"
+  - "Ethics"
+  - "Statistics"
+  - "Design advice"
 ai_tools:
-  - Python / R
-  - AI Productivity Suite
-  - Data Visualization Tools
-  - Project Management Platforms
-  - Domain-specific AI Software
+  - "Experiment platforms"
+  - "Transcript analysis"
+  - "Survey tools"
+  - "Statistical software"
+  - "Pre-registration"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - cross-functional collaboration
-  - stakeholder management
-  - process optimization
-  - AI implementation
-resume_bullet_1: "Led AI implementation initiative delivering 35% efficiency gain across 3 departments within 6 months."
-resume_bullet_2: "Built and trained team of 8 on AI-augmented workflows, reducing manual processing time by 50%."
-resume_bullet_3: "Developed data-driven reporting framework that improved decision-making speed by 40% for senior leadership."
-career_transition: "Common paths into AI Psychology Researcher: professionals from adjacent fields with strong analytical skills, domain experts who upskill in AI tools, and career changers who complete targeted AI certifications. Most transitions take 6-12 months."
+  - "anthropomorphism"
+  - "human-AI interaction"
+  - "psychology"
+  - "user research"
+  - "ethics"
+  - "attachment"
+  - "trust"
+  - "conversation design"
+  - "experiments"
+  - "wellbeing"
+resume_bullet_1: "Ran a study with [N] participants on [effect]."
+resume_bullet_2: "Changed wording that led users to overestimate the system."
+resume_bullet_3: "Published guidance on disclosure and emotional language."
+career_transition: "Psychology, HCI and cognitive science graduates move into this work."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-human_touch_tip: "In every AI Psychology Researcher interview, prepare one story where your judgment corrected or improved on what an AI system suggested. This demonstrates the human value you bring beyond tool proficiency."
-faq_q1: "What skills are most important for a AI Psychology Researcher in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like Python, data analysis, and familiarity with AI platforms are essential, but soft skills like critical thinking, communication, and ethical judgment differentiate top candidates."
-faq_q2: "What is the salary range for AI Psychology Researcher roles?"
-faq_a2: "Salaries range from $80,000 – $140,000 depending on experience, location, and company size. AI specialization typically commands a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I transition into AI Psychology Researcher from my current career?"
-faq_a3: "Start by identifying the overlap between your current skills and the role requirements. Complete relevant certifications, build a portfolio of AI-augmented projects, and network in professional communities. Most successful transitions take 6-18 months of deliberate preparation."
+  - "Research degree common"
+  - "Research ethics training"
+  - "HCI courses"
+human_touch_tip: "Be careful saying a system feels or wants anything."
+faq_q1: "Why do people personify?"
+faq_a1: "Language and responsiveness trigger social habits."
+faq_q2: "Is it harmful?"
+faq_a2: "It depends on context; dependence and misplaced trust are risks."
+faq_q3: "Where are jobs?"
+faq_a3: "Research labs, universities and product safety teams."
 related_roles:
-  - ai-ethics-auditor
-  - ai-governance-consultant
-  - algorithmic-bias-audit-for-managers
-description: "AI Psychology Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market."
+  - emotional-ai-ethics
+  - ai-mental-health-bot-coach
+  - ai-and-the-future-of-loneliness
+  - ai-voice-persona-designer
+description: "How to become an AI Psychology Researcher: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**First-person language changes judgment.**"
+  - "**Names and voices matter.**"
+  - "**Users may know it is software and still attach.**"
+  - "**Children differ.**"
+mistakes:
+  - "Leading questions."
+  - "Short studies only."
+  - "Ignoring vulnerable users."
+  - "Overclaiming machine inner life."
+interview_questions:
+  - "How would you measure attachment?"
+  - "Which design cues matter?"
+  - "How do you protect participants?"
+  - "What would you change in a companion app?"
+  - "Describe a study."
+action_plan:
+  - "**Week 1.** Review literature."
+  - "**Week 2.** Collect public examples."
+  - "**Week 3.** Design a small ethical study."
+  - "**Week 4.** Analyse."
+  - "**Month 2.** Write design advice."
+resources:
+  - { title: "ACM CHI", url: "https://chi.acm.org", note: "human-computer interaction" }
+  - { title: "Google People + AI Guidebook", url: "https://pair.withgoogle.com/guidebook", note: "human-centred AI patterns" }
+  - { title: "Microsoft HAX Toolkit", url: "https://www.microsoft.com/en-us/haxtoolkit/", note: "guidelines" }
+  - { title: "American Psychological Association", url: "https://www.apa.org", note: "research ethics" }
 ---
 
-## What does a AI Psychology Researcher do?
+## What the work actually looks like
 
-AI Psychology Researcher professionals combine domain expertise with AI tools to deliver measurable results in 2026's rapidly evolving job market. In 2026, this role requires both deep domain knowledge and the ability to work alongside AI systems as a collaborative partner, not just a user.
+You review research, design studies, analyse, and advise designers and policy teams.
 
-Professionals in this field spend their time designing AI-augmented workflows, validating machine outputs with human judgment, and communicating insights to stakeholders who may not have technical backgrounds. The human element — ethics, creativity, and contextual understanding — remains irreplaceable.
+## Honest language
 
-## Why this role matters in 2026
+Describe what the system does, not what it supposedly feels.
 
-Organizations are deploying AI tools faster than they can build internal expertise to manage them. AI Psychology Researcher professionals bridge the gap between AI capability and business value, ensuring that technology investments translate into real outcomes.
+## How to benchmark pay
 
-The demand for specialists who combine domain knowledge with AI literacy is outpacing supply across industries, creating significant career opportunities for those who invest in developing this hybrid skill set.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for psychologists and social scientists.

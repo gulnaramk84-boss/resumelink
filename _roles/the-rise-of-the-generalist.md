@@ -3,56 +3,91 @@ layout: role
 category: "Guides & Strategy"
 title: "AI Generalist Strategist"
 h1: "AI Generalist Strategist Resume Guide 2026"
-summary_hack: "AI Generalist Strategist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration."
-salary_range: "$85,000 – $145,000"
-salary_note: "US market rate, varies by experience and location"
+summary_hack: "A generalist connects several fields and uses AI to get up to speed quickly, while knowing when a specialist is needed."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - Domain Expertise & Strategic Thinking
-  - AI Tool Proficiency & Critical Evaluation
-  - Cross-functional Collaboration
-  - Data-Driven Decision Making
-  - Communication & Stakeholder Management
+  - "Fast learning"
+  - "Synthesis"
+  - "Problem framing"
+  - "Communication across teams"
+  - "Knowing limits"
 ai_tools:
-  - Python / R
-  - AI Productivity Platforms
-  - Data Visualization Tools
-  - Cloud AI Services (AWS/GCP/Azure)
-  - Domain-specific AI Software
+  - "LLM assistants"
+  - "Research tools"
+  - "Notes"
+  - "Spreadsheets"
+  - "Prototyping tools"
 ats_keywords:
-  - artificial intelligence
-  - machine learning
-  - data analysis
-  - AI implementation
-  - process optimization
-  - stakeholder management
-  - cross-functional collaboration
-resume_bullet_1: "Implemented AI-powered workflow reducing manual processing time by 45% across 3 business units."
-resume_bullet_2: "Led cross-functional team of 6 to deploy AI solution delivering $800K in annual cost savings."
-resume_bullet_3: "Developed AI performance metrics framework adopted organization-wide, improving decision speed by 35%."
-career_transition: "Common paths into AI Generalist Strategist: professionals from adjacent fields with analytical backgrounds, domain experts who upskill in AI tools, and career changers completing targeted AI certifications. Most transitions take 6-18 months."
+  - "generalist"
+  - "cross-functional"
+  - "problem solving"
+  - "project management"
+  - "operations"
+  - "strategy"
+  - "learning agility"
+  - "communication"
+  - "stakeholder management"
+  - "prototyping"
+resume_bullet_1: "Delivered [project] spanning [N] functions on time."
+resume_bullet_2: "Learned [area] and shipped [result] within [period]."
+resume_bullet_3: "Brought in a specialist for [risk], avoiding [problem]."
+career_transition: "Operations, startup, consulting and chief of staff roles suit generalists."
 certifications:
-  - Google AI Essentials Certificate
-  - IBM AI Engineering Professional Certificate
-  - Coursera Machine Learning Specialization
-  - Relevant industry-specific certification
-human_touch_tip: "For AI Generalist Strategist interviews, prepare a specific story where your human judgment improved upon or corrected an AI recommendation. This is your most powerful differentiator."
-faq_q1: "What are the most important skills for AI Generalist Strategist in 2026?"
-faq_a1: "The combination of domain expertise and AI tool proficiency is most valued. Technical skills like data analysis and AI platform experience are essential, but critical thinking, ethics awareness, and communication skills differentiate top candidates."
-faq_q2: "What is the salary range for AI Generalist Strategist?"
-faq_a2: "Salaries range from $85,000 – $145,000 depending on experience, location, and company size. AI specialization typically adds a 20-30% premium over traditional roles in the same domain."
-faq_q3: "How do I build a portfolio for AI Generalist Strategist roles?"
-faq_a3: "Document AI projects with measurable outcomes, contribute to open-source AI initiatives, write about your experiences on LinkedIn or Medium, and create case studies showing how you combined human judgment with AI tools to solve real problems."
+  - "No required certificate"
+  - "Project management helps"
+  - "A portfolio of varied results"
+human_touch_tip: "Name one deep strength; breadth alone is hard to hire."
+faq_q1: "Is this a job title?"
+faq_a1: "Rarely; search operations, chief of staff, product or programme roles."
+faq_q2: "Does AI make everyone expert?"
+faq_a2: "No; it helps you start and can mislead."
+faq_q3: "How to write the resume?"
+faq_a3: "Group by problems solved, not by random tasks."
 related_roles:
+  - ai-business-lead
+  - ai-project-manager
+  - ai-and-human-intuition-synergy
   - career-change-roadmap
-  - job-search-organization
-  - first-90-days-plan
-description: "AI Generalist Strategist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human..."
+description: "How to become an AI Generalist Strategist: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+partners: [ratekit]
+partner_note: "Freelancing across several services? RateKit, one of our other projects, helps you work out a minimum rate."
+insights:
+  - "**Translation between teams is valuable.**"
+  - "**Depth gives credibility.**"
+  - "**Verify in unfamiliar fields.**"
+  - "**Tell a connected story.**"
+mistakes:
+  - "A list of unrelated skills."
+  - "Claiming expertise after a week."
+  - "No measurable result."
+  - "Avoiding specialists."
+interview_questions:
+  - "How did you learn a new area?"
+  - "When did you ask an expert?"
+  - "What is your deepest skill?"
+  - "How do you prioritise across teams?"
+  - "Describe a cross-team result."
+action_plan:
+  - "**Week 1.** List problems you have solved."
+  - "**Week 2.** Choose a deep strength."
+  - "**Week 3.** Rewrite your resume around outcomes."
+  - "**Week 4.** Do one cross-field mini project."
+  - "**Month 2.** Practise your story."
+resources:
+  - { title: "O*NET", url: "https://www.onetonline.org", note: "match skills to roles" }
+  - { title: "PMI", url: "https://www.pmi.org", note: "project management body" }
+  - { title: "MIT OpenCourseWare", url: "https://ocw.mit.edu", note: "free courses" }
+  - { title: "ESCO", url: "https://esco.ec.europa.eu", note: "European skills classification" }
 ---
 
-## What does a AI Generalist Strategist do?
+## What the work actually looks like
 
-AI Generalist Strategist professionals combine domain expertise with AI tools to deliver measurable results. In 2026, this role sits at the frontier of human-AI collaboration. This role requires professionals who can harness AI capabilities while applying irreplaceable human judgment, creativity, and ethical reasoning.
+You frame problems, learn what is needed, connect people, build first versions and hand over.
 
-## Why this role is in demand in 2026
+## Breadth plus one depth
 
-Organizations across every industry are deploying AI tools faster than they can hire people to manage them effectively. AI Generalist Strategist professionals bridge the gap between AI capability and real business value, ensuring technology investments deliver measurable outcomes.
+Show one area where others rely on you, then how breadth multiplies it.
+
+## How to benchmark pay
+
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for management occupations.
