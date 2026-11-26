@@ -73,7 +73,7 @@ action_plan:
   - "**Month 2.** Present to a mock committee."
 resources:
   - { title: "Basel Committee (BIS)", url: "https://www.bis.org/bcbs/", note: "banking standards" }
-  - { title: "Federal Reserve SR 11-7: model risk", url: "https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm", note: "classic guidance, check for updates" }
+  - { title: "Federal Reserve: supervision and regulation", url: "https://www.federalreserve.gov/supervisionreg.htm", note: "search for current model risk guidance" }
   - { title: "GARP", url: "https://www.garp.org", note: "risk certification" }
   - { title: "NIST AI Risk Management Framework", url: "https://www.nist.gov/itl/ai-risk-management-framework", note: "risk language for AI work" }
 ---

@@ -3,64 +3,89 @@ layout: role
 category: "Security & Privacy"
 title: "AI Fraud Strategy Lead"
 h1: "AI Fraud Strategy Lead Resume Guide 2026"
-summary_hack: "AI Fraud Strategy Leads set the rules, models and operating model that balance fraud losses against customer friction across an organization's products."
-salary_note: "No verified salary data yet; check current job postings in your market"
+summary_hack: "An AI Fraud Strategy Lead decides how an organisation fights fraud over time: priorities, investment, tools, teams and the level of friction customers should bear."
+salary_note: "No verified salary figure here: pay depends on country, employer and seniority. See the benchmarking tips in the body."
 judgment_skills:
-  - "Fraud risk strategy"
-  - "Model and rules governance"
-  - "Loss and friction trade-offs"
-  - "Team leadership"
-  - "Regulatory awareness"
+  - "Strategy and prioritisation"
+  - "Loss economics"
+  - "Vendor evaluation"
+  - "Leadership"
+  - "Customer fairness"
 ai_tools:
-  - "Sift"
-  - "Featurespace"
-  - "SAS"
-  - "SQL"
-  - "Python"
-  - "Tableau"
+  - "Risk platforms"
+  - "Dashboards and SQL"
+  - "Vendor scorecards"
+  - "Roadmap tools"
+  - "Scenario spreadsheets"
 ats_keywords:
   - "fraud strategy"
-  - "fraud prevention"
-  - "risk management"
-  - "machine learning"
-  - "chargebacks"
+  - "risk appetite"
+  - "loss forecasting"
+  - "vendor management"
+  - "financial crime"
+  - "leadership"
+  - "roadmap"
+  - "KPI"
   - "authentication"
-  - "payments"
-resume_bullet_1: "Set a fraud strategy that cut losses by 31% while lowering false declines by 18%."
-resume_bullet_2: "Introduced champion-challenger testing for all fraud models and rules."
-resume_bullet_3: "Built and led a 12-person fraud analytics and operations team across 2 regions."
-career_transition: "Common paths: senior fraud analysts, risk managers, payments product managers and data science leads."
+  - "governance"
+resume_bullet_1: "Set a fraud risk appetite approved by leadership and tracked [N] indicators."
+resume_bullet_2: "Replaced [tool], cutting losses by [X]% and cost by [Y]%."
+resume_bullet_3: "Built a team of [N] with clear escalation and review."
+career_transition: "Fraud managers, risk leads, payments product managers and consultants grow into strategy."
 certifications:
-  - "CFE (Certified Fraud Examiner)"
+  - "CFE"
   - "CAMS"
-  - "FRM (Financial Risk Manager)"
-human_touch_tip: "Talk about the trade-off, not just the loss number. Leaders who show they protected good customers stand out."
-faq_q1: "What does a fraud strategy lead own?"
-faq_a1: "Risk appetite, detection strategy (rules and models), authentication flows, operations capacity and reporting to executives and regulators."
-faq_q2: "How do you measure fraud strategy?"
-faq_a2: "Fraud loss rate, false positive and decline rates, customer friction, operational cost and time to detect new attacks."
-faq_q3: "What experience is expected?"
-faq_a3: "Usually 7+ years in fraud or risk with people management and hands-on analytics."
+  - "Risk management certificates"
+human_touch_tip: "Show a trade-off you made openly between loss and customer experience."
+faq_q1: "How is this different from a manager role?"
+faq_a1: "Strategy sets direction and investment; managers run daily operations."
+faq_q2: "What do boards want?"
+faq_a2: "Trend, exposure, action and what is still uncovered."
+faq_q3: "Build or buy?"
+faq_a3: "Compare data access, speed, cost and exit options."
 related_roles:
   - ai-fraud-prevention-manager
   - ai-fintech-fraud-analyst
   - ai-risk-manager
-description: "AI Fraud Strategy Leads set the rules, models and operating model that balance fraud losses against customer friction across an organization's products."
+  - ai-biometric-security-lead
+description: "How to become an AI Fraud Strategy Lead: skills, ATS keywords, resume bullet templates, interview questions, a 30-day plan and trusted sources."
+insights:
+  - "**Fraud moves to the weakest channel.**"
+  - "**Reimbursement rules change the economics.**"
+  - "**Share signals across teams.**"
+  - "**Measure insult rate of good customers.**"
+mistakes:
+  - "Chasing every new tool."
+  - "One metric only."
+  - "No plan for scams where customers are tricked."
+  - "Ignoring staff burnout."
+interview_questions:
+  - "How do you set risk appetite?"
+  - "Where would you invest first?"
+  - "How do you evaluate a vendor?"
+  - "How do you handle authorised scams?"
+  - "How do you report to a board?"
+action_plan:
+  - "**Week 1.** Map fraud types and channels."
+  - "**Week 2.** Estimate loss and friction."
+  - "**Week 3.** Rank three initiatives."
+  - "**Week 4.** Draft a one-page strategy."
+  - "**Month 2.** Get critique from a practitioner."
+resources:
+  - { title: "ACFE", url: "https://www.acfe.com", note: "fraud examiners association" }
+  - { title: "FATF", url: "https://www.fatf-gafi.org", note: "anti-money-laundering standards" }
+  - { title: "UK Finance: fraud", url: "https://www.ukfinance.org.uk", note: "industry reporting" }
+  - { title: "CFPB", url: "https://www.consumerfinance.gov", note: "consumer protection" }
 ---
 
-## What does an AI Fraud Strategy Lead do?
+## What the work actually looks like
 
-AI Fraud Strategy Leads set the rules, models and operating model that balance fraud losses against customer friction across an organization's products.
+You set priorities, secure budget, choose tools, align product, support and legal teams and review results.
 
-## A typical week
+## A one-page strategy
 
-- Reviewing loss and decline dashboards
-- Approving model and rule changes
-- Coordinating with product on new launches
-- Briefing leadership on emerging attack patterns
+Top threats, appetite, three initiatives, owners, measures and what you accept not covering.
 
-## How to show this role on your resume
+## How to benchmark pay
 
-Show both sides: losses reduced and friction reduced. Mention team size and budgets.
-
-The resume bullets on this page are illustrative examples. Replace the numbers with your own verified results.
+Compare current postings for similar titles in your market. For the United States, see the [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/) for financial managers.
